@@ -4,8 +4,8 @@
   <h1>Emerging OSINT Projects</h1>
   <p>A watchlist of early-stage open-source OSINT tools and supporting technologies.</p>
   <p>
-    <a href="#projects"><img alt="Emerging projects: 109" src="https://img.shields.io/badge/emerging_projects-109-bf8700?style=flat-square"></a>
-    <img alt="Last update: 2026-09-14" src="https://img.shields.io/badge/last_update-2026--09--14-1f883d?style=flat-square">
+    <a href="#projects"><img alt="Emerging projects: 110" src="https://img.shields.io/badge/emerging_projects-110-bf8700?style=flat-square"></a>
+    <img alt="Last update: 2026-09-21" src="https://img.shields.io/badge/last_update-2026--09--21-1f883d?style=flat-square">
   </p>
   <p><a href="README.md">Awesome OSINT Repositories</a> · <strong><a href="EMERGING.md">Emerging Projects</a></strong> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -20,7 +20,7 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 
 <a id="projects"></a>
 
-## Projects <sup>109 projects</sup>
+## Projects <sup>110 projects</sup>
 
 | Project | Target Input | Categories | Description | Created | Last Update | Stars |
 |:---|:---|:---:|:---|:---:|:---:|---:|
@@ -106,6 +106,7 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 | [Locus](https://github.com/alpkeskin/locus) | Location; Coordinates; Image | Geolocation | Estimates GPS coordinates from street-level photographs. | 2025-11-22 | 2025-12-01 | ⭐ 33 |
 | [European Parliament MCP](https://github.com/Hack23/European-Parliament-MCP-Server) | Name; Document | Documents & Records | Provides agent access to European Parliament members, committees, votes, documents, and questions. | 2026-02-16 | 2026-09-14 | ⭐ 28 |
 | [OpenTrace](https://github.com/Gacut/OpenTrace) | Name; URL; Document; Image | Investigation | Offline desktop workspace for structuring OSINT cases with evidence, relationships, hypotheses, provenance details, and portable exports. | 2026-07-23 | 2026-08-06 | ⭐ 26 |
+| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Jev Social](https://github.com/socai-io/jev-social) | Keyword; URL | Social Media | Uses Jev to select typed Instagram, TikTok, and LinkedIn research operations, executes them through a local-browser CLI, and produces evidence-linked reports. | 2026-09-18 | 2026-09-20 | ⭐ 21 |
 | [Sicry](https://github.com/JacobJandon/Sicry) | Onion Service | Dark Web | Checks Tor health, rotates identity, searches onion engines, fetches known services, and exposes optional agent-assisted analysis. | 2026-03-14 | 2026-05-28 | ⭐ 19 |
 | [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | Username; Video | Social Media | Exposes YouTube videos, channels, search results, comments, and transcripts through MCP. | 2025-03-31 | 2026-07-17 | ⭐ 19 |
 | [Abster Intelligence](https://github.com/frangelbarrera/Abster-Intelligence) | Name; Organization Name; Event Data | Investigation | Provides a local-first workspace for evidence, relationship graphs, timelines, OSINT lookups, and reports. | 2026-04-10 | 2026-09-09 | ⭐ 18 |
@@ -136,4 +137,4 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 
 <p align="right"><a href="#top">Back to top ↑</a></p>
 
-[Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>
+[Complete repository database (CSV)](osint-repositories.csv) <sup>494 unique repositories</sup>

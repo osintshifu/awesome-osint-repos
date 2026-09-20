@@ -4,10 +4,10 @@
   <h1>Agentic AI OSINT</h1>
   <p>Open-source skills, plugins, MCP servers, and AI-agent integrations for investigative work.</p>
   <p>
-    <img alt="Total projects: 136" src="https://img.shields.io/badge/total_projects-136-bf8700?style=flat-square">
+    <img alt="Total projects: 137" src="https://img.shields.io/badge/total_projects-137-bf8700?style=flat-square">
     <img alt="MCP integrations: 64" src="https://img.shields.io/badge/MCP_integrations-64-0969da?style=flat-square">
     <img alt="Skill integrations: 55" src="https://img.shields.io/badge/skill_integrations-55-8250df?style=flat-square">
-    <img alt="Last update: 2026-09-14" src="https://img.shields.io/badge/last_update-2026--09--14-1f883d?style=flat-square">
+    <img alt="Last update: 2026-09-21" src="https://img.shields.io/badge/last_update-2026--09--21-1f883d?style=flat-square">
   </p>
   <p><a href="README.md">Awesome OSINT Repositories</a> · <a href="EMERGING.md">Emerging Projects</a> · <strong><a href="AGENTIC.md">Agentic AI OSINT</a></strong> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -31,7 +31,7 @@ This view contains implementation-bearing repositories that expose investigative
 ## Contents
 
 - [Identity](#identity) <sup>5 projects</sup>
-- [Social Media](#social-media) <sup>12 projects</sup>
+- [Social Media](#social-media) <sup>13 projects</sup>
 - [Infrastructure](#infrastructure) <sup>25 projects</sup>
 - [Web](#web) <sup>35 projects</sup>
 - [Dark Web](#dark-web) <sup>3 projects</sup>
@@ -40,7 +40,7 @@ This view contains implementation-bearing repositories that expose investigative
 - [Geolocation](#geolocation) <sup>6 projects</sup>
 - [Investigation](#investigation) <sup>17 projects</sup>
 - [Catalogue timeline](TIMELINE.md)
-- [Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>
+- [Complete repository database (CSV)](osint-repositories.csv) <sup>494 unique repositories</sup>
 
 ---
 
@@ -62,7 +62,7 @@ Tools centered on people, names, contact identifiers, and identity resolution.
 
 <a id="social-media"></a>
 
-## 💬 Social Media <sup>12 projects</sup>
+## 💬 Social Media <sup>13 projects</sup>
 
 Tools for discovering and analyzing public accounts and content on social platforms.
 
@@ -73,6 +73,7 @@ Tools for discovering and analyzing public accounts and content on social platfo
 | [MCP Maigret](https://github.com/w0h1v/mcp-maigret) | Username | Any MCP-compatible agent | Exposes Maigret username searches and public account discovery through MCP. | 2024-12-13 | 2026-01-27 | ⭐ 264 |
 | [xint](https://github.com/0xNyk/xint) | Username | Multiple / configurable agents | Searches, monitors, and exports public X data for agent-assisted investigations. | 2026-02-14 | 2026-08-28 | ⭐ 256 |
 | [Reddit Research MCP](https://github.com/dialog-tools/reddit-research-mcp) | Username; URL | Any MCP-compatible agent | Supports structured Reddit discovery, thread collection, and community research. | 2025-08-12 | 2026-09-08 | ⭐ 240 |
+| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Jev Social](https://github.com/socai-io/jev-social) | Keyword; URL | Jev | Uses Jev to select typed Instagram, TikTok, and LinkedIn research operations, executes them through a local-browser CLI, and produces evidence-linked reports. | 2026-09-18 | 2026-09-20 | ⭐ 21 |
 | [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | Username; Video | Any MCP-compatible agent | Exposes YouTube videos, channels, search results, comments, and transcripts through MCP. | 2025-03-31 | 2026-07-17 | ⭐ 19 |
 | [Telegram MCP TDLib](https://github.com/tolboy/telegram-mcp-tdlib) | Username | Any MCP-compatible agent | Exposes Telegram searches, chats, messages, and public content to MCP clients through TDLib. | 2026-07-04 | 2026-08-22 | ⭐ 7 |
 | [OSINT Social](https://github.com/guleguleguru/osint-social) | Username | OpenClaw | Wraps broad username discovery with additional coverage for major Chinese platforms. | 2026-02-28 | 2026-02-28 | ⭐ 1 |
