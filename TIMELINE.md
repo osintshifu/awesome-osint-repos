@@ -4,9 +4,9 @@
   <h1>Awesome OSINT Repositories Timeline</h1>
   <p>A visual chronology of tools added to the catalogue, newest first.</p>
   <p>
-    <img alt="Dated additions: 200" src="https://img.shields.io/badge/dated_additions-200-0969da?style=flat-square">
-    <img alt="Catalogue projects: 493" src="https://img.shields.io/badge/catalogue_projects-493-8250df?style=flat-square">
-    <img alt="Last update: 2026-09-21" src="https://img.shields.io/badge/last_update-2026--09--21-1f883d?style=flat-square">
+    <img alt="Dated additions: 201" src="https://img.shields.io/badge/dated_additions-201-0969da?style=flat-square">
+    <img alt="Catalogue projects: 494" src="https://img.shields.io/badge/catalogue_projects-494-8250df?style=flat-square">
+    <img alt="Last update: 2026-09-27" src="https://img.shields.io/badge/last_update-2026--09--27-1f883d?style=flat-square">
   </p>
   <p><strong><a href="TIMELINE.md">Catalogue Timeline</a></strong> · <a href="README.md">Awesome OSINT Repositories</a> · <a href="EMERGING.md">Emerging Projects</a> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -24,6 +24,16 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td align="right" valign="middle"><strong>2026-09-27</strong><br><sub>1 project</sub></td>
+      <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
+      <td valign="middle">
+        <strong><a href="https://github.com/socai-io/socai">socai</a></strong><br>
+        Reuses a signed-in Chrome session to search and inspect accessible posts, profiles, comments, replies, and media across multiple social platforms.<br>
+        <sub>Target Input: Keyword; URL · Category: Social Media</sub>
+      </td>
+      <td align="right" valign="top"><strong>⭐&nbsp;217</strong></td>
+    </tr>
     <tr>
       <td align="right" valign="middle"><strong>2026-09-08</strong><br><sub>6 projects</sub></td>
       <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
