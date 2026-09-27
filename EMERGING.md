@@ -5,7 +5,7 @@
   <p>A watchlist of early-stage open-source OSINT tools and supporting technologies.</p>
   <p>
     <a href="#projects"><img alt="Emerging projects: 109" src="https://img.shields.io/badge/emerging_projects-109-bf8700?style=flat-square"></a>
-    <img alt="Last update: 2026-09-21" src="https://img.shields.io/badge/last_update-2026--09--21-1f883d?style=flat-square">
+    <img alt="Last update: 2026-09-27" src="https://img.shields.io/badge/last_update-2026--09--27-1f883d?style=flat-square">
   </p>
   <p><a href="README.md">Awesome OSINT Repositories</a> · <strong><a href="EMERGING.md">Emerging Projects</a></strong> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -83,7 +83,7 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 | [netscout](https://github.com/caio-ishikawa/netscout) | Domain; URL | Infrastructure | Crawls from a seed URL to find domains, paths, endpoints, and files. | 2024-03-28 | 2024-04-05 | ⭐ 183 |
 | [WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) | Domain; URL | Web | Collects and presents public DNS, TLS, headers, hosting, network, technology, security, and performance data for a website. | 2025-12-14 | 2026-09-21 | ⭐ 171 |
 | [ExifTool Web](https://github.com/lucasgelfond/exiftool-web) | Image | Media | Runs ExifTool metadata inspection in a browser through WebAssembly. | 2025-02-22 | 2026-01-10 | ⭐ 157 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [abx-dl](https://github.com/ArchiveBox/abx-dl) | URL | Web | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-09-21 | ⭐ 144 |
+| [abx-dl](https://github.com/ArchiveBox/abx-dl) | URL | Web | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-09-21 | ⭐ 144 |
 | [Telespot](https://github.com/thumpersecure/Telespot) | Phone Number | Identity | Searches phone-number variations across public engines and correlates identity clues. | 2025-12-28 | 2026-09-01 | ⭐ 139 |
 | [Data Commons Agent Toolkit](https://github.com/datacommonsorg/agent-toolkit) | Dataset | Documents & Records | Connects agents and MCP clients to the public Data Commons knowledge graph. | 2025-06-26 | 2026-09-15 | ⭐ 139 |
 | [IntelHub](https://github.com/tomsec8/IntelHub) | URL; Image | Media | Adds local browser tools for metadata, archives, dorking, and OSINT lookups. | 2025-05-15 | 2026-07-09 | ⭐ 121 |
@@ -92,8 +92,8 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 | [OWASP Social OSINT Agent](https://github.com/bm-github/owasp-social-osint-agent) | Username | Social Media | Collects public social activity and uses configurable language models to produce analytical reports. | 2025-10-07 | 2026-04-25 | ⭐ 101 |
 | [Telespotter](https://github.com/thumpersecure/Telespotter) | Phone Number | Identity | Searches phone numbers across public engines and people-search sources in a Rust CLI. | 2026-01-02 | 2026-09-01 | ⭐ 79 |
 | [IntellyWeave](https://github.com/vericle/intellyweave) | URL; Location; Document | Geolocation | Combines archive discovery, entity extraction, maps, graphs, and document analysis. | 2025-12-12 | 2026-01-12 | ⭐ 76 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [kronikier](https://github.com/soxoj/kronikier) | Domain; URL | Web | Extracts historical email addresses and phone numbers from Wayback Machine snapshots, with first and last sightings. | 2026-05-29 | 2026-06-13 | ⭐ 64 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Dark Light Viewer](https://github.com/bendobrown/Dark-Light-Viewer) | Location; Coordinates | Geolocation | Compares VIIRS nighttime light imagery across time in Google Earth Engine and exports detected changes as GeoJSON. | 2026-03-03 | 2026-03-03 | ⭐ 56 |
+| [kronikier](https://github.com/soxoj/kronikier) | Domain; URL | Web | Extracts historical email addresses and phone numbers from Wayback Machine snapshots, with first and last sightings. | 2026-05-29 | 2026-06-13 | ⭐ 64 |
+| [Dark Light Viewer](https://github.com/bendobrown/Dark-Light-Viewer) | Location; Coordinates | Geolocation | Compares VIIRS nighttime light imagery across time in Google Earth Engine and exports detected changes as GeoJSON. | 2026-03-03 | 2026-03-03 | ⭐ 56 |
 | [Huntkit](https://github.com/assafkip/huntkit) | Name; Organization Name; Event Data | Investigation | Organizes cases, targets, findings, timelines, evidence hashes, and chain-of-custody records. | 2026-04-15 | 2026-09-10 | ⭐ 52 |
 | [LinkedIn OSINT Toolkit](https://github.com/michaelelizarov/linkedin-osint-toolkit) | Name; Organization Name | Social Media | Discovers companies and employees, classifies roles, and builds organization views. | 2026-02-16 | 2026-02-16 | ⭐ 51 |
 | [OSINT-NEXUS](https://github.com/Muhib-Mehdi/OSINT-NEXUS) | Name; Organization Name | Investigation | Combines multi-target collection, entity correlation, graphs, and reporting in a desktop application. | 2025-12-30 | 2026-08-15 | ⭐ 44 |
@@ -136,4 +136,4 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 
 <p align="right"><a href="#top">Back to top ↑</a></p>
 
-[Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>
+[Complete repository database (CSV)](osint-repositories.csv) <sup>494 unique repositories</sup>

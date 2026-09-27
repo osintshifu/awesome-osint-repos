@@ -4,10 +4,10 @@
   <h1>Agentic AI OSINT</h1>
   <p>Open-source skills, plugins, MCP servers, and AI-agent integrations for investigative work.</p>
   <p>
-    <img alt="Total projects: 136" src="https://img.shields.io/badge/total_projects-136-bf8700?style=flat-square">
+    <img alt="Total projects: 137" src="https://img.shields.io/badge/total_projects-137-bf8700?style=flat-square">
     <img alt="MCP integrations: 64" src="https://img.shields.io/badge/MCP_integrations-64-0969da?style=flat-square">
     <img alt="Skill integrations: 55" src="https://img.shields.io/badge/skill_integrations-55-8250df?style=flat-square">
-    <img alt="Last update: 2026-09-21" src="https://img.shields.io/badge/last_update-2026--09--21-1f883d?style=flat-square">
+    <img alt="Last update: 2026-09-27" src="https://img.shields.io/badge/last_update-2026--09--27-1f883d?style=flat-square">
   </p>
   <p><a href="README.md">Awesome OSINT Repositories</a> · <a href="EMERGING.md">Emerging Projects</a> · <strong><a href="AGENTIC.md">Agentic AI OSINT</a></strong> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -31,7 +31,7 @@ This view contains implementation-bearing repositories that expose investigative
 ## Contents
 
 - [Identity](#identity) <sup>5 projects</sup>
-- [Social Media](#social-media) <sup>12 projects</sup>
+- [Social Media](#social-media) <sup>13 projects</sup>
 - [Infrastructure](#infrastructure) <sup>25 projects</sup>
 - [Web](#web) <sup>35 projects</sup>
 - [Dark Web](#dark-web) <sup>3 projects</sup>
@@ -40,7 +40,7 @@ This view contains implementation-bearing repositories that expose investigative
 - [Geolocation](#geolocation) <sup>6 projects</sup>
 - [Investigation](#investigation) <sup>17 projects</sup>
 - [Catalogue timeline](TIMELINE.md)
-- [Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>
+- [Complete repository database (CSV)](osint-repositories.csv) <sup>494 unique repositories</sup>
 
 ---
 
@@ -62,7 +62,7 @@ Tools centered on people, names, contact identifiers, and identity resolution.
 
 <a id="social-media"></a>
 
-## 💬 Social Media <sup>12 projects</sup>
+## 💬 Social Media <sup>13 projects</sup>
 
 Tools for discovering and analyzing public accounts and content on social platforms.
 
@@ -73,6 +73,7 @@ Tools for discovering and analyzing public accounts and content on social platfo
 | [MCP Maigret](https://github.com/w0h1v/mcp-maigret) | Username | Any MCP-compatible agent | Exposes Maigret username searches and public account discovery through MCP. | 2024-12-13 | 2026-01-27 | ⭐ 263 |
 | [xint](https://github.com/0xNyk/xint) | Username | Multiple / configurable agents | Searches, monitors, and exports public X data for agent-assisted investigations. | 2026-02-14 | 2026-08-28 | ⭐ 255 |
 | [Reddit Research MCP](https://github.com/dialog-tools/reddit-research-mcp) | Username; URL | Any MCP-compatible agent | Supports structured Reddit discovery, thread collection, and community research. | 2025-08-12 | 2026-09-08 | ⭐ 246 |
+| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [socai](https://github.com/socai-io/socai) | Keyword; URL | Claude Code; OpenAI Codex | Reuses a signed-in Chrome session to search and inspect accessible posts, profiles, comments, replies, and media across multiple social platforms. | 2026-05-02 | 2026-09-26 | ⭐ 217 |
 | [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | Username; Video | Any MCP-compatible agent | Exposes YouTube videos, channels, search results, comments, and transcripts through MCP. | 2025-03-31 | 2026-07-17 | ⭐ 21 |
 | [Telegram MCP TDLib](https://github.com/tolboy/telegram-mcp-tdlib) | Username | Any MCP-compatible agent | Exposes Telegram searches, chats, messages, and public content to MCP clients through TDLib. | 2026-07-04 | 2026-09-15 | ⭐ 8 |
 | [OSINT Social](https://github.com/guleguleguru/osint-social) | Username | OpenClaw | Wraps broad username discovery with additional coverage for major Chinese platforms. | 2026-02-28 | 2026-02-28 | ⭐ 1 |
@@ -150,7 +151,7 @@ Tools that collect, search, analyze, crawl, or preserve public web content.
 | [MCP Omnisearch](https://github.com/spences10/mcp-omnisearch) | URL | Any MCP-compatible agent | Combines multiple search, AI search, and content-processing providers behind MCP. | 2025-03-08 | 2026-09-20 | ⭐ 351 |
 | [Google Research MCP](https://github.com/mixelpixx/Nimrod) | URL | Any MCP-compatible agent | Uses Google Search and browser automation for multi-step cited research. | 2024-12-19 | 2026-08-14 | ⭐ 256 |
 | [Octagon MCP Server](https://github.com/OctagonAI/octagon-mcp-server) | URL | Any MCP-compatible agent | Provides public company, market, investor, private-market, and crypto research data. | 2025-03-12 | 2026-07-09 | ⭐ 147 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [abx-dl](https://github.com/ArchiveBox/abx-dl) | URL | Agent Skills-compatible coding agents | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-09-21 | ⭐ 144 |
+| [abx-dl](https://github.com/ArchiveBox/abx-dl) | URL | Agent Skills-compatible coding agents | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-09-21 | ⭐ 144 |
 | [RivalSearch MCP](https://github.com/damionrashford/RivalSearchMCP) | URL | Any MCP-compatible agent | Unifies web, social, news, academic, and entity-search sources behind MCP. | 2025-08-03 | 2026-05-31 | ⭐ 131 |
 | [Deep Research MCP](https://github.com/pminervini/deep-research-mcp) | URL | Multiple / configurable agents | Connects several deep-research agents and model providers through one MCP interface. | 2025-08-07 | 2026-08-05 | ⭐ 109 |
 | [Deep Web Research MCP](https://github.com/qpd-v/mcp-DEEPwebresearch) | URL | Any MCP-compatible agent | Coordinates recursive web search and page analysis for deeper topic coverage. | 2025-01-13 | 2025-03-05 | ⭐ 86 |
