@@ -11,7 +11,6 @@ concurrency:
 
 permissions:
   contents: write
-  issues: write
 
 jobs:
   refresh:
@@ -39,7 +38,6 @@ jobs:
             --delay 0.1
           python .catalog/scripts/render_catalog.py --write
           python .catalog/scripts/validate_catalog.py
-          python .catalog/scripts/market_report.py --output "$RUNNER_TEMP/market-watch.md"
 
       - name: Verify catalogue gates
         run: |
@@ -81,15 +79,3 @@ jobs:
           remote_sha=$(git ls-remote origin refs/heads/main | awk 'NR == 1 { print $1 }')
           test "$local_sha" = "$remote_sha"
           echo "Commit: $local_sha" >> "$GITHUB_STEP_SUMMARY"
-
-      - name: Create or update weekly market-watch issue
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          title="Awesome OSINT Repositories - $(date -u +%G-W%V)"
-          issue=$(gh issue list --state open --search "$title in:title" --json number,title --jq ".[] | select(.title == \"$title\") | .number" | head -n 1)
-          if [ -z "$issue" ]; then
-            gh issue create --title "$title" --body-file "$RUNNER_TEMP/market-watch.md"
-          else
-            gh issue edit "$issue" --body-file "$RUNNER_TEMP/market-watch.md"
-          fi
