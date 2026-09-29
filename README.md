@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Awesome OSINT Repositories <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a></h1>
-  <p>A catalogue of open-source OSINT tools organized into 12 clear categories and concrete input types.</p>
+  <p>A hand-reviewed catalogue of open-source OSINT tools, MCP servers, and agent skills, browsable by category or by the data you start with.</p>
   <p>
     <a href="EMERGING.md"><img alt="Emerging projects: 109" src="https://img.shields.io/badge/emerging-109-bf8700?style=flat-square"></a>
     <a href="#social-media"><img alt="Social Media projects: 72" src="https://img.shields.io/badge/social_media-72-8250df?style=flat-square"></a>

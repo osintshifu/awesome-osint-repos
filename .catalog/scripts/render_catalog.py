@@ -168,7 +168,10 @@ def render_readme(
         "",
         '<div align="center">',
         '  <h1>Awesome OSINT Repositories <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a></h1>',
-        "  <p>A catalogue of open-source OSINT tools organized into 12 clear categories and concrete input types.</p>",
+        (
+            "  <p>A hand-reviewed catalogue of open-source OSINT tools, MCP servers, and agent skills, "
+            "browsable by category or by the data you start with.</p>"
+        ),
         "  <p>",
         f'    {badge("Emerging projects", "emerging", emerging_count, "bf8700", "EMERGING.md")}',
         f'    {badge("Social Media projects", "social_media", counts["Social Media"], "8250df", "#social-media")}',
