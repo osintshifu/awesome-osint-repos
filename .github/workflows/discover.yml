@@ -1,6 +1,8 @@
 name: Discover and publish Awesome OSINT Repositories candidates
 
 on:
+  schedule:
+    - cron: "0 1 * * 4"
   workflow_dispatch:
 
 concurrency:

@@ -107,6 +107,8 @@ Persist newly found candidates:
 GITHUB_TOKEN=github_token python3 .catalog/scripts/discover_candidates.py --write --lookback-days 14 --report discovery-report.md
 ```
 
+New candidates scoring below 4 are discarded, and at most 50 of the highest-scoring are kept. Adjust these limits with `--min-score` and `--max-candidates`.
+
 The scheduled workflow uses strict mode. A failed source leaves the candidate
 CSV unchanged and prevents publication:
 
@@ -193,7 +195,7 @@ Edit `.catalog/data/sources.csv` to add, disable, or narrow a query. A new provi
 
 - `validate.yml` checks Python syntax, generated Markdown drift, CSV integrity, links between local files, duplicate repositories, table schemas, the 12-category taxonomy, and allowed target inputs on every push and pull request.
 - `refresh.yml` runs weekly, refreshes GitHub metadata, appends a snapshot, and regenerates all catalogue tables. It commits the refreshed data files directly to `main` after the same renderer, CSV, whitespace, and allowlist gates the candidate workflow uses, so published metadata never waits on an unmerged review branch.
-- `discover.yml` runs once a day. It preserves only `Review Status: review` records from the legacy candidate branch when present, scans configured sources, and directly commits only `.catalog/data/candidates.csv` to `main` after strict source, renderer, CSV, whitespace, and allowlist gates. Historical accepted or rejected records are not imported. Every discovery remains at `Review Status: review`; `review_candidate.py` remains the only acceptance or rejection path.
+- `discover.yml` runs weekly and keeps only the highest-scoring new candidates. It preserves only `Review Status: review` records from the legacy candidate branch when present, scans configured sources, and directly commits only `.catalog/data/candidates.csv` to `main` after strict source, renderer, CSV, whitespace, and allowlist gates. Historical accepted or rejected records are not imported. Every discovery remains at `Review Status: review`; `review_candidate.py` remains the only acceptance or rejection path.
 
 Scheduled workflows use the repository-provided `GITHUB_TOKEN`. Both scheduled workflows require Actions write permission but no OpenAI key, personal token, custom secret, pull-request creation, or force push. GitHub may disable scheduled workflows in inactive public repositories, so the manual `workflow_dispatch` trigger remains available.
 

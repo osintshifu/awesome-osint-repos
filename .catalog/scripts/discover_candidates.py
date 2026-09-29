@@ -497,13 +497,20 @@ def merge_seed_candidates(
     return merged
 
 
-def report_text(new_rows: list[dict[str, str]], errors: list[str], since: str) -> str:
+def shortlist_candidates(rows: list[dict[str, str]], min_score: int, limit: int) -> list[dict[str, str]]:
+    eligible = [row for row in rows if int(row["Score"] or 0) >= min_score]
+    eligible.sort(key=lambda row: (int(row["Score"] or 0), row["Last Update"]), reverse=True)
+    return eligible[:limit]
+
+
+def report_text(new_rows: list[dict[str, str]], errors: list[str], since: str, filtered_out: int = 0) -> str:
     lines = [
         "# Awesome OSINT Repositories Candidate Discovery",
         "",
         f"- Scan date: {date.today().isoformat()}",
         f"- Window start: {since}",
         f"- New candidates: {len(new_rows)}",
+        f"- Filtered out: {filtered_out}",
         f"- Source errors: {len(errors)}",
         "",
     ]
@@ -541,6 +548,8 @@ def main() -> int:
     parser.add_argument("--lookback-days", type=int, default=14)
     parser.add_argument("--since", help="Override the discovery window start with YYYY-MM-DD")
     parser.add_argument("--max-per-source", type=int, default=100)
+    parser.add_argument("--min-score", type=int, default=4, help="Discard new candidates scoring below this value")
+    parser.add_argument("--max-candidates", type=int, default=50, help="Keep only the highest-scoring new candidates")
     parser.add_argument("--provider", action="append", default=[], help="Limit providers")
     parser.add_argument("--source", action="append", default=[], help="Limit exact configured source names")
     parser.add_argument("--seed-candidates", type=Path, help="Merge candidates from an existing review branch")
@@ -643,19 +652,23 @@ def main() -> int:
             added += 1
         print(f"[{index}/{len(sources)}] {source['Name']}: found={len(items)} new={added}")
 
+    found = len(new_rows)
+    new_rows = shortlist_candidates(new_rows, args.min_score, args.max_candidates)
+    filtered_out = found - len(new_rows)
     all_candidates = existing_candidates + new_rows
     all_candidates.sort(key=lambda row: (row["Review Status"], -int(row["Score"] or 0), row["Project"].casefold()))
-    report = report_text(new_rows, errors, since)
+    report = report_text(new_rows, errors, since, filtered_out)
     if args.report:
         args.report.write_text(report, encoding="utf-8")
     else:
         print(report)
+    summary = f"sources={len(sources)} new_candidates={len(new_rows)} filtered_out={filtered_out} errors={len(errors)}"
     if errors and args.fail_on_source_error:
-        print(f"sources={len(sources)} new_candidates={len(new_rows)} errors={len(errors)}")
+        print(summary)
         return 1
     if args.write:
         write_csv(CANDIDATE_PATH, fields or CANDIDATE_FIELDS, all_candidates)
-    print(f"sources={len(sources)} new_candidates={len(new_rows)} errors={len(errors)}")
+    print(summary)
     return 1 if errors and not new_rows else 0
 
 

@@ -33,6 +33,18 @@ class StrictDiscoveryTests(unittest.TestCase):
             ],
         )
 
+    def test_shortlist_drops_low_scores_and_keeps_the_highest(self) -> None:
+        rows = [
+            {"Repository": "low", "Score": "3", "Last Update": "2026-09-29"},
+            {"Repository": "mid-old", "Score": "8", "Last Update": "2026-08-01"},
+            {"Repository": "top", "Score": "11", "Last Update": "2026-09-01"},
+            {"Repository": "mid-new", "Score": "8", "Last Update": "2026-09-20"},
+        ]
+
+        shortlist = discovery.shortlist_candidates(rows, min_score=4, limit=2)
+
+        self.assertEqual([row["Repository"] for row in shortlist], ["top", "mid-new"])
+
     def test_strict_source_error_returns_one_without_writing_candidates(self) -> None:
         source = {"Name": "Broken", "Provider": "Unsupported", "Enabled": "true"}
         with (
