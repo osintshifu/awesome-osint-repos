@@ -1,0 +1,32 @@
+name: Report a correction
+description: Report an archived, moved, or inaccurately described project.
+title: "Correct "
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository URL
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - "Archived or deleted"
+        - "Moved or renamed"
+        - "No longer maintained"
+        - "Description is inaccurate"
+        - "Wrong category"
+        - "Wrong target input"
+        - "Other"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Correction
+      description: What should change, with a link to evidence where possible.
+    validations:
+      required: true

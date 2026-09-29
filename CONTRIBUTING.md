@@ -15,20 +15,13 @@ Link collections, product landing pages, prompt stubs, exact duplicates, and mir
 
 ## Suggest a project
 
-Open an [issue](https://github.com/osintshifu/awesome-osint-repos/issues/new) titled `Add Project Name` and include:
-
-- the repository URL;
-- a one-sentence description of what the tool does;
-- the data it works with, for example `Username`, `Domain`, or `IP Address`;
-- the category that fits best, chosen from the sections in the [catalogue](README.md#contents);
-- for a skill, plugin, or MCP server, the AI agent it targets;
-- your relationship to the project, if you are its author or a contributor.
+Use the [project suggestion form](https://github.com/osintshifu/awesome-osint-repos/issues/new?template=add-project.yml).
 
 Every suggestion is checked against the criteria above before it is added.
 
 ## Report a correction
 
-To report an archived, moved, or misdescribed project, open an issue with the repository URL and the correction.
+To report an archived, moved, or misdescribed project, use the [correction form](https://github.com/osintshifu/awesome-osint-repos/issues/new?template=report-correction.yml).
 
 ## Pull requests
 
