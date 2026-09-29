@@ -3,7 +3,6 @@ name: Discover and publish Awesome OSINT Repositories candidates
 on:
   schedule:
     - cron: "0 1 * * *"
-    - cron: "0 2 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -27,26 +26,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Decide whether to run
-        id: schedule
-        env:
-          EVENT_NAME: ${{ github.event_name }}
-        run: |
-          if [ "$EVENT_NAME" = "workflow_dispatch" ] || [ "$(TZ=Europe/Warsaw date +%H)" = "03" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Skipped: not 03:00 Europe/Warsaw." >> "$GITHUB_STEP_SUMMARY"
-          fi
-
       - name: Fetch current main
-        if: steps.schedule.outputs.run == 'true'
         run: |
           git fetch origin main
           git checkout --detach origin/main
 
       - name: Preserve legacy candidate queue
-        if: steps.schedule.outputs.run == 'true'
         run: |
           branch="automation/catalog-candidates"
           if git ls-remote --exit-code origin "refs/heads/$branch" >/dev/null; then
@@ -55,7 +40,6 @@ jobs:
           fi
 
       - name: Scan configured public sources
-        if: steps.schedule.outputs.run == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -84,7 +68,6 @@ jobs:
             --allow .catalog/data/candidates.csv
 
       - name: Commit and publish candidate queue
-        if: steps.schedule.outputs.run == 'true'
         run: |
           set -euo pipefail
           if git diff --quiet -- .catalog/data/candidates.csv; then
