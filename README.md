@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="center">
-  <h1>Awesome OSINT Repositories</h1>
+  <h1>Awesome OSINT Repositories <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a></h1>
   <p>A catalogue of open-source OSINT tools organized into 12 clear categories and concrete input types.</p>
   <p>
     <a href="EMERGING.md"><img alt="Emerging projects: 109" src="https://img.shields.io/badge/emerging-109-bf8700?style=flat-square"></a>
@@ -13,30 +13,9 @@
   <p><strong><a href="README.md">Awesome OSINT Repositories</a></strong> · <a href="EMERGING.md">Emerging Projects</a> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
 
-## About this catalogue
+<a id="contents"></a>
 
-Awesome OSINT Repositories is a repository-first catalogue of open-source investigative software. Every record represents a public source-code repository containing an identifiable tool or integration with a practical OSINT use case.
-
-Each project has exactly one value in `Categories`. `Target Input` contains only concrete data accepted or investigated by the tool, such as `Username`, `Domain`, `IP Address`, `URL`, `File Hash`, or `Onion Service`. A project may have multiple target inputs.
-
-`Emerging Projects` and `Agentic AI OSINT` are additional generated views selected through `Source Files`; they are not category values.
-
-| File | What it contains |
-|---|---|
-| [`README.md`](README.md) | Main catalogue with one section for each of the 12 categories. |
-| [`EMERGING.md`](EMERGING.md) | Early-stage tools and projects worth monitoring. |
-| [`AGENTIC.md`](AGENTIC.md) | Skills, plugins, MCP servers, and AI-agent integrations grouped by main category. |
-| [`TIMELINE.md`](TIMELINE.md) | Visual chronology of catalogue additions with descriptions, categories, and current star counts. |
-| [`osint-repositories.csv`](osint-repositories.csv) | Canonical repository database in CSV format with all accepted records and current metadata. |
-
-> [!IMPORTANT]
-> Only implementation-bearing repositories with publicly accessible source code are included. Closed-source services, link collections, courses, articles, prompt-only lists, datasets without an implemented tool, and repository stubs are excluded.
-
-> <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> marks projects added to the catalogue within the last 14 days.
-
-<a id="table-of-contents"></a>
-
-## Table of contents
+## Contents
 
 - [Identity](#identity) <sup>34 projects</sup>
 - [Social Media](#social-media) <sup>72 projects</sup>
@@ -66,6 +45,28 @@ Each project has exactly one value in `Categories`. `Target Input` contains only
 - [Agentic AI OSINT](AGENTIC.md) <sup>136 projects</sup>
 - [Catalogue timeline](TIMELINE.md)
 - [Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>
+
+## About this catalogue
+
+Awesome OSINT Repositories is a repository-first catalogue of open-source investigative software. Every record represents a public source-code repository containing an identifiable tool or integration with a practical OSINT use case.
+
+Each project has exactly one value in `Categories`. `Target Input` contains only concrete data accepted or investigated by the tool, such as `Username`, `Domain`, `IP Address`, `URL`, `File Hash`, or `Onion Service`. A project may have multiple target inputs.
+
+`Emerging Projects` and `Agentic AI OSINT` are additional generated views selected through `Source Files`; they are not category values.
+
+| File | What it contains |
+|---|---|
+| [`README.md`](README.md) | Main catalogue with one section for each of the 12 categories. |
+| [`EMERGING.md`](EMERGING.md) | Early-stage tools and projects worth monitoring. |
+| [`AGENTIC.md`](AGENTIC.md) | Skills, plugins, MCP servers, and AI-agent integrations grouped by main category. |
+| [`TIMELINE.md`](TIMELINE.md) | Visual chronology of catalogue additions with descriptions, categories, and current star counts. |
+| [`osint-repositories.csv`](osint-repositories.csv) | Canonical repository database in CSV format with all accepted records and current metadata. |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to suggest a project or report a correction. |
+
+> [!IMPORTANT]
+> Only implementation-bearing repositories with publicly accessible source code are included. Closed-source services, link collections, courses, articles, prompt-only lists, datasets without an implemented tool, and repository stubs are excluded.
+
+> <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> marks projects added to the catalogue within the last 14 days.
 
 ---
 
@@ -112,7 +113,7 @@ Tools centered on people, names, contact identifiers, and identity resolution.
 | [Deep Research Ladder](https://github.com/hint-shu/deep-research) | Skills + plugin | Name; URL | Scales from fact checks to long-form research and OSINT entity reconnaissance. | 2026-04-17 | 2026-04-29 | ⭐ 4 |
 | [Email Finder Batch](https://github.com/yoitsyoung/email-finder-batch) | Skill | Email | Coordinates public-source email discovery, pattern generation, and verification agents. | 2026-03-22 | 2026-03-22 | ⭐ 2 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="social-media"></a>
 
@@ -278,7 +279,7 @@ Tools that search many networks at once rather than a single platform.
 |:---|:---|:---|:---|:---:|:---:|---:|
 | [WhatsOSINT](https://github.com/HackUnderway/WhatsOSINT) | Python | Username; Phone Number | Retrieves public WhatsApp account details associated with a number. | 2024-11-19 | 2026-08-15 | ⭐ 360 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="code-repositories"></a>
 
@@ -304,7 +305,7 @@ Tools that investigate public source-code repositories, accounts, and repository
 | [GitRecon](https://github.com/atiilla/gitrecon) | JavaScript | Username; Repository URL | Scans a GitHub user's repositories for exposed names and email addresses. | 2023-09-03 | 2025-12-29 | ⭐ 55 |
 | [GitHub Monitor](https://github.com/misiektoja/github_monitor) | Python | Username; Repository URL | Tracks GitHub profile and repository activity with change notifications. | 2024-05-11 | 2026-09-22 | ⭐ 55 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="infrastructure"></a>
 
@@ -378,7 +379,7 @@ Tools for domains, IP addresses, networks, ASNs, and related internet infrastruc
 | [LeakIX MCP](https://github.com/LeakIX/leakix-mcp) | MCP server | Domain; IP Address; URL | Exposes LeakIX searches for internet services, leaks, domains, and IP addresses through MCP. | 2026-01-27 | 2026-09-17 | ⭐ 3 |
 | [Bounty Recon Pro](https://github.com/synicalkid/bounty-recon-pro) | Skill | Domain; URL | Runs scoped passive OSINT and active bug-bounty recon with evidence-oriented reports. | 2026-07-11 | 2026-07-11 | ⭐ 0 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="web"></a>
 
@@ -475,7 +476,7 @@ Tools that collect, search, analyze, crawl, or preserve public web content.
 | [Agent Toolkit](https://github.com/000001000000/agent-toolkit) | Skill pack | URL | Includes an OSINT dorking workflow with search tooling and evaluation assets. | 2026-04-11 | 2026-06-08 | ⭐ 1 |
 | [monster-search](https://github.com/scaso01/monster-search) | Python | Keyword; URL; Domain; IP Address; CVE ID | Federates web, code, archive, news, WHOIS, security, and research search engines into one ranked result set. | 2026-07-31 | 2026-09-25 | ⭐ 1 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="dark-web"></a>
 
@@ -502,7 +503,7 @@ Tools for discovering, collecting, and analyzing onion services and dark-web con
 | [PyAhmia](https://github.com/rly0nheart/pyahmia) | Python | Onion Service | Provides programmatic search access to Ahmia-indexed Tor hidden services. | 2025-09-26 | 2026-07-17 | ⭐ 17 |
 | [LeakRecon](https://github.com/egnake/LeakRecon) | Python | Onion Service | Runs Tor-routed leak reconnaissance with local history, change tracking, and report export. | 2026-05-18 | 2026-06-04 | ⭐ 11 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="threat-intelligence"></a>
 
@@ -540,7 +541,7 @@ Tools for threat data, indicators, file hashes, vulnerabilities, and malware ana
 | [MISP MCP](https://github.com/MISP/misp-mcp) | MCP server | Domain; IP Address; URL; File Hash | Provides read-only access to MISP threat intelligence events and attributes. | 2026-04-01 | 2026-04-05 | ⭐ 10 |
 | [OSINT MCP Gateway](https://github.com/bonetrees/osint-mcp-gateway) | MCP server | Domain; IP Address; URL | Routes agent queries across VirusTotal, Shodan, DNS, WHOIS, RIPEstat, and OTX. | 2025-11-23 | 2026-06-10 | ⭐ 0 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="documents-records"></a>
 
@@ -597,7 +598,7 @@ Tools for documents, files, datasets, public records, extraction, and structured
 | [openParlData.ch Web Archive](https://gitlab.com/opendata.ch/openparldatach/web-archive) | Web archive pipeline | URL | Archives Swiss parliamentary websites with Browsertrix and serves them through pywb. | 2026-04-02 | 2026-05-04 | ⭐ 0 |
 | [ConsentTheater Playbill](https://codeberg.org/ConsentTheater/playbill) | TypeScript | Organization Name; URL | Maintains a queryable knowledge base of trackers, cookies, domains, and responsible companies. | 2026-05-31 | 2026-07-15 | ⭐ 0 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="media"></a>
 
@@ -656,7 +657,7 @@ Tools for image, video, audio, metadata, verification, and media forensics.
 | [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) | Kotlin | File | Adds hashes, signatures, sensor data, and C2PA provenance to captured mobile media. | 2022-01-10 | 2026-08-06 | ⭐ 18 |
 | [Amanu](https://gitlab.com/varg.alejandro25/amanu) | Python | Audio | Runs local speech transcription and assigns timestamped passages to detected speakers. | 2026-07-09 | 2026-07-20 | ⭐ 1 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="geolocation"></a>
 
@@ -710,7 +711,7 @@ Tools for locations, coordinates, maps, wireless identifiers, aircraft, and sate
 | [Norteia Lead Recon](https://github.com/Luispitik/norteia-lead-recon) | Skill | Name; Organization Name; Location | Researches Spanish companies and leads through official open registers and geodata. | 2026-04-29 | 2026-04-29 | ⭐ 0 |
 | [Geolocation Skill](https://github.com/zuocharles/geolocation-skill) | Skill | Location; Image | Guides photo geolocation with visual clues, map queries, and source references. | 2026-03-30 | 2026-03-31 | ⭐ 0 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="cryptocurrency"></a>
 
@@ -730,7 +731,7 @@ Tools for cryptocurrency addresses, blockchain activity, and transaction analysi
 | [PolyShadow](https://github.com/Ha1o/PolyShadow) | Python | Crypto Address | Monitors new Polymarket wallets for unusual high-value positions. | 2026-01-10 | 2026-02-23 | ⭐ 2 |
 | [BitSleuth Analyzer](https://github.com/jamespepper81/Analyzer) | TypeScript | Crypto Address | Analyzes Bitcoin wallets, transaction patterns, and mempool activity. | 2025-08-05 | 2026-07-07 | ⭐ 1 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="investigation"></a>
 
@@ -775,4 +776,4 @@ Cross-cutting investigation, case-management, correlation, and research workspac
 | [Claude OSINT Plugin](https://github.com/lawriec/claude-osint-plugin) | Plugin + skills + MCP | URL; Image | Adds an intelligence-cycle methodology and configured search, media, archive, and analysis MCP servers. | 2026-04-09 | 2026-05-10 | ⭐ 1 |
 | [OSINT Researcher](https://github.com/MrBridgeHQ/osint-researcher-claude) | Skill | - | Provides scoped OSINT, CTI, due diligence, and evidence-reporting procedures. | 2026-07-01 | 2026-07-06 | ⭐ 1 |
 
-<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>
+<p align="right"><a href="#contents">Back to contents ↑</a></p>

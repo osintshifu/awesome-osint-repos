@@ -163,7 +163,7 @@ def render_readme(
         '<a id="top"></a>',
         "",
         '<div align="center">',
-        "  <h1>Awesome OSINT Repositories</h1>",
+        '  <h1>Awesome OSINT Repositories <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a></h1>',
         "  <p>A catalogue of open-source OSINT tools organized into 12 clear categories and concrete input types.</p>",
         "  <p>",
         f'    {badge("Emerging projects", "emerging", emerging_count, "bf8700", "EMERGING.md")}',
@@ -178,45 +178,9 @@ def render_readme(
         navigation("Awesome OSINT Repositories"),
         "</div>",
         "",
-        "## About this catalogue",
+        '<a id="contents"></a>',
         "",
-        (
-            "Awesome OSINT Repositories is a repository-first catalogue of open-source investigative software. "
-            "Every record represents a public source-code repository containing an identifiable tool "
-            "or integration with a practical OSINT use case."
-        ),
-        "",
-        (
-            "Each project has exactly one value in `Categories`. `Target Input` contains only concrete "
-            "data accepted or investigated by the tool, such as `Username`, `Domain`, `IP Address`, "
-            "`URL`, `File Hash`, or `Onion Service`. A project may have multiple target inputs."
-        ),
-        "",
-        (
-            "`Emerging Projects` and `Agentic AI OSINT` are additional generated views selected through "
-            "`Source Files`; they are not category values."
-        ),
-        "",
-        "| File | What it contains |",
-        "|---|---|",
-        "| [`README.md`](README.md) | Main catalogue with one section for each of the 12 categories. |",
-        "| [`EMERGING.md`](EMERGING.md) | Early-stage tools and projects worth monitoring. |",
-        "| [`AGENTIC.md`](AGENTIC.md) | Skills, plugins, MCP servers, and AI-agent integrations grouped by main category. |",
-        "| [`TIMELINE.md`](TIMELINE.md) | Visual chronology of catalogue additions with descriptions, categories, and current star counts. |",
-        "| [`osint-repositories.csv`](osint-repositories.csv) | Canonical repository database in CSV format with all accepted records and current metadata. |",
-        "",
-        "> [!IMPORTANT]",
-        (
-            "> Only implementation-bearing repositories with publicly accessible source code are included. "
-            "Closed-source services, link collections, courses, articles, prompt-only lists, datasets without "
-            "an implemented tool, and repository stubs are excluded."
-        ),
-        "",
-        f"> {NEW_PROJECT_LEGEND}",
-        "",
-        '<a id="table-of-contents"></a>',
-        "",
-        "## Table of contents",
+        "## Contents",
         "",
     ]
     for label, category in README_SECTIONS:
@@ -236,6 +200,43 @@ def render_readme(
             f"- [Agentic AI OSINT](AGENTIC.md) <sup>{agentic_count} {count_label(agentic_count)}</sup>",
             "- [Catalogue timeline](TIMELINE.md)",
             f"- [Complete repository database (CSV)](osint-repositories.csv) <sup>{len(rows)} unique repositories</sup>",
+            "",
+            "## About this catalogue",
+            "",
+            (
+                "Awesome OSINT Repositories is a repository-first catalogue of open-source investigative software. "
+                "Every record represents a public source-code repository containing an identifiable tool "
+                "or integration with a practical OSINT use case."
+            ),
+            "",
+            (
+                "Each project has exactly one value in `Categories`. `Target Input` contains only concrete "
+                "data accepted or investigated by the tool, such as `Username`, `Domain`, `IP Address`, "
+                "`URL`, `File Hash`, or `Onion Service`. A project may have multiple target inputs."
+            ),
+            "",
+            (
+                "`Emerging Projects` and `Agentic AI OSINT` are additional generated views selected through "
+                "`Source Files`; they are not category values."
+            ),
+            "",
+            "| File | What it contains |",
+            "|---|---|",
+            "| [`README.md`](README.md) | Main catalogue with one section for each of the 12 categories. |",
+            "| [`EMERGING.md`](EMERGING.md) | Early-stage tools and projects worth monitoring. |",
+            "| [`AGENTIC.md`](AGENTIC.md) | Skills, plugins, MCP servers, and AI-agent integrations grouped by main category. |",
+            "| [`TIMELINE.md`](TIMELINE.md) | Visual chronology of catalogue additions with descriptions, categories, and current star counts. |",
+            "| [`osint-repositories.csv`](osint-repositories.csv) | Canonical repository database in CSV format with all accepted records and current metadata. |",
+            "| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to suggest a project or report a correction. |",
+            "",
+            "> [!IMPORTANT]",
+            (
+                "> Only implementation-bearing repositories with publicly accessible source code are included. "
+                "Closed-source services, link collections, courses, articles, prompt-only lists, datasets without "
+                "an implemented tool, and repository stubs are excluded."
+            ),
+            "",
+            f"> {NEW_PROJECT_LEGEND}",
             "",
             "---",
             "",
@@ -268,10 +269,10 @@ def render_readme(
                     lines.extend([CROSS_PLATFORM_NOTE, ""])
                 append_table(lines, group, recent_keys, readme=True)
                 lines.append("")
-            lines.extend(['<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>', ""])
+            lines.extend(['<p align="right"><a href="#contents">Back to contents ↑</a></p>', ""])
             continue
         append_table(lines, selected, recent_keys, readme=True)
-        lines.extend(["", '<p align="right"><a href="#table-of-contents">Back to contents ↑</a></p>', ""])
+        lines.extend(["", '<p align="right"><a href="#contents">Back to contents ↑</a></p>', ""])
     return "\n".join(lines)
 
 
