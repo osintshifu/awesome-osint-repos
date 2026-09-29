@@ -28,6 +28,7 @@ from catalog_common import (
     format_agentic_markdown_row,
     format_markdown_row,
     format_readme_markdown_row,
+    markdown_text,
     platform_groups,
     load_catalog,
     recent_repository_keys,
@@ -113,6 +114,7 @@ def badge(label: str, slug: str, value: int, color: str, href: str = "") -> str:
 def navigation(active: str) -> str:
     items = [
         ("Awesome OSINT Repositories", "README.md"),
+        ("Tools by Target Input", "INPUTS.md"),
         ("Emerging Projects", "EMERGING.md"),
         ("Agentic AI OSINT", "AGENTIC.md"),
         ("Catalogue Timeline", "TIMELINE.md"),
@@ -198,6 +200,7 @@ def render_readme(
             )
     lines.extend(
         [
+            "- [Tools by target input](INPUTS.md)",
             f"- [Emerging projects](EMERGING.md) <sup>{emerging_count} {count_label(emerging_count)}</sup>",
             f"- [Agentic AI OSINT](AGENTIC.md) <sup>{agentic_count} {count_label(agentic_count)}</sup>",
             "- [Catalogue timeline](TIMELINE.md)",
@@ -225,6 +228,7 @@ def render_readme(
             "| File | What it contains |",
             "|---|---|",
             "| [`README.md`](README.md) | Main catalogue with one section for each of the 12 categories. |",
+            "| [`INPUTS.md`](INPUTS.md) | Catalogue projects grouped by the data they accept or investigate. |",
             "| [`EMERGING.md`](EMERGING.md) | Early-stage tools and projects worth monitoring. |",
             "| [`AGENTIC.md`](AGENTIC.md) | Skills, plugins, MCP servers, and AI-agent integrations grouped by main category. |",
             "| [`TIMELINE.md`](TIMELINE.md) | Visual chronology of catalogue additions with descriptions, categories, and current star counts. |",
@@ -547,6 +551,7 @@ def render_timeline(
         (
             '  <p><strong><a href="TIMELINE.md">Catalogue Timeline</a></strong> · '
             '<a href="README.md">Awesome OSINT Repositories</a> · '
+            '<a href="INPUTS.md">Tools by Target Input</a> · '
             '<a href="EMERGING.md">Emerging Projects</a> · '
             '<a href="AGENTIC.md">Agentic AI OSINT</a> · '
             '<a href="osint-repositories.csv">Repository Database CSV</a></p>'
@@ -618,6 +623,82 @@ def render_timeline(
             "</details>",
             "",
             '<p align="right"><a href="#top">Back to top ↑</a></p>',
+            "",
+        ]
+    )
+    return "\n".join(lines)
+
+
+NO_FIXED_INPUT_LABEL = "No fixed input"
+
+
+def render_inputs(
+    text: str,
+    rows: list[dict[str, str]],
+    date: str,
+    recent_keys: set[str],
+) -> str:
+    del text, recent_keys
+    groups: dict[str, list[dict[str, str]]] = {}
+    for row in rows:
+        for value in split_values(row["Target Input"]) or [NO_FIXED_INPUT_LABEL]:
+            groups.setdefault(value, []).append(row)
+    labels = sorted((label for label in groups if label != NO_FIXED_INPUT_LABEL), key=str.casefold)
+    if NO_FIXED_INPUT_LABEL in groups:
+        labels.append(NO_FIXED_INPUT_LABEL)
+    sections = {
+        label: [(section, rows_for_category(groups[label], category)) for section, category in README_SECTIONS]
+        for label in labels
+    }
+    counts = {label: sum(len(selected) for _, selected in sections[label]) for label in labels}
+    input_count = len([label for label in labels if label != NO_FIXED_INPUT_LABEL])
+    badge_date = date.replace("-", "--")
+    lines = [
+        '<a id="top"></a>',
+        "",
+        '<div align="center">',
+        "  <h1>OSINT Tools by Target Input</h1>",
+        "  <p>Catalogue projects grouped by the data they accept or investigate.</p>",
+        "  <p>",
+        f'    {badge("Target inputs", "target_inputs", input_count, "0969da", "#contents")}',
+        (
+            f'    <img alt="Last update: {date}" src="https://img.shields.io/badge/'
+            f'last_update-{badge_date}-1f883d?style=flat-square">'
+        ),
+        "  </p>",
+        navigation("Tools by Target Input"),
+        "</div>",
+        "",
+        "A project that works with several kinds of data appears under each of them.",
+        "",
+        '<a id="contents"></a>',
+        "",
+        "## Contents",
+        "",
+    ]
+    for label in labels:
+        lines.append(f"- [{label}](#{anchor_for(label)}) <sup>{counts[label]} {count_label(counts[label])}</sup>")
+    lines.extend(["", "---", ""])
+    for label in labels:
+        lines.extend(
+            [
+                f'<a id="{anchor_for(label)}"></a>',
+                "",
+                f"## {label} <sup>{counts[label]} {count_label(counts[label])}</sup>",
+                "",
+                "| Category | Projects |",
+                "|:---|:---|",
+            ]
+        )
+        for section, selected in sections[label]:
+            if not selected:
+                continue
+            projects = ", ".join(f"[{markdown_text(row['Project'])}]({row['Repository']})" for row in selected)
+            lines.append(f"| [{section}](README.md#{anchor_for(section)}) | {projects} |")
+        lines.extend(["", '<p align="right"><a href="#contents">Back to contents ↑</a></p>', ""])
+    lines.extend(
+        [
+            f"[Complete repository database (CSV)](osint-repositories.csv) <sup>{len(rows)} unique repositories</sup>",
             "",
         ]
     )
@@ -698,6 +779,7 @@ def rendered_documents() -> dict[Path, str]:
     recent_keys = recent_repository_keys(rows, date)
     renderers = {
         ROOT / "README.md": render_readme,
+        ROOT / "INPUTS.md": render_inputs,
         ROOT / "EMERGING.md": render_emerging,
         ROOT / "AGENTIC.md": render_agentic,
         ROOT / "TIMELINE.md": render_timeline,

@@ -10,7 +10,7 @@
     <img alt="Catalogue projects: 493" src="https://img.shields.io/badge/catalogue_projects-493-8250df?style=flat-square">
     <img alt="Last update: 2026-09-28" src="https://img.shields.io/badge/last_update-2026--09--28-1f883d?style=flat-square">
   </p>
-  <p><strong><a href="README.md">Awesome OSINT Repositories</a></strong> · <a href="EMERGING.md">Emerging Projects</a> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
+  <p><strong><a href="README.md">Awesome OSINT Repositories</a></strong> · <a href="INPUTS.md">Tools by Target Input</a> · <a href="EMERGING.md">Emerging Projects</a> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
 
 <a id="contents"></a>
@@ -41,6 +41,7 @@
 - [Geolocation](#geolocation) <sup>43 projects</sup>
 - [Cryptocurrency](#cryptocurrency) <sup>9 projects</sup>
 - [Investigation](#investigation) <sup>34 projects</sup>
+- [Tools by target input](INPUTS.md)
 - [Emerging projects](EMERGING.md) <sup>109 projects</sup>
 - [Agentic AI OSINT](AGENTIC.md) <sup>136 projects</sup>
 - [Catalogue timeline](TIMELINE.md)
@@ -57,6 +58,7 @@ Each project has exactly one value in `Categories`. `Target Input` contains only
 | File | What it contains |
 |---|---|
 | [`README.md`](README.md) | Main catalogue with one section for each of the 12 categories. |
+| [`INPUTS.md`](INPUTS.md) | Catalogue projects grouped by the data they accept or investigate. |
 | [`EMERGING.md`](EMERGING.md) | Early-stage tools and projects worth monitoring. |
 | [`AGENTIC.md`](AGENTIC.md) | Skills, plugins, MCP servers, and AI-agent integrations grouped by main category. |
 | [`TIMELINE.md`](TIMELINE.md) | Visual chronology of catalogue additions with descriptions, categories, and current star counts. |

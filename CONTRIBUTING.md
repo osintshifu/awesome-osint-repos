@@ -25,7 +25,7 @@ To report an archived, moved, or misdescribed project, use the [correction form]
 
 ## Pull requests
 
-`README.md`, `EMERGING.md`, `AGENTIC.md`, and `TIMELINE.md` are generated from `osint-repositories.csv`, so changes made directly to them are overwritten. Please suggest additions through an issue.
+`README.md`, `INPUTS.md`, `EMERGING.md`, `AGENTIC.md`, and `TIMELINE.md` are generated from `osint-repositories.csv`, so changes made directly to them are overwritten. Please suggest additions through an issue.
 
 ## Entry style
 

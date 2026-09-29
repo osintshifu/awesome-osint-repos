@@ -6,11 +6,11 @@
   <p>
     <img alt="Publication policy: review gated" src="https://img.shields.io/badge/publication-review_gated-bf8700?style=flat-square">
     <img alt="Metadata refresh: weekly" src="https://img.shields.io/badge/metadata-weekly-0969da?style=flat-square">
-    <img alt="Candidate discovery: daily" src="https://img.shields.io/badge/discovery-daily-8250df?style=flat-square">
+    <img alt="Candidate discovery: weekly" src="https://img.shields.io/badge/discovery-weekly-8250df?style=flat-square">
     <img alt="Third-party code execution: disabled" src="https://img.shields.io/badge/third--party_code-not_executed-1f883d?style=flat-square">
     <img alt="Last update: 2026-09-28" src="https://img.shields.io/badge/last_update-2026--09--28-1f883d?style=flat-square">
   </p>
-  <p><strong><a href="README.md">Monitoring</a></strong> · <a href="../README.md">Awesome OSINT Repositories</a> · <a href="../EMERGING.md">Emerging Projects</a> · <a href="../AGENTIC.md">Agentic AI OSINT</a> · <a href="../TIMELINE.md">Catalogue Timeline</a> · <a href="../osint-repositories.csv">Repository Database CSV</a></p>
+  <p><strong><a href="README.md">Monitoring</a></strong> · <a href="../README.md">Awesome OSINT Repositories</a> · <a href="../INPUTS.md">Tools by Target Input</a> · <a href="../EMERGING.md">Emerging Projects</a> · <a href="../AGENTIC.md">Agentic AI OSINT</a> · <a href="../TIMELINE.md">Catalogue Timeline</a> · <a href="../osint-repositories.csv">Repository Database CSV</a></p>
 </div>
 
 ## Operating model
@@ -25,7 +25,7 @@ The canonical CSV stores the publication date in its `Added` column. The rendere
 .catalog/data/sources.csv -> discover_candidates.py -> .catalog/data/candidates.csv -> human review
                                                                            -> osint-repositories.csv
 GitHub API -> refresh_metadata.py -> osint-repositories.csv + .catalog/data/snapshots.csv
-osint-repositories.csv -> render_catalog.py -> README.md + EMERGING.md + AGENTIC.md + TIMELINE.md
+osint-repositories.csv -> render_catalog.py -> README.md + INPUTS.md + EMERGING.md + AGENTIC.md + TIMELINE.md
 all catalogue files -> validate_catalog.py -> pass or fail
 ```
 
@@ -40,6 +40,7 @@ The monitor never clones, imports, installs, or executes code from catalogued re
 | `data/sources.csv` | Enabled discovery queries, providers, windows, suggested target inputs, categories, and optional generated views. |
 | `data/snapshots.csv` | Point-in-time metadata used for trend and change reporting. |
 | `../README.md` | Generated main catalogue organized into 12 mutually exclusive categories. |
+| `../INPUTS.md` | Generated view of catalogue projects grouped by target input. |
 | `../EMERGING.md` | Generated early-stage project view. |
 | `../AGENTIC.md` | Generated skills, plugins, MCP, and agent integration views. |
 | `../TIMELINE.md` | Generated visual chronology of additions with descriptions, categories, and current star counts. |

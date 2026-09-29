@@ -53,6 +53,7 @@ jobs:
             --allow .catalog/data/candidates.csv \
             --allow .catalog/data/snapshots.csv \
             --allow README.md \
+            --allow INPUTS.md \
             --allow EMERGING.md \
             --allow AGENTIC.md \
             --allow TIMELINE.md
@@ -62,7 +63,7 @@ jobs:
           set -euo pipefail
           git config user.name "oryon"
           git config user.email "70845183+oryon-osint@users.noreply.github.com"
-          git add osint-repositories.csv .catalog/README.md .catalog/data/candidates.csv .catalog/data/snapshots.csv README.md EMERGING.md AGENTIC.md TIMELINE.md
+          git add osint-repositories.csv .catalog/README.md .catalog/data/candidates.csv .catalog/data/snapshots.csv README.md INPUTS.md EMERGING.md AGENTIC.md TIMELINE.md
           if git diff --cached --quiet; then
             echo "No metadata change." >> "$GITHUB_STEP_SUMMARY"
             exit 0

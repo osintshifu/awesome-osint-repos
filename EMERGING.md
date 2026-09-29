@@ -7,7 +7,7 @@
     <a href="#projects"><img alt="Emerging projects: 109" src="https://img.shields.io/badge/emerging_projects-109-bf8700?style=flat-square"></a>
     <img alt="Last update: 2026-09-28" src="https://img.shields.io/badge/last_update-2026--09--28-1f883d?style=flat-square">
   </p>
-  <p><a href="README.md">Awesome OSINT Repositories</a> · <strong><a href="EMERGING.md">Emerging Projects</a></strong> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
+  <p><a href="README.md">Awesome OSINT Repositories</a> · <a href="INPUTS.md">Tools by Target Input</a> · <strong><a href="EMERGING.md">Emerging Projects</a></strong> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
 
 ## Selection criteria

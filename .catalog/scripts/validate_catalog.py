@@ -288,6 +288,7 @@ def validate_markdown(validation: Validation, rows: list[dict[str, str]]) -> Non
 def validate_local_links(validation: Validation) -> None:
     for path in (
         ROOT / "README.md",
+        ROOT / "INPUTS.md",
         ROOT / "EMERGING.md",
         ROOT / "AGENTIC.md",
         ROOT / "TIMELINE.md",
@@ -349,6 +350,7 @@ def validate_update_badges(
     )
     markdown_files = (
         ROOT / "README.md",
+        ROOT / "INPUTS.md",
         ROOT / "EMERGING.md",
         ROOT / "AGENTIC.md",
         ROOT / "TIMELINE.md",
@@ -370,6 +372,15 @@ def validate_navigation(validation: Validation) -> None:
     expected = {
         ROOT / "README.md": (
             '<p><strong><a href="README.md">Awesome OSINT Repositories</a></strong> · '
+            '<a href="INPUTS.md">Tools by Target Input</a> · '
+            '<a href="EMERGING.md">Emerging Projects</a> · '
+            '<a href="AGENTIC.md">Agentic AI OSINT</a> · '
+            '<a href="TIMELINE.md">Catalogue Timeline</a> · '
+            '<a href="osint-repositories.csv">Repository Database CSV</a></p>'
+        ),
+        ROOT / "INPUTS.md": (
+            '<p><a href="README.md">Awesome OSINT Repositories</a> · '
+            '<strong><a href="INPUTS.md">Tools by Target Input</a></strong> · '
             '<a href="EMERGING.md">Emerging Projects</a> · '
             '<a href="AGENTIC.md">Agentic AI OSINT</a> · '
             '<a href="TIMELINE.md">Catalogue Timeline</a> · '
@@ -377,6 +388,7 @@ def validate_navigation(validation: Validation) -> None:
         ),
         ROOT / "EMERGING.md": (
             '<p><a href="README.md">Awesome OSINT Repositories</a> · '
+            '<a href="INPUTS.md">Tools by Target Input</a> · '
             '<strong><a href="EMERGING.md">Emerging Projects</a></strong> · '
             '<a href="AGENTIC.md">Agentic AI OSINT</a> · '
             '<a href="TIMELINE.md">Catalogue Timeline</a> · '
@@ -384,6 +396,7 @@ def validate_navigation(validation: Validation) -> None:
         ),
         ROOT / "AGENTIC.md": (
             '<p><a href="README.md">Awesome OSINT Repositories</a> · '
+            '<a href="INPUTS.md">Tools by Target Input</a> · '
             '<a href="EMERGING.md">Emerging Projects</a> · '
             '<strong><a href="AGENTIC.md">Agentic AI OSINT</a></strong> · '
             '<a href="TIMELINE.md">Catalogue Timeline</a> · '
@@ -392,6 +405,7 @@ def validate_navigation(validation: Validation) -> None:
         ROOT / "TIMELINE.md": (
             '<p><strong><a href="TIMELINE.md">Catalogue Timeline</a></strong> · '
             '<a href="README.md">Awesome OSINT Repositories</a> · '
+            '<a href="INPUTS.md">Tools by Target Input</a> · '
             '<a href="EMERGING.md">Emerging Projects</a> · '
             '<a href="AGENTIC.md">Agentic AI OSINT</a> · '
             '<a href="osint-repositories.csv">Repository Database CSV</a></p>'
@@ -399,6 +413,7 @@ def validate_navigation(validation: Validation) -> None:
         CATALOG_ROOT / "README.md": (
             '<p><strong><a href="README.md">Monitoring</a></strong> · '
             '<a href="../README.md">Awesome OSINT Repositories</a> · '
+            '<a href="../INPUTS.md">Tools by Target Input</a> · '
             '<a href="../EMERGING.md">Emerging Projects</a> · '
             '<a href="../AGENTIC.md">Agentic AI OSINT</a> · '
             '<a href="../TIMELINE.md">Catalogue Timeline</a> · '
