@@ -547,7 +547,7 @@ Tools for threat data, indicators, file hashes, vulnerabilities, and malware ana
 
 <a id="documents-records"></a>
 
-## 📄 Documents & Records <sup>46 projects</sup>
+## 📄 Documents & Records <sup>47 projects</sup>
 
 Tools for documents, files, datasets, public records, extraction, and structured review.
 
@@ -594,6 +594,7 @@ Tools for documents, files, datasets, public records, extraction, and structured
 | [Newsroom Extension](https://github.com/ehurrn/newsroom-extension) | Skill pack | Organization Name; Document | Supports investigative journalism, FOIA work, corporate research, verification, and editorial review. | 2026-04-06 | 2026-06-22 | ⭐ 8 |
 | [Hermes OSINT Skill](https://github.com/mtjikuzu/hermes-osint-skill) | Skill | Name; Organization Name | Structures company due diligence, background checks, vendor risk, and privacy review. | 2026-05-22 | 2026-05-22 | ⭐ 8 |
 | [Company Recon Skill](https://github.com/zoharbabin/company-recon-skill) | Skill | Organization Name; URL | Identifies websites using a company's technology and classifies the resulting evidence. | 2026-03-04 | 2026-03-04 | ⭐ 3 |
+| [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) | MCP server | Organization Name | Background-checks any company worldwide: registration, executives, courts, and finances via remote MCP. | 2025-08-01 | 2026-09-22 | ⭐ 0 |
 | [Infringement Information Collector](https://github.com/11murmur/infringement-information-collector) | Skill | Organization Name; URL | Collects public leads about counterfeits, private servers, and piracy into auditable reports. | 2026-05-31 | 2026-06-01 | ⭐ 2 |
 | [OpenProbe](https://github.com/hxd0818/openprobe) | Skill | Name; Organization Name | Investigates companies, competitors, supply chains, capital links, and key people. | 2026-04-12 | 2026-05-08 | ⭐ 2 |
 | [Scout](https://github.com/indigokarasu/scout) | Skill pack | Name; Organization Name | Structures lawful people and company research with provenance, source tiers, and refresh workflows. | 2026-03-10 | 2026-09-25 | ⭐ 1 |
