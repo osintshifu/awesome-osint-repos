@@ -87,6 +87,7 @@ Refresh GitHub metadata and save a daily snapshot. A token is required for the b
 GITHUB_TOKEN=github_token python3 .catalog/scripts/refresh_metadata.py \
   --write \
   --snapshot \
+  --drop-unavailable \
   --drop-archived \
   --drop-stale-before 2020-01-01 \
   --delay 0.1
@@ -209,7 +210,7 @@ Scheduled workflows use the repository-provided `GITHUB_TOKEN`. Both scheduled w
 - Repositories confirmed as archived are removed from the canonical catalogue and active monitoring data. GitHub status is enforced by the scheduled metadata refresh; other hosts are checked during review.
 - Repository age is not a removal criterion. Repositories whose latest default-branch commit predates `2020-01-01` are removed, while older projects with current maintenance remain eligible.
 - A recent push does not by itself prove operational usefulness. Stale integrations are reviewed for deprecated APIs, unsupported runtimes, broken installation paths, explicit maintenance notices, and maintained successors.
-- A confirmed `404` marks a repository as unavailable. Transient network and API failures do not change repository status.
+- A confirmed `404` removes a repository from the canonical catalogue and active monitoring data. Transient network and API failures do not change repository status.
 - Descriptions, target inputs, categories, source-file memberships, types, and AI-agent labels are never overwritten by metadata refreshes.
 
 ## Recommended review rhythm

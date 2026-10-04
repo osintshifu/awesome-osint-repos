@@ -33,6 +33,7 @@ jobs:
           python .catalog/scripts/refresh_metadata.py \
             --write \
             --snapshot \
+            --drop-unavailable \
             --drop-archived \
             --drop-stale-before 2020-01-01 \
             --delay 0.1

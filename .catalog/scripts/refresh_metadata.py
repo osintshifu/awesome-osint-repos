@@ -290,6 +290,7 @@ def main() -> int:
         action="store_true",
         help="Remove repositories confirmed as archived from the canonical catalogue",
     )
+    parser.add_argument("--drop-unavailable", action="store_true", help="Remove repositories confirmed as unavailable")
     parser.add_argument(
         "--drop-stale-before",
         default="",
@@ -307,9 +308,9 @@ def main() -> int:
     original_keys = {repository_key(row["Repository"]) for row in rows}
 
     requested = {repository_key(value) for value in args.repository}
-    if (requested or args.limit) and (args.drop_archived or args.drop_stale_before):
+    if (requested or args.limit) and (args.drop_archived or args.drop_unavailable or args.drop_stale_before):
         print(
-            "--drop-archived and --drop-stale-before require a full refresh "
+            "Removal options require a full refresh "
             "without --repository or --limit",
             file=sys.stderr,
         )
@@ -333,6 +334,7 @@ def main() -> int:
     today = date.today().isoformat()
     changed_fields = 0
     unavailable = 0
+    removed_unavailable = 0
     removed_archived = 0
     removed_stale = 0
     removed_snapshots = 0
@@ -484,6 +486,11 @@ def main() -> int:
         print("Metadata refresh produced duplicate canonical URLs; no files were written", file=sys.stderr)
         return 1
 
+    if args.drop_unavailable:
+        retained_rows = [row for row in rows if row.get("Repository Status") != "unavailable"]
+        removed_unavailable = len(rows) - len(retained_rows)
+        rows = retained_rows
+
     if args.drop_archived:
         retained_rows = [row for row in rows if row.get("Archived") != "true"]
         removed_archived = len(rows) - len(retained_rows)
@@ -532,7 +539,7 @@ def main() -> int:
             write_csv(SNAPSHOT_PATH, SNAPSHOT_FIELDS, snapshots)
     print(
         f"processed={len(selected)} changed_fields={changed_fields} "
-        f"unavailable={unavailable} removed_archived={removed_archived} "
+        f"unavailable={unavailable} removed_unavailable={removed_unavailable} removed_archived={removed_archived} "
         f"removed_stale={removed_stale} "
         f"candidate_changed_fields={candidate_changed_fields} "
         f"removed_candidates={removed_candidates} "
