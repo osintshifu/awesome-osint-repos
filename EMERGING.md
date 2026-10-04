@@ -4,8 +4,8 @@
   <h1>Emerging OSINT Projects</h1>
   <p>A watchlist of early-stage open-source OSINT tools and supporting technologies.</p>
   <p>
-    <a href="#projects"><img alt="Emerging projects: 109" src="https://img.shields.io/badge/emerging_projects-109-bf8700?style=flat-square"></a>
-    <img alt="Last update: 2026-09-28" src="https://img.shields.io/badge/last_update-2026--09--28-1f883d?style=flat-square">
+    <a href="#projects"><img alt="Emerging projects: 110" src="https://img.shields.io/badge/emerging_projects-110-bf8700?style=flat-square"></a>
+    <img alt="Last update: 2026-10-04" src="https://img.shields.io/badge/last_update-2026--10--04-1f883d?style=flat-square">
   </p>
   <p><a href="README.md">Awesome OSINT Repositories</a> · <a href="INPUTS.md">Tools by Target Input</a> · <strong><a href="EMERGING.md">Emerging Projects</a></strong> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -20,7 +20,7 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 
 <a id="projects"></a>
 
-## Projects <sup>109 projects</sup>
+## Projects <sup>110 projects</sup>
 
 | Project | Target Input | Categories | Description | Created | Last Update | Stars |
 |:---|:---|:---:|:---|:---:|:---:|---:|
@@ -83,6 +83,7 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 | [netscout](https://github.com/caio-ishikawa/netscout) | Domain; URL | Infrastructure | Crawls from a seed URL to find domains, paths, endpoints, and files. | 2024-03-28 | 2024-04-05 | ⭐ 183 |
 | [WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) | Domain; URL | Web | Collects and presents public DNS, TLS, headers, hosting, network, technology, security, and performance data for a website. | 2025-12-14 | 2026-09-28 | ⭐ 173 |
 | [ExifTool Web](https://github.com/lucasgelfond/exiftool-web) | Image | Media | Runs ExifTool metadata inspection in a browser through WebAssembly. | 2025-02-22 | 2026-01-10 | ⭐ 157 |
+| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Jev Social](https://github.com/socai-io/jev-social) | Keyword; URL | Social Media | Selects Instagram, TikTok, and LinkedIn research operations with Jev, executes them through the socai CLI, and produces reports citing captured sources. | 2026-09-18 | 2026-10-01 | ⭐ 145 |
 | [abx-dl](https://github.com/ArchiveBox/abx-dl) | URL | Web | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-09-28 | ⭐ 144 |
 | [Data Commons Agent Toolkit](https://github.com/datacommonsorg/agent-toolkit) | Dataset | Documents & Records | Connects agents and MCP clients to the public Data Commons knowledge graph. | 2025-06-26 | 2026-09-15 | ⭐ 143 |
 | [Telespot](https://github.com/thumpersecure/Telespot) | Phone Number | Identity | Searches phone-number variations across public engines and correlates identity clues. | 2025-12-28 | 2026-09-21 | ⭐ 140 |
@@ -136,4 +137,4 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 
 <p align="right"><a href="#top">Back to top ↑</a></p>
 
-[Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>
+[Complete repository database (CSV)](osint-repositories.csv) <sup>495 unique repositories</sup>

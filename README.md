@@ -4,11 +4,11 @@
   <h1>Awesome OSINT Repositories <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a></h1>
   <p>A hand-reviewed catalogue of open-source OSINT tools, MCP servers, and agent skills, browsable by category or by the data you start with.</p>
   <p>
-    <a href="EMERGING.md"><img alt="Emerging projects: 109" src="https://img.shields.io/badge/emerging-109-bf8700?style=flat-square"></a>
-    <a href="#social-media"><img alt="Social Media projects: 72" src="https://img.shields.io/badge/social_media-72-8250df?style=flat-square"></a>
-    <a href="AGENTIC.md"><img alt="Agentic integrations: 136" src="https://img.shields.io/badge/agentic_integrations-136-d1242f?style=flat-square"></a>
-    <img alt="Catalogue projects: 493" src="https://img.shields.io/badge/catalogue_projects-493-8250df?style=flat-square">
-    <img alt="Last update: 2026-09-28" src="https://img.shields.io/badge/last_update-2026--09--28-1f883d?style=flat-square">
+    <a href="EMERGING.md"><img alt="Emerging projects: 110" src="https://img.shields.io/badge/emerging-110-bf8700?style=flat-square"></a>
+    <a href="#social-media"><img alt="Social Media projects: 74" src="https://img.shields.io/badge/social_media-74-8250df?style=flat-square"></a>
+    <a href="AGENTIC.md"><img alt="Agentic integrations: 138" src="https://img.shields.io/badge/agentic_integrations-138-d1242f?style=flat-square"></a>
+    <img alt="Catalogue projects: 495" src="https://img.shields.io/badge/catalogue_projects-495-8250df?style=flat-square">
+    <img alt="Last update: 2026-10-04" src="https://img.shields.io/badge/last_update-2026--10--04-1f883d?style=flat-square">
   </p>
   <p><strong><a href="README.md">Awesome OSINT Repositories</a></strong> · <a href="INPUTS.md">Tools by Target Input</a> · <a href="EMERGING.md">Emerging Projects</a> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -18,8 +18,8 @@
 ## Contents
 
 - [Identity](#identity) <sup>34 projects</sup>
-- [Social Media](#social-media) <sup>72 projects</sup>
-  - [Cross-platform](#social-media-cross-platform) <sup>21 projects</sup>
+- [Social Media](#social-media) <sup>74 projects</sup>
+  - [Cross-platform](#social-media-cross-platform) <sup>23 projects</sup>
   - [Telegram](#social-media-telegram) <sup>14 projects</sup>
   - [Instagram](#social-media-instagram) <sup>8 projects</sup>
   - [X / Twitter](#social-media-x-twitter) <sup>6 projects</sup>
@@ -42,10 +42,10 @@
 - [Cryptocurrency](#cryptocurrency) <sup>9 projects</sup>
 - [Investigation](#investigation) <sup>34 projects</sup>
 - [Tools by target input](INPUTS.md)
-- [Emerging projects](EMERGING.md) <sup>109 projects</sup>
-- [Agentic AI OSINT](AGENTIC.md) <sup>136 projects</sup>
+- [Emerging projects](EMERGING.md) <sup>110 projects</sup>
+- [Agentic AI OSINT](AGENTIC.md) <sup>138 projects</sup>
 - [Catalogue timeline](TIMELINE.md)
-- [Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>
+- [Complete repository database (CSV)](osint-repositories.csv) <sup>495 unique repositories</sup>
 
 ## About this catalogue
 
@@ -119,13 +119,13 @@ Tools centered on people, names, contact identifiers, and identity resolution.
 
 <a id="social-media"></a>
 
-## 💬 Social Media <sup>72 projects</sup>
+## 💬 Social Media <sup>74 projects</sup>
 
 Tools for discovering and analyzing public accounts and content on social platforms.
 
 <a id="social-media-cross-platform"></a>
 
-### Cross-platform <sup>21 projects</sup>
+### Cross-platform <sup>23 projects</sup>
 
 Tools that search many networks at once rather than a single platform.
 
@@ -147,6 +147,8 @@ Tools that search many networks at once rather than a single platform.
 | [Linkook](https://github.com/JackJuly/linkook) | Python | Username | Discovers linked social accounts and email clues from a username. | 2025-01-30 | 2026-02-28 | ⭐ 1,016 |
 | [Marple](https://github.com/soxoj/marple) | Python | Username | Finds profile links through search engines and extensible analysis plugins. | 2021-11-16 | 2026-08-17 | ⭐ 328 |
 | [MCP Maigret](https://github.com/w0h1v/mcp-maigret) | MCP server | Username | Exposes Maigret username searches and public account discovery through MCP. | 2024-12-13 | 2026-01-27 | ⭐ 264 |
+| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [socai](https://github.com/socai-io/socai) | Rust CLI + desktop | Keyword; URL | Uses a signed-in Chrome session to search and inspect posts, profiles, comments, replies, and media across multiple social platforms. | 2026-05-02 | 2026-10-04 | ⭐ 230 |
+| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Jev Social](https://github.com/socai-io/jev-social) | JavaScript CLI + web UI | Keyword; URL | Selects Instagram, TikTok, and LinkedIn research operations with Jev, executes them through the socai CLI, and produces reports citing captured sources. | 2026-09-18 | 2026-10-01 | ⭐ 145 |
 | [OWASP Social OSINT Agent](https://github.com/bm-github/owasp-social-osint-agent) | Python | Username | Collects public social activity and uses configurable language models to produce analytical reports. | 2025-10-07 | 2026-04-25 | ⭐ 103 |
 | [Social OSINT](https://github.com/krishpranav/socialosint) | Rust | Username; Email | Collects exposed email addresses from supported social platforms and checks related leak data. | 2021-07-02 | 2026-02-10 | ⭐ 99 |
 | [OSINT Social](https://github.com/guleguleguru/osint-social) | Skill | Username | Wraps broad username discovery with additional coverage for major Chinese platforms. | 2026-02-28 | 2026-02-28 | ⭐ 1 |

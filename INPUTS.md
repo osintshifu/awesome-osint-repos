@@ -5,7 +5,7 @@
   <p>Catalogue projects grouped by the data they accept or investigate.</p>
   <p>
     <a href="#contents"><img alt="Target inputs: 28" src="https://img.shields.io/badge/target_inputs-28-0969da?style=flat-square"></a>
-    <img alt="Last update: 2026-09-28" src="https://img.shields.io/badge/last_update-2026--09--28-1f883d?style=flat-square">
+    <img alt="Last update: 2026-10-04" src="https://img.shields.io/badge/last_update-2026--10--04-1f883d?style=flat-square">
   </p>
   <p><a href="README.md">Awesome OSINT Repositories</a> · <strong><a href="INPUTS.md">Tools by Target Input</a></strong> · <a href="EMERGING.md">Emerging Projects</a> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -33,7 +33,7 @@ A project that works with several kinds of data appears under each of them.
 - [File Hash](#file-hash) <sup>21 projects</sup>
 - [Image](#image) <sup>59 projects</sup>
 - [IP Address](#ip-address) <sup>53 projects</sup>
-- [Keyword](#keyword) <sup>6 projects</sup>
+- [Keyword](#keyword) <sup>8 projects</sup>
 - [Location](#location) <sup>37 projects</sup>
 - [Name](#name) <sup>50 projects</sup>
 - [Onion Service](#onion-service) <sup>16 projects</sup>
@@ -41,7 +41,7 @@ A project that works with several kinds of data appears under each of them.
 - [Phone Number](#phone-number) <sup>12 projects</sup>
 - [Repository URL](#repository-url) <sup>15 projects</sup>
 - [Text](#text) <sup>1 project</sup>
-- [URL](#url) <sup>152 projects</sup>
+- [URL](#url) <sup>154 projects</sup>
 - [Username](#username) <sup>93 projects</sup>
 - [Video](#video) <sup>21 projects</sup>
 - [No fixed input](#no-fixed-input) <sup>16 projects</sup>
@@ -250,11 +250,11 @@ A project that works with several kinds of data appears under each of them.
 
 <a id="keyword"></a>
 
-## Keyword <sup>6 projects</sup>
+## Keyword <sup>8 projects</sup>
 
 | Category | Projects |
 |:---|:---|
-| [Social Media](README.md#social-media) | [Pulpit](https://github.com/giovabal/pulpit) |
+| [Social Media](README.md#social-media) | [socai](https://github.com/socai-io/socai), [Jev Social](https://github.com/socai-io/jev-social), [Pulpit](https://github.com/giovabal/pulpit) |
 | [Web](README.md#web) | [monster-search](https://github.com/scaso01/monster-search) |
 | [Threat Intelligence](README.md#threat-intelligence) | [Taranis NG](https://github.com/SK-CERT/Taranis-NG) |
 | [Investigation](README.md#investigation) | [Argus](https://github.com/divinelabio/Argus), [Seekr](https://github.com/seekr-osint/seekr), [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) |
@@ -348,12 +348,12 @@ A project that works with several kinds of data appears under each of them.
 
 <a id="url"></a>
 
-## URL <sup>152 projects</sup>
+## URL <sup>154 projects</sup>
 
 | Category | Projects |
 |:---|:---|
 | [Identity](README.md#identity) | [sharetrace](https://github.com/soxoj/sharetrace), [Deep Research Ladder](https://github.com/hint-shu/deep-research) |
-| [Social Media](README.md#social-media) | [Agent Reach](https://github.com/Panniantong/Agent-Reach), [last30days](https://github.com/mvanhorn/last30days-skill), [Reddit Research MCP](https://github.com/dialog-tools/reddit-research-mcp), [discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) |
+| [Social Media](README.md#social-media) | [Agent Reach](https://github.com/Panniantong/Agent-Reach), [last30days](https://github.com/mvanhorn/last30days-skill), [Reddit Research MCP](https://github.com/dialog-tools/reddit-research-mcp), [socai](https://github.com/socai-io/socai), [Jev Social](https://github.com/socai-io/jev-social), [discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) |
 | [Infrastructure](README.md#infrastructure) | [HexStrike AI](https://github.com/0x4m4/hexstrike-ai), [Claude Red](https://github.com/SnailSploit/Claude-Red), [Claude Bug Bounty](https://github.com/awarexone/Agentic-Bug-Hunter), [Claude BugHunter](https://github.com/elementalsouls/Claude-BugHunter), [VulnClaw](https://github.com/Netw0rkNoob/VulnClaw), [CyberStrike](https://github.com/CyberStrikeus/CyberStrike), [redamon](https://github.com/samugit83/redamon), [Claude OSINT](https://github.com/elementalsouls/Claude-OSINT), [Hack Skills](https://github.com/yaklang/hack-skills), [Pentest AI Agents](https://github.com/0xSteph/pentest-ai-agents), [Pentest AI](https://github.com/0xSteph/pentest-ai), [Recon Skills](https://github.com/uphiago/recon-skills), [Cyberbro](https://github.com/stanfrbd/cyberbro), [Transilience Community Tools](https://github.com/transilienceai/communitytools), [TORCH](https://github.com/Encod3d-Sec/TORCH), [netscout](https://github.com/caio-ishikawa/netscout), [ThreatSwarm](https://github.com/mukul975/Threatswarm), [OSINT MCP Server](https://github.com/badchars/osint-mcp-server), [Ronin Recon](https://github.com/ronin-rb/ronin-recon), [CommiPiste](https://github.com/soxoj/CommiPiste), [Claude Code Pentest](https://github.com/Orizon-eu/claude-code-pentest), [Outrider Recon](https://github.com/Ap6pack/outrider-recon), [AH-OSINT](https://github.com/ArunHax/AH-OSINT), [Recon](https://github.com/g-baskin/recon), [Offensive Recon](https://github.com/mahuttha/offensive-recon), [LeakIX MCP](https://github.com/LeakIX/leakix-mcp), [Bounty Recon Pro](https://github.com/synicalkid/bounty-recon-pro) |
 | [Web](README.md#web) | [Firecrawl](https://github.com/firecrawl/firecrawl), [Browser Use](https://github.com/browser-use/browser-use), [Crawl4AI](https://github.com/unclecode/crawl4ai), [Scrapling](https://github.com/D4Vinci/Scrapling), [DeerFlow](https://github.com/bytedance/deer-flow), [Scrapy](https://github.com/scrapy/scrapy), [TrendRadar](https://github.com/sansan0/TrendRadar), [EasySpider](https://github.com/NaiboWang/EasySpider), [OpenHuman](https://github.com/tinyhumansai/openhuman), [SearXNG](https://github.com/searxng/searxng), [Vane](https://github.com/ItzCrazyKns/Vane), [Web-Check](https://github.com/lissy93/web-check), [changedetection.io](https://github.com/dgtlmoon/changedetection.io), [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai), [GPT Researcher](https://github.com/assafelovic/gpt-researcher), [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), [Crawlee](https://github.com/apify/crawlee), [Stagehand](https://github.com/browserbase/stagehand), [SingleFile](https://github.com/gildas-lormeau/SingleFile), [Linkwarden](https://github.com/linkwarden/linkwarden), [deep-research](https://github.com/dzhng/deep-research), [Katana](https://github.com/projectdiscovery/katana), [Maxun](https://github.com/getmaxun/maxun), [Photon](https://github.com/s0md3v/Photon), [httpx](https://github.com/projectdiscovery/httpx), [OpenJarvis](https://github.com/open-jarvis/OpenJarvis), [Apify MCP Server](https://github.com/apify/apify-mcp-server), [Steel Browser](https://github.com/steel-dev/steel-browser), [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server), [Trafilatura](https://github.com/adbar/trafilatura), [hakrawler](https://github.com/hakluke/hakrawler), [Exa MCP Server](https://github.com/exa-labs/exa-mcp-server), [Deep Research](https://github.com/u14app/deep-research), [Cariddi](https://github.com/edoardottt/cariddi), [pagodo](https://github.com/opsdisk/pagodo), [waybackpack](https://github.com/jsvine/waybackpack), [ParamSpider](https://github.com/devanshbatham/ParamSpider), [waymore](https://github.com/xnl-h4ck3r/waymore), [Bright Data MCP](https://github.com/brightdata/brightdata-mcp), [Tavily MCP](https://github.com/tavily-ai/tavily-mcp), [Mitaka](https://github.com/ninoseki/mitaka), [BlackWidow](https://github.com/1N3/BlackWidow), [pywb](https://github.com/webrecorder/pywb), [urlhunter](https://github.com/utkusen/urlhunter), [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz), [ArchiveWeb.page](https://github.com/webrecorder/archiveweb.page), [Brave Search MCP Server](https://github.com/brave/brave-search-mcp-server), [FavFreak](https://github.com/devanshbatham/FavFreak), [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler), [Bellingcat Auto Archiver](https://github.com/bellingcat/auto-archiver), [ReplayWeb.page](https://github.com/webrecorder/replayweb.page), [urlfinder](https://github.com/projectdiscovery/urlfinder), [xurlfind3r](https://github.com/hueristiq/xurlfind3r), [waybackpy](https://github.com/akamhy/waybackpy), [De-Anthropocentric Research Engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine), [Browsertrix](https://github.com/webrecorder/browsertrix), [NotebookLM Skill](https://github.com/claude-world/notebooklm-skill), [Kindly Web Search MCP](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server), [TheScrapper](https://github.com/champmq/TheScrapper), [MCP Omnisearch](https://github.com/spences10/mcp-omnisearch), [Robofinder](https://github.com/Spix0r/robofinder), [KeyLeak Detector](https://github.com/Amal-David/keyleak-detector), [Google Research MCP](https://github.com/mixelpixx/Nimrod), [Bellingcat Wayback Google Analytics](https://github.com/bellingcat/wayback-google-analytics), [agent-pulse](https://github.com/barretlee/agent-pulse), [urx](https://github.com/hahwul/urx), [WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT), [Octagon MCP Server](https://github.com/OctagonAI/octagon-mcp-server), [abx-dl](https://github.com/ArchiveBox/abx-dl), [RivalSearch MCP](https://github.com/damionrashford/RivalSearchMCP), [Deep Research MCP](https://github.com/pminervini/deep-research-mcp), [Deep Web Research MCP](https://github.com/qpd-v/mcp-DEEPwebresearch), [Agent Search](https://github.com/brcrusoe72/agent-search), [kronikier](https://github.com/soxoj/kronikier), [Web Researcher MCP](https://github.com/zoharbabin/web-researcher-mcp), [OpenRouter Deep Research MCP](https://github.com/wheattoast11/openrouter-deep-research-mcp), [AtDork](https://github.com/amnottdevv/AtDork), [Wayback Archive](https://github.com/GeiserX/Wayback-Archive), [GiaSip Skills](https://github.com/GiaSip/giasip-skills), [Web Multi Search](https://github.com/soxoj/web-multi-search-skill), [Digital Research Skills](https://github.com/smarks26/digital-research-skills), [Internet Archive MCP](https://github.com/cyanheads/internet-archive-mcp-server), [Memorious4](https://github.com/dataresearchcenter/memorious), [Wayback Diff](https://github.com/GeiserX/Wayback-Diff), [Agent Toolkit](https://github.com/000001000000/agent-toolkit), [monster-search](https://github.com/scaso01/monster-search) |
 | [Dark Web](README.md#dark-web) | [TorBot](https://github.com/DedSecInside/TorBot) |
@@ -401,4 +401,4 @@ A project that works with several kinds of data appears under each of them.
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
 
-[Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>
+[Complete repository database (CSV)](osint-repositories.csv) <sup>495 unique repositories</sup>
