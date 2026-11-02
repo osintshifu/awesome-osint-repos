@@ -4,9 +4,9 @@
   <h1>Awesome OSINT Repositories Timeline</h1>
   <p>A visual chronology of tools added to the catalogue, newest first.</p>
   <p>
-    <img alt="Dated additions: 207" src="https://img.shields.io/badge/dated_additions-207-0969da?style=flat-square">
-    <img alt="Catalogue projects: 495" src="https://img.shields.io/badge/catalogue_projects-495-8250df?style=flat-square">
-    <img alt="Last update: 2026-10-26" src="https://img.shields.io/badge/last_update-2026--10--26-1f883d?style=flat-square">
+    <img alt="Dated additions: 206" src="https://img.shields.io/badge/dated_additions-206-0969da?style=flat-square">
+    <img alt="Catalogue projects: 493" src="https://img.shields.io/badge/catalogue_projects-493-8250df?style=flat-square">
+    <img alt="Last update: 2026-11-02" src="https://img.shields.io/badge/last_update-2026--11--02-1f883d?style=flat-square">
   </p>
   <p><strong><a href="TIMELINE.md">Catalogue Timeline</a></strong> · <a href="README.md">Awesome OSINT Repositories</a> · <a href="INPUTS.md">Tools by Target Input</a> · <a href="EMERGING.md">Emerging Projects</a> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -32,7 +32,7 @@
         Searches indexed YouTube transcripts and speaker mentions through the hosted Arcmira API.<br>
         <sub>Target Input: Keyword; Name; Organization Name; Video · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;28</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;29</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -42,7 +42,7 @@
         Combines username, email, and phone lookups and exports reports and evidence graphs.<br>
         <sub>Target Input: Username; Email; Phone Number · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;179</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;199</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"><strong>2026-10-04</strong><br><sub>6 projects</sub></td>
@@ -62,7 +62,7 @@
         Selects Instagram, TikTok, and LinkedIn research operations with Jev, executes them through the socai CLI, and produces reports citing captured sources.<br>
         <sub>Target Input: Keyword; URL · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;180</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;195</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -102,7 +102,7 @@
         Uses a signed-in Chrome session to search and inspect posts, profiles, comments, replies, and media across multiple social platforms.<br>
         <sub>Target Input: Keyword; URL · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;247</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;252</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"><strong>2026-09-08</strong><br><sub>6 projects</sub></td>
@@ -112,7 +112,7 @@
         Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;148</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;149</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -152,7 +152,7 @@
         Enriches threat indicators and imports or exports intelligence through standalone Python modules and a REST API.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;379</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;382</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -165,7 +165,7 @@
       <td align="right" valign="top"><strong>⭐&nbsp;665</strong></td>
     </tr>
     <tr>
-      <td align="right" valign="middle"><strong>2026-08-30</strong><br><sub>31 projects</sub></td>
+      <td align="right" valign="middle"><strong>2026-08-30</strong><br><sub>30 projects</sub></td>
       <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
       <td valign="middle">
         <strong><a href="https://github.com/WPTK/aircraft-research-claude-skill">Aircraft Research Skill</a></strong><br>
@@ -202,7 +202,7 @@
         Exposes a classified OSINT tool index, query builders, and identifier validators as a skill and MCP server.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;16</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;20</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -212,7 +212,7 @@
         Agent that maps a digital footprint across public data sources and reports the collected identifiers.<br>
         <sub>Target Input: Name; Username; Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;10</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;12</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -222,7 +222,7 @@
         Identifies origin IP exposure of sites served behind Cloudflare and similar reverse proxies.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,280</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,283</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -232,7 +232,7 @@
         Runs observable analysers and active response actions behind a single API.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,637</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,641</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -242,7 +242,7 @@
         Decodes Mode S transponder messages from RTL-SDR receivers into live aircraft data.<br>
         <sub>Target Input: Aircraft ID · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,963</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,965</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -252,7 +252,7 @@
         Extracts Ethereum blocks, transactions, token transfers, and logs into queryable datasets.<br>
         <sub>Target Input: Crypto Address · Category: Cryptocurrency</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,128</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,129</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -262,7 +262,7 @@
         Overlays live public satellite and spatial intelligence feeds on an interactive browser globe.<br>
         <sub>Target Input: Coordinates; Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;60,213</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;62,174</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -272,7 +272,7 @@
         Checks whether a phone number is registered on Snapchat, Instagram, and other consumer platforms.<br>
         <sub>Target Input: Phone Number · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,126</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,138</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -282,7 +282,7 @@
         Processes and indexes digital evidence, extracting files, documents, and derived artefacts for analysis.<br>
         <sub>Target Input: File; Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,068</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,086</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -292,7 +292,7 @@
         Crawls and spiders sites to collect endpoints, parameters, and linked assets.<br>
         <sub>Target Input: Domain; URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;17,734</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;17,785</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -302,7 +302,7 @@
         Scans live sites, browser runtime, and local configuration for exposed API keys and misconfigured backend services.<br>
         <sub>Target Input: Domain; URL; File · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;275</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;274</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -312,7 +312,7 @@
         Performs first-response triage against VirusTotal, Hybrid Analysis, URLhaus, and similar services.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,135</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,134</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -322,7 +322,7 @@
         Resolves large DNS name lists at high throughput for bulk lookups and subdomain enumeration.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,653</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,658</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -332,17 +332,7 @@
         Scans remote and local Model Context Protocol servers for unsafe tools, prompts, resources, and instructions.<br>
         <sub>Target Input: URL; File · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,098</strong></td>
-    </tr>
-    <tr>
-      <td align="right" valign="middle"></td>
-      <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
-      <td valign="middle">
-        <strong><a href="https://github.com/franckferman/MetaDetective">MetaDetective</a></strong><br>
-        Discovers files exposed on a site and reports their metadata, authors, and software fingerprints.<br>
-        <sub>Target Input: Domain; Document; File · Category: Documents &amp; Records</sub>
-      </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;515</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,106</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -352,7 +342,7 @@
         Scrapes result URLs from multiple onion search engines for a supplied query.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,829</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,835</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -372,7 +362,7 @@
         Performs speaker diarisation, voice activity detection, and speaker change detection on recordings.<br>
         <sub>Target Input: Audio · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;10,707</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;10,750</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -392,7 +382,7 @@
         Decodes and forwards ADS-B and Mode S feeds, aggregating aircraft positions from multiple receivers.<br>
         <sub>Target Input: Aircraft ID · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;696</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;703</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -402,7 +392,7 @@
         Runs configurable reconnaissance pipelines against web targets and stores results for comparison.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;8,896</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;8,913</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -412,7 +402,7 @@
         Retrieves historical robots.txt snapshots from web archives to recover retired paths and directories.<br>
         <sub>Target Input: Domain; URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;274</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;277</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -422,7 +412,7 @@
         Queries platform registration endpoints to confirm username and email usage without false positives.<br>
         <sub>Target Input: Username; Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,862</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,867</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -432,7 +422,7 @@
         Extracts obfuscated contact details and account metadata from public Instagram profiles.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,381</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,399</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -442,7 +432,7 @@
         Runs offline speech recognition across many languages on desktop, server, and mobile targets.<br>
         <sub>Target Input: Audio · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;15,204</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;15,224</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -452,7 +442,7 @@
         Searches breach databases, paste sites, and public leak sources for an email address.<br>
         <sub>Target Input: Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,700</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,699</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -462,7 +452,7 @@
         Finds Instagram profiles matching a supplied name, email address, or phone number.<br>
         <sub>Target Input: Name; Email; Phone Number · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,092</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,106</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -472,7 +462,7 @@
         Stores, links, and enriches observables, indicators, and threat actor knowledge in one repository.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,041</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,039</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"><strong>2026-08-25</strong><br><sub>15 projects</sub></td>
@@ -512,7 +502,7 @@
         Orchestrates deep research with subagents, memory, optional web search, tools, and sandboxing.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;84,438</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;84,879</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -522,7 +512,7 @@
         Builds local context and runs deep research across personal data and the web with browser tooling and durable agent workflows.<br>
         <sub>Target Input: URL; Document · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;42,346</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;42,497</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -532,7 +522,7 @@
         Runs local-first deep research across the web and indexed documents with citations and scheduled monitoring.<br>
         <sub>Target Input: URL; Document · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;12,090</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;12,936</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -552,7 +542,7 @@
         Discovers organizational domains, CIDRs, and related infrastructure through passive-first certificate, registry, and public-data plugins with confidence scoring.<br>
         <sub>Target Input: Organization Name; Domain; ASN; CIDR · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;94</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;95</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -582,7 +572,7 @@
         Provides a multi-module public-source investigation console for identity, infrastructure, media, geolocation, and cryptocurrency workflows.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;771</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;773</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -602,7 +592,7 @@
         Self-hosted situation console that fuses public aircraft, maritime, satellite, hazard, and conflict feeds with provenance, replay, and evidence capture.<br>
         <sub>Target Input: Location; Aircraft ID; Event Data · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;138</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;150</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -622,7 +612,7 @@
         Provides an MCP server, CLI, and dashboard for cited multi-source global intelligence, geofenced monitoring, alerts, and situation briefs.<br>
         <sub>Target Input: Keyword; Location; Event Data · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,036</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,057</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"><strong>2026-08-13</strong><br><sub>6 projects</sub></td>
@@ -642,7 +632,7 @@
         Aggregates live aviation, maritime, camera, seismic, wildfire, news, weather, space, cyber, sanctions, and public Telegram data in a real-time situational-awareness dashboard.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;11,322</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;11,467</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -652,7 +642,7 @@
         Coordinates AI-assisted reconnaissance, validation, remediation, and reporting workflows for authorized security testing.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,216</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,264</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -662,7 +652,7 @@
         Extracts public identity metadata exposed by supported social, document, code, and content-sharing links.<br>
         <sub>Target Input: URL · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;236</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;239</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -672,7 +662,7 @@
         Provides Claude Code with reconnaissance and authorized security-testing workflows, a searchable technique library, persistent engagement state, and MCP retrieval.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;335</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;337</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -682,7 +672,7 @@
         Collects and presents public DNS, TLS, headers, hosting, network, technology, security, and performance data for a website.<br>
         <sub>Target Input: Domain; URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;346</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;348</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"><strong>2026-08-12</strong><br><sub>2 projects</sub></td>
@@ -702,7 +692,7 @@
         Provides 28 source-grounded skills for agent-led OSINT workflows, evidence grading, and investigative reporting.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;55</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;58</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"><strong>2026-07-16</strong><br><sub>88 projects</sub></td>
@@ -712,7 +702,7 @@
         Gives agents collection workflows for public content across multiple social and developer platforms.<br>
         <sub>Target Input: Username; URL · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;102,840</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;107,882</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -722,7 +712,7 @@
         Provides document ingestion, agentic search, ranking, citations, RAG, and MCP access.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,114</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,119</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -742,7 +732,7 @@
         Detects file types and extracts text and metadata from many document formats.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,104</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,122</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -752,7 +742,7 @@
         Creates self-hosted, durable archives of web pages and linked online material.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;28,889</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;28,920</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -762,7 +752,7 @@
         Captures selected web pages and browsing sessions into portable web archives.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,606</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,610</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -782,7 +772,7 @@
         Archives web pages, social posts, images, and videos from queued URLs.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,139</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,142</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -812,7 +802,7 @@
         Generates and searches spelling and transliteration variants of personal names.<br>
         <sub>Target Input: Name · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;55</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;56</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -822,7 +812,7 @@
         Collects and analyzes public GitHub repository, user, organization, and activity data.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,896</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,894</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -852,7 +842,7 @@
         Lets AI agents navigate websites, interact with pages, and extract information.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;119,174</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;119,821</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -862,7 +852,7 @@
         Provides a collaborative platform for browser-based web archiving and replay.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;487</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;490</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -872,7 +862,7 @@
         Captures interactive websites as WARC and WACZ archives with replay quality checks.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,178</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,182</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -882,7 +872,7 @@
         Extracts and analyzes shoreline change from public satellite imagery.<br>
         <sub>Target Input: Location; Image · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;904</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;907</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -892,7 +882,7 @@
         Maintains a queryable knowledge base of trackers, cookies, domains, and responsible companies.<br>
         <sub>Target Input: Organization Name; URL · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -912,7 +902,7 @@
         Crawls websites and produces structured, LLM-ready content and metadata.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;86,290</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;86,767</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -922,7 +912,7 @@
         Provides a scalable SDK for HTTP crawling and browser automation.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;26,266</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;26,316</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -942,7 +932,7 @@
         Runs iterative web searches, evaluates findings, and builds source-grounded research answers.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;19,826</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;19,871</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -952,7 +942,7 @@
         Parses PDFs, office files, HTML, images, and audio into structured document representations.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;69,606</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;70,008</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -962,7 +952,7 @@
         Exposes document conversion and structured extraction from files and URLs through MCP.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;778</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;782</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -972,7 +962,7 @@
         Detects and recognizes text in document images using deep-learning models.<br>
         <sub>Target Input: Image; Document · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;6,394</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;6,407</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -992,7 +982,7 @@
         Creates and runs visual no-code web crawling and data extraction tasks.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;44,741</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;44,764</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1002,7 +992,7 @@
         Searches and downloads Earth observation products from multiple data providers.<br>
         <sub>Target Input: Location; Image · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;440</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;441</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1012,7 +1002,7 @@
         Provides agent access to European Parliament members, committees, votes, documents, and questions.<br>
         <sub>Target Input: Name; Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;29</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;30</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1022,7 +1012,7 @@
         Provides APIs for web search, scraping, crawling, and structured extraction.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;195,475</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;197,841</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1042,7 +1032,7 @@
         Applies machine-learning and computer-vision workflows to geospatial data.<br>
         <sub>Target Input: Location; Image · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,442</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,450</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1052,7 +1042,7 @@
         Provides open geospatial and remote-sensing analysis workflows.<br>
         <sub>Target Input: Location; Image · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;8,137</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;8,367</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1062,7 +1052,7 @@
         Recognizes user-defined entity types in unstructured text without task-specific retraining.<br>
         <sub>Target Input: Text · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,161</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,194</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1072,7 +1062,7 @@
         Collects structured place and business information from Google Maps.<br>
         <sub>Target Input: Organization Name; Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;6,869</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;7,179</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1082,7 +1072,7 @@
         Provides an alternative workflow for extracting business and place data from Google Maps.<br>
         <sub>Target Input: Organization Name; Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,818</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,857</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1092,7 +1082,7 @@
         Runs multi-agent web research and produces source-grounded reports with citations.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;30,297</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;30,430</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1102,7 +1092,7 @@
         Organizes cases, targets, findings, timelines, evidence hashes, and chain-of-custody records.<br>
         <sub>Target Input: Name; Organization Name; Event Data · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;65</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;73</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1112,7 +1102,7 @@
         Indexes investigative documents, runs OCR, and extracts people, organizations, and locations.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;770</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;773</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1152,7 +1142,7 @@
         Preserves bookmarked pages and stored copies for later reference and collaboration.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;20,214</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;20,295</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1162,7 +1152,7 @@
         Stores, indexes, and analyzes malware samples and associated metadata.<br>
         <sub>Target Input: File; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;63</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;65</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1172,7 +1162,7 @@
         Converts PDFs and other documents into Markdown, JSON, tables, and structured text.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;40,644</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;40,750</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1182,7 +1172,7 @@
         Converts common document and media formats into Markdown for analysis.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;192,278</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;193,510</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1192,7 +1182,7 @@
         Builds reusable web robots and structured data APIs through a visual interface.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;18,047</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;18,133</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1202,7 +1192,7 @@
         Extracts technical metadata from audio, video, image, and container formats.<br>
         <sub>Target Input: Video; Audio · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,047</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,053</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1222,7 +1212,7 @@
         Stores, correlates, analyzes, and shares structured threat intelligence and indicators.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;6,620</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;6,639</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1232,7 +1222,7 @@
         Adds searchable OCR text layers to scanned PDF documents.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;35,154</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;35,209</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1252,7 +1242,7 @@
         Extracts text, tables, layout, and structured content from PDF documents.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;30,017</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;30,153</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1262,7 +1252,7 @@
         Provides an open toolkit for text detection and recognition in images and documents.<br>
         <sub>Target Input: Image; Document · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,481</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,492</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1282,7 +1272,7 @@
         Cleans, transforms, reconciles, and links inconsistent structured data.<br>
         <sub>Target Input: Dataset · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;12,073</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;12,087</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1292,7 +1282,7 @@
         Downloads, models, and analyzes street networks and other OpenStreetMap features.<br>
         <sub>Target Input: Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,886</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,887</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1302,7 +1292,7 @@
         Performs multilingual OCR, document layout analysis, and structured text extraction.<br>
         <sub>Target Input: Image; Document · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;91,696</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;92,126</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1312,7 +1302,7 @@
         Analyzes PDFs through MCP while retaining page references, visual crops, and OCR provenance.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,054</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,059</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1332,7 +1322,7 @@
         Provides programmatic search access to Ahmia-indexed Tor hidden services.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;19</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;21</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1342,7 +1332,7 @@
         Indexes, serves, and replays WARC web archives.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,712</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,715</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1352,7 +1342,7 @@
         Provides a complete desktop environment for geospatial data analysis and mapping.<br>
         <sub>Target Input: Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;14,718</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;14,757</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1362,7 +1352,7 @@
         Replays WARC and WACZ web archives locally in a browser.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,000</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,002</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1372,7 +1362,7 @@
         Loads, transforms, composites, and exports meteorological satellite observations.<br>
         <sub>Target Input: Location; Image · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,212</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,215</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1382,7 +1372,7 @@
         Builds scraping pipelines that use language models to extract structured information.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;32,238</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;32,434</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1392,7 +1382,7 @@
         Provides adaptive web scraping, crawling, browser automation, and structured extraction.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;89,795</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;92,255</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1402,7 +1392,7 @@
         Implements a mature Python framework for crawling and extracting structured web data.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;65,030</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;65,175</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1412,7 +1402,7 @@
         Combines metadata, error-level, noise, clone, splice, and resampling analysis for images.<br>
         <sub>Target Input: Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,234</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,238</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1422,7 +1412,7 @@
         Performs probabilistic entity resolution and deduplication across imperfect records.<br>
         <sub>Target Input: Name; Organization Name; Dataset · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,536</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,554</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1432,7 +1422,7 @@
         Provides an SDK for agent-driven browser automation and page extraction.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;25,821</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;25,906</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1442,7 +1432,7 @@
         Runs a self-hosted browser API and sandbox for automated web operations.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;7,866</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;7,906</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1452,7 +1442,7 @@
         Creates incremental local archives of Telegram chats, media, and message history.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;232</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;235</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1462,7 +1452,7 @@
         Exposes Telegram searches, chats, messages, and public content to MCP clients through TDLib.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;10</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;13</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1472,7 +1462,7 @@
         Provides a multilingual optical character recognition engine.<br>
         <sub>Target Input: Image; Document · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;77,171</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;77,299</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1482,7 +1472,7 @@
         Supports collaborative search, annotation, and analysis across multiple event timelines.<br>
         <sub>Target Input: Event Data · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,442</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,448</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1492,7 +1482,7 @@
         Extracts main text, metadata, links, and document structure from web pages.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;7,024</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;7,059</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1502,7 +1492,7 @@
         Monitors news and RSS sources, tracks trends, stores history, and exposes MCP access.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;63,198</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;63,367</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1512,7 +1502,7 @@
         Provides an alternative Python client for collecting and interacting with public X data.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,755</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,761</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1522,7 +1512,7 @@
         Collects public X data through supported GraphQL endpoints with account-pool rotation.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,900</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,917</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1532,7 +1522,7 @@
         Normalizes documents and extracts elements for search, analytics, and RAG pipelines.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;15,626</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;15,670</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1542,7 +1532,7 @@
         Provides a self-hosted research interface that answers questions with linked sources.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;37,754</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;37,966</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1552,7 +1542,7 @@
         Runs multilingual speech recognition, translation, and language identification locally.<br>
         <sub>Target Input: Audio · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;111,290</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;111,770</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1562,7 +1552,7 @@
         Provides an efficient C and C++ implementation for local Whisper transcription.<br>
         <sub>Target Input: Audio · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;54,681</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;54,863</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1572,7 +1562,7 @@
         Adds word-level timestamps and speaker diarization to speech transcription.<br>
         <sub>Target Input: Audio · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;24,855</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;25,011</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1592,7 +1582,7 @@
         Provides an open-source search application and interface for indexed onion services.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;789</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;792</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1602,7 +1592,7 @@
         Collects, crawls, processes, correlates, and analyzes unstructured information from Tor and other sources.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,038</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,041</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1612,7 +1602,7 @@
         Scans supported code and storage sources for secrets with configurable detection and validation.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,343</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,746</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1622,7 +1612,7 @@
         Records, monitors, and searches local camera feeds with on-device detection workflows.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,139</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,141</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1632,7 +1622,7 @@
         Adds object detection, tracking, notifications, summaries, and search to security-camera feeds.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,029</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,224</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1642,7 +1632,7 @@
         Provides self-hosted face detection, recognition, verification, and similarity search through a REST API.<br>
         <sub>Target Input: Name; Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;8,385</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;8,398</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1662,7 +1652,7 @@
         Crawls onion services through Tor and visualizes extracted link relationships.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;45</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;46</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1672,7 +1662,7 @@
         Queries multiple onion search engines for keyword-matched hidden services.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;703</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;717</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1682,7 +1672,7 @@
         Analyzes camera feeds with local vision models, face recognition, re-identification, and configurable AI skills.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,112</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,124</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1692,7 +1682,7 @@
         Performs face verification, recognition, search, and facial attribute analysis.<br>
         <sub>Target Input: Name; Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;23,603</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;23,635</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1702,7 +1692,7 @@
         Saves accessible Discord chat history for offline preservation and review.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;589</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;590</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1732,7 +1722,7 @@
         Exports accessible Discord message history and rich media to local files.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;12,267</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;12,310</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1752,7 +1742,7 @@
         Recognizes and compares faces through a Python API and command-line interface.<br>
         <sub>Target Input: Name; Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;56,856</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;56,865</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1762,7 +1752,7 @@
         Records and analyzes local IP-camera streams with real-time object detection, tracking, and search.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;36,950</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;37,152</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1772,7 +1762,7 @@
         Downloads image galleries and media collections from supported websites.<br>
         <sub>Target Input: Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;556</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;566</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1782,7 +1772,7 @@
         Scans Git repositories and other inputs for hardcoded secrets and credentials.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;30,342</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;30,594</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1802,7 +1792,7 @@
         Indexes local photos and videos for reverse-image lookup, face search, and semantic discovery.<br>
         <sub>Target Input: Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,205</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,210</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1812,7 +1802,7 @@
         Probes web targets at scale and reports HTTP, TLS, technology, and response metadata.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;10,543</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;10,570</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1822,7 +1812,7 @@
         Performs face detection, recognition, matching, and broader human analysis in browsers and Node.js.<br>
         <sub>Target Input: Name; Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,357</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,369</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1832,7 +1822,7 @@
         Calculates perceptual image hashes for similarity and duplicate-image comparison.<br>
         <sub>Target Input: Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,882</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,884</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1842,7 +1832,7 @@
         Performs face detection, alignment, recognition, and embedding analysis across multiple runtimes.<br>
         <sub>Target Input: Name; Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;30,052</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;30,116</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1852,7 +1842,7 @@
         Runs local video monitoring, recording, motion analysis, and event capture for RTSP camera streams.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,125</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,130</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1872,7 +1862,7 @@
         Provides web-based multi-camera monitoring, motion detection, recording, and review.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,719</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,722</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1912,7 +1902,7 @@
         Finds publicly accessible IP-camera streams through public directories and web-search queries.<br>
         <sub>Target Input: Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;246</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;249</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1922,7 +1912,7 @@
         Detects, aligns, and extracts faces from images for downstream comparison workflows.<br>
         <sub>Target Input: Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,064</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,066</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1932,7 +1922,7 @@
         Sends images to multiple reverse-image search engines from Chrome, Edge, and Safari.<br>
         <sub>Target Input: Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,796</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,805</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -1942,7 +1932,7 @@
         Aggregates results from multiple search services in a self-hosted metasearch engine.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;38,859</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;39,122</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2002,7 +1992,7 @@
         Crawls websites to extract email addresses, phone numbers, and social profile links.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;376</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;379</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2022,7 +2012,7 @@
         Re-identifies people across images and camera views with pretrained models and training tools.<br>
         <sub>Target Input: Name; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,933</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,937</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2032,7 +2022,7 @@
         Finds, verifies, and analyzes exposed credentials across supported code and storage sources.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;28,706</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;28,820</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2042,7 +2032,7 @@
         Uses vision-language models to monitor camera feeds and search recorded frames with natural language.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,517</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,518</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2052,7 +2042,7 @@
         Provides privacy-focused local camera recording and monitoring without a cloud dependency.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;418</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;419</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2062,7 +2052,7 @@
         Analyzes local camera feeds with motion, object, face, and license-plate detection.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,660</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,679</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2082,7 +2072,7 @@
         Collects X timelines and search results through Playwright with resume and proxy controls.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;38</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;37</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2092,7 +2082,7 @@
         Monitors, records, and reviews IP, USB, and analog camera feeds.<br>
         <sub>Target Input: Image; Video · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,965</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,977</strong></td>
     </tr>
   </tbody>
 </table>
@@ -2100,7 +2090,7 @@
 <p align="right"><a href="#top">Back to top ↑</a></p>
 
 <details>
-<summary><strong>Legacy entries without a catalogue date</strong> <sup>288 projects</sup></summary>
+<summary><strong>Legacy entries without a catalogue date</strong> <sup>287 projects</sup></summary>
 
 These projects predate reliable per-entry addition tracking. They are listed alphabetically without an invented date.
 
@@ -2115,7 +2105,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
   </thead>
   <tbody>
     <tr>
-      <td align="right" valign="middle"><strong>No date</strong><br><sub>288 projects</sub></td>
+      <td align="right" valign="middle"><strong>No date</strong><br><sub>287 projects</sub></td>
       <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
       <td valign="middle">
         <strong><a href="https://github.com/frangelbarrera/Abster-Intelligence">Abster Intelligence</a></strong><br>
@@ -2142,7 +2132,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides privacy-oriented search and browser retrieval for AI agents.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;89</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;90</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2162,7 +2152,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Lets investigators search documents and structured data for people and companies.<br>
         <sub>Target Input: Organization Name · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,483</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,498</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2172,7 +2162,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches for accounts associated with a username across hundreds of platforms.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,629</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,712</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2182,7 +2172,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Tracks on-chain activity and market signals through a Telegram interface.<br>
         <sub>Target Input: Crypto Address · Category: Cryptocurrency</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;185</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;186</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2192,7 +2182,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Maps external assets and discovers domains from multiple data sources.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;15,420</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;15,452</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2202,7 +2192,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Packages extensive offensive, defensive, CTI, forensics, and reconnaissance procedures.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;35,041</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;35,433</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2212,7 +2202,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Makes Apify Actors and public web data collection available to compatible agents.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;13,224</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;14,341</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2222,7 +2212,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides searchable Reddit archives through data dumps, an API, and a web interface.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,735</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,769</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2232,7 +2222,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Combines multiple information gathering modules in a command-line toolkit.<br>
         <sub>Target Input: Keyword · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,283</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,294</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2242,7 +2232,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Orchestrates long-running research, cross-model review, experiments, and evidence capture.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;18,096</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;18,485</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2252,7 +2242,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides local document intelligence, retrieval, and relationship analysis for investigations.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;498</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;502</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2262,7 +2252,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Reports ASN, BGP, geolocation, reputation, and routing information for IPs.<br>
         <sub>Target Input: IP Address; ASN · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,944</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,947</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2272,7 +2262,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Maps organizations and ASNs to their advertised network ranges.<br>
         <sub>Target Input: IP Address; CIDR; ASN · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,144</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,148</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2282,7 +2272,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Automates multi-engine search queries with rate and failure controls.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;50</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;54</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2292,7 +2282,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Recursively discovers internet-facing assets through modular scan events.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;10,867</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;10,914</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2332,7 +2322,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches social platforms for accounts linked to a username or email.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;9,266</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;9,524</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2342,7 +2332,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Crawls a web application to collect intelligence and identify reachable paths.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,835</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,837</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2362,7 +2352,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Adds Brave web, news, image, video, and local search to MCP clients.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,533</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,553</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2372,7 +2362,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Connects agents to search, browsing, scraping, and public web datasets.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,687</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,705</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2382,7 +2372,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Crawls domains and extracts endpoints, secrets, tokens, and file references.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,806</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,811</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2392,7 +2382,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Monitors web pages and records content changes over time.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;35,304</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;35,456</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2412,7 +2402,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Organizes authorized bug-bounty reconnaissance, testing, validation, and reporting.<br>
         <sub>Target Input: Domain; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,441</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,536</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2422,7 +2412,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Adds structured web reconnaissance and vulnerability-hunting methodology.<br>
         <sub>Target Input: Domain; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,306</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,381</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2432,7 +2422,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Automates the authorized pentest lifecycle from initial recon to exploit-chain reports.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;28</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;29</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2442,7 +2432,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Adds structured external reconnaissance methods, dorks, validators, and reporting guidance.<br>
         <sub>Target Input: Domain; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,873</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,948</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2462,7 +2452,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides red-team and security research playbooks for Claude-based workflows.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;9,290</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;10,235</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2472,7 +2462,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Includes research, security, market analysis, compliance, and evidence-oriented agent skills.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;28,743</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;29,154</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2482,7 +2472,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Covers source verification, public records, FOIA work, scraping, and newsroom research.<br>
         <sub>Target Input: URL; Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;434</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;444</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2492,7 +2482,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Enumerates public cloud resources associated with organization keywords.<br>
         <sub>Target Input: Organization Name · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,155</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,158</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2502,7 +2492,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Looks for origin IP addresses hidden behind Cloudflare.<br>
         <sub>Target Input: Domain; IP Address · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;653</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;654</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2512,7 +2502,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Identifies websites using a company&#x27;s technology and classifies the resulting evidence.<br>
         <sub>Target Input: Organization Name; URL · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2522,7 +2512,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Extracts employee names from public LinkedIn search results.<br>
         <sub>Target Input: Name; Organization Name · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,621</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,636</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2532,7 +2522,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Watches multiple public intelligence sources and reports relevant changes.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;12,139</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;12,189</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2542,7 +2532,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Supplies agent workflows for CTF categories including OSINT, forensics, and web investigation.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,530</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,603</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2552,7 +2542,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Guides structured cyber threat intelligence and OSINT collection with confidence scoring.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;617</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;620</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2562,7 +2552,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Correlates CVE, EPSS, KEV, Shodan, VirusTotal, and related security intelligence.<br>
         <sub>Target Input: CVE ID · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,640</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,732</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2572,7 +2562,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Extracts observables from unstructured input and checks them across CTI services.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;698</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;699</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2582,7 +2572,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Runs agent-assisted offensive security with recon, testing, and evidence workflows.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,259</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,350</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2592,7 +2582,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Runs first-pass keyword discovery across dark-web search engines and saves result sets for later review.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,805</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,814</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2602,7 +2592,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Organizes autonomous research into composable campaigns, strategies, tactics, and procedures.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;505</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;507</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2612,7 +2602,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Compares public posting history and behavioral timing patterns.<br>
         <sub>Target Input: Name · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;356</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;362</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2652,7 +2642,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Coordinates recursive web search and page analysis for deeper topic coverage.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;87</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;88</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2692,7 +2682,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Generates and evaluates look-alike domains for phishing and impersonation research.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,767</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,769</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2702,7 +2692,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Runs high-volume DNS queries and filters resolved records.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,914</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,918</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2712,7 +2702,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides a web toolkit for DNS, certificate, hosting, and domain analysis.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,364</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,455</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2722,7 +2712,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Coordinates public-source email discovery, pattern generation, and verification agents.<br>
         <sub>Target Input: Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2732,7 +2722,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides a graphical interface for cross-platform username searches.<br>
         <sub>Target Input: Username · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;727</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;731</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2742,7 +2732,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Identifies company employees appearing in credential leak data.<br>
         <sub>Target Input: Organization Name · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;798</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;802</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2752,7 +2742,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides semantic web search, content retrieval, and research discovery through Exa.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,170</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,208</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2762,7 +2752,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Finds geolocation metadata in local and remote images and maps the results.<br>
         <sub>Target Input: Image · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;499</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;500</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2772,7 +2762,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Reads and writes metadata embedded in images and other file formats.<br>
         <sub>Target Input: Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,210</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,234</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2792,7 +2782,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides an open-source workflow for face-based image search.<br>
         <sub>Target Input: Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;337</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;339</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2802,7 +2792,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Creates favicon hashes for finding related websites through internet search engines.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,317</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,319</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2812,7 +2802,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects headers, DNS records, subdomains, and related web intelligence.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,037</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,042</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2822,7 +2812,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches social and online profiles associated with a username.<br>
         <sub>Target Input: Username · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;361</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;364</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2832,7 +2822,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Discovers and monitors domains and subdomains from multiple sources.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,799</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,809</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2842,7 +2832,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Gives agents web search, crawling, scraping, extraction, and structured research tools.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;7,690</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;7,751</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2852,7 +2842,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Explores investigation entities and enrichments in a local graph-based workspace.<br>
         <sub>Target Input: Name; Organization Name · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;9,947</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;10,030</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2862,7 +2852,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects known URLs from public archives and threat intelligence sources.<br>
         <sub>Target Input: URL · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,145</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,153</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2882,7 +2872,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Uses assisted image analysis to estimate where a photograph was taken.<br>
         <sub>Target Input: Location; Image · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,159</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,162</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2902,7 +2892,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Queries public Wi-Fi geolocation sources using BSSIDs and SSIDs.<br>
         <sub>Target Input: Location; BSSID / SSID · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,518</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,517</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2912,7 +2902,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Manages people, relationships, evidence, and investigation notes locally.<br>
         <sub>Target Input: Name · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;920</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;924</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2922,7 +2912,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects public information associated with Google accounts and identifiers.<br>
         <sub>Target Input: Name · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;19,748</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;19,763</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2942,7 +2932,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches GitHub at scale for exposed secrets and dork matches.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,472</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,473</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2962,7 +2952,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches public GitHub data for exposed secrets using feedback-driven queries.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,573</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,576</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2972,7 +2962,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Monitors public GitHub activity for exposed credentials and service tokens.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,460</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,466</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2982,7 +2972,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Tracks GitHub profile and repository activity with change notifications.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;55</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;57</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -2992,7 +2982,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Runs GitHub search queries intended to locate exposed sensitive data.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,301</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,305</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3012,7 +3002,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects public intelligence about GitHub users and repositories.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;262</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;263</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3022,7 +3012,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Uses public GitHub APIs for account, repository, and contribution analysis.<br>
         <sub>Target Input: Username; Repository URL · Category: Code Repositories</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;184</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;185</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3042,7 +3032,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Maps conflicts, military bases, and historical geopolitical data.<br>
         <sub>Target Input: Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,859</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,861</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3052,7 +3042,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Uses search-engine results to enumerate web paths, files, and parameters.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,594</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,595</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3072,7 +3062,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches for a person&#x27;s digital footprint across hundreds of websites.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,824</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,845</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3082,7 +3072,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides interactive exploration of cryptocurrency transactions and entities.<br>
         <sub>Target Input: Crypto Address · Category: Cryptocurrency</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;142</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;141</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3092,7 +3082,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Supplies CLI and backend utilities for cryptocurrency analytics workflows.<br>
         <sub>Target Input: Crypto Address · Category: Cryptocurrency</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;20</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;21</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3112,7 +3102,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches breach sources and local datasets for email-related records.<br>
         <sub>Target Input: Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,361</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,365</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3122,7 +3112,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Covers reconnaissance, web and network security, forensics, reversing, and authorized research.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,548</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,603</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3132,7 +3122,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Makes a large catalogue of pentest and OSINT tools discoverable and runnable by Claude.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,125</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,139</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3142,7 +3132,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Crawls web applications to discover endpoints, assets, and linked resources.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,152</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,157</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3152,7 +3142,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides command-line queries for open-source and threat intelligence indicators.<br>
         <sub>Target Input: IP Address · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,298</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,297</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3162,7 +3152,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Structures company due diligence, background checks, vendor risk, and privacy review.<br>
         <sub>Target Input: Name; Organization Name · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;11</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;12</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3172,7 +3162,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Connects agents to a large collection of security and reconnaissance tools.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;13,099</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;13,297</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3182,7 +3172,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Checks whether an email address is registered with supported online services.<br>
         <sub>Target Input: Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;15,390</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;15,497</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3192,7 +3182,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Performs local image and digital evidence analysis.<br>
         <sub>Target Input: Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,115</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,145</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3202,7 +3192,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Discovers hostnames associated with supplied IP addresses.<br>
         <sub>Target Input: IP Address · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,175</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,176</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3222,7 +3212,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects and indexes Telegram channel and group activity.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,681</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,684</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3242,7 +3232,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Tracks public Instagram profile changes, activity, and captured content.<br>
         <sub>Target Input: Username; Image · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,569</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,578</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3252,7 +3242,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Downloads Instagram posts, captions, profile data, and related metadata.<br>
         <sub>Target Input: Name; Username; Image · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;13,687</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;13,755</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3262,7 +3252,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects Instagram profile, media, relationship, and timeline data through interchangeable backends.<br>
         <sub>Target Input: Username; Image · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;129</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;132</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3272,7 +3262,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Adds local browser tools for metadata, archives, dorking, and OSINT lookups.<br>
         <sub>Target Input: URL; Image · Category: Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;123</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;127</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3292,7 +3282,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Orchestrates threat intelligence analyzers and connectors at scale.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,767</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,784</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3302,7 +3292,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Queries IP geolocation, ASN, privacy, and network data from the command line.<br>
         <sub>Target Input: IP Address; ASN · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,137</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,177</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3312,7 +3302,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Builds searchable network intelligence from active and passive observations.<br>
         <sub>Target Input: IP Address · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,189</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,193</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3322,7 +3312,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Aggregates web search, extraction, crawling, and browser automation for many clients.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;401</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;403</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3332,7 +3322,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Enumerates subdomains and resolves related DNS information.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,202</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,206</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3342,7 +3332,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Researches recent discussion across social platforms, communities, prediction markets, and the web.<br>
         <sub>Target Input: Username; URL · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;65,522</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;66,322</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3352,7 +3342,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Performs passive leak enumeration across multiple breach sources.<br>
         <sub>Target Input: Username; Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;602</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;608</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3372,7 +3362,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Discovers companies and employees, classifies roles, and builds organization views.<br>
         <sub>Target Input: Name; Organization Name · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;55</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;56</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3392,7 +3382,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Generates possible corporate usernames from public LinkedIn employee data.<br>
         <sub>Target Input: Name; Organization Name · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,884</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,890</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3402,7 +3392,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Extracts company employee records through LinkedIn endpoints.<br>
         <sub>Target Input: Name; Organization Name · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;619</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;621</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3412,7 +3402,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Discovers linked social accounts and email clues from a username.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,028</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,030</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3442,7 +3432,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Builds username-based account reports across thousands of sites.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;39,369</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;39,617</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3452,7 +3442,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Clusters identities and checks service usage and breach references for emails.<br>
         <sub>Target Input: Name; Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,693</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,735</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3462,7 +3452,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Finds existing email addresses derived from a nickname.<br>
         <sub>Target Input: Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;955</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;956</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3482,7 +3472,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Normalizes malware sandbox verdicts, IOCs, artifacts, and ATT&amp;CK mappings.<br>
         <sub>Target Input: File; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;32</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;33</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3512,7 +3502,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Exposes look-alike domain discovery for phishing and impersonation investigations.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;50</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;51</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3542,7 +3532,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Connects agents to scientific literature search and research data services.<br>
         <sub>Target Input: Document; Dataset · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;155</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;156</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3552,7 +3542,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Correlates IP, ASN, domain, and network data without mandatory API keys.<br>
         <sub>Target Input: IP Address; ASN · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,857</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,859</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3582,7 +3572,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Adds browser searches for URLs, hashes, IP addresses, and other indicators.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,884</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,886</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3592,7 +3582,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Combines multiple identity, domain, phone, and social investigation modules.<br>
         <sub>Target Input: Name; Username; Phone Number; Domain · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,330</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,358</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3642,7 +3632,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Connects AI agents to NotebookLM for cited source ingestion, querying, and synthesis.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;6,397</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;6,441</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3652,7 +3642,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Uses NotebookLM for source-grounded research, synthesis, and content preparation.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;483</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;489</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3662,7 +3652,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Gives agents programmatic, source-grounded access to NotebookLM research workflows.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;19,921</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;20,068</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3682,7 +3672,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides public company, market, investor, private-market, and crypto research data.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;147</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;148</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3712,7 +3702,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides link analysis and open-source intelligence investigation workflows.<br>
         <sub>Target Input: Name; Organization Name · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;335</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;336</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3722,7 +3712,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Combines numerous sources and methods for subdomain discovery.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;10,121</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;10,130</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3732,7 +3722,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Adds Tor search, hidden-service retrieval, crawling, and export workflows to OpenClaw.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;81</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;93</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3742,7 +3732,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches, extracts, and links entities across large document collections.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,228</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,231</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3762,7 +3752,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Organizes cyber threat intelligence in a graph-based analysis platform.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;10,203</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;10,248</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3772,7 +3762,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Combines OSINT tools in an interactive agent, command-line interface, and MCP server.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,814</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,843</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3802,7 +3792,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Builds searchable data on sanctions, entities, and persons of interest.<br>
         <sub>Target Input: Organization Name · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;855</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;864</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3812,7 +3802,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Detects newly registered look-alike domains associated with brands.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;987</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;989</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3822,7 +3812,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Combines OSINT playbooks, agent instructions, report templates, and MCP tool definitions.<br>
         <sub>Target Input: - · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;40</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;45</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3832,7 +3822,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides guided people, domain, organization, breach, and evidence-analysis workflows.<br>
         <sub>Target Input: Name; Organization Name; Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;64</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;65</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3882,7 +3872,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Organizes investigation data and geographic findings on an interactive map.<br>
         <sub>Target Input: Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;669</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;676</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3912,7 +3902,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Runs phased people research with source grading, correlation, and report generation.<br>
         <sub>Target Input: Name · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;150</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;151</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3932,7 +3922,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides an interactive interface for collecting information from Instagram profiles.<br>
         <sub>Target Input: Name; Username; Image · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;15,225</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;15,366</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3942,7 +3932,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Maps Instagram followers and relationships in Neo4j for network analysis.<br>
         <sub>Target Input: Username; Image · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;969</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;973</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -3968,16 +3958,6 @@ These projects predate reliable per-entry addition tracking. They are listed alp
       <td align="right" valign="middle"></td>
       <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
       <td valign="middle">
-        <strong><a href="https://github.com/opsdisk/pagodo">pagodo</a></strong><br>
-        Automates Google dork collection and searches against a target.<br>
-        <sub>Target Input: URL · Category: Web</sub>
-      </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,412</strong></td>
-    </tr>
-    <tr>
-      <td align="right" valign="middle"></td>
-      <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
-      <td valign="middle">
         <strong><a href="https://github.com/ALW1EZ/PANO">PANO</a></strong><br>
         Combines link graphs, timelines, notes, and assisted investigation features.<br>
         <sub>Target Input: Name; Organization Name; Event Data · Category: Investigation</sub>
@@ -3992,7 +3972,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Mines web archives for URLs containing useful parameters.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,199</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,201</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4002,7 +3982,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Exposes security tools, specialist agents, and deterministic probes through CLI and MCP.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,776</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,792</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4012,7 +3992,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Supplies specialized subagents for recon analysis, exploit research, detection, and reporting.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,376</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,399</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4022,7 +4002,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects and correlates publicly available information about phone numbers.<br>
         <sub>Target Input: Phone Number · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;18,292</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;18,360</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4032,7 +4012,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Crawls a supplied URL to collect links and related open-source data.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;13,298</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;13,317</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4052,7 +4032,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Aggregates several public phone number investigation methods.<br>
         <sub>Target Input: Phone Number · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,227</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,231</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4072,7 +4052,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches breach data for passwords associated with an email address.<br>
         <sub>Target Input: Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,670</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,673</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4092,7 +4072,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Performs competitive intelligence across products, infrastructure, APIs, and communities.<br>
         <sub>Target Input: Organization Name; Domain; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;6</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;7</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4102,7 +4082,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides field-oriented recon, dorking, secret discovery, asset mapping, and testing playbooks.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,317</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,323</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4112,7 +4092,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Organizes modular open-source intelligence collection in a command-line framework.<br>
         <sub>Target Input: Name; Organization Name; Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;6,018</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;6,027</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4122,7 +4102,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Orchestrates domain reconnaissance, asset collection, and follow-up checks.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;8,295</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;8,324</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4132,7 +4112,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Supports structured Reddit discovery, thread collection, and community research.<br>
         <sub>Target Input: Username; URL · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;257</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;259</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4152,7 +4132,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Connects agents to reverse engineering, malware, forensics, and vulnerability research tools.<br>
         <sub>Target Input: File; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;213</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;216</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4172,7 +4152,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Refines queries, filters dark-web search results, and saves assisted investigation summaries.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;7,710</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;7,848</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4192,7 +4172,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides reusable scientific research workflows and access patterns for public databases.<br>
         <sub>Target Input: Document; Dataset · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;54,691</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;55,793</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4202,7 +4182,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Manages distributed asset discovery, monitoring, and exposure analysis.<br>
         <sub>Target Input: Domain; IP Address · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,138</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,249</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4222,7 +4202,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Aggregates phone number searches and produces investigation reports.<br>
         <sub>Target Input: Phone Number · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,069</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,090</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4232,7 +4212,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Offers a multi-purpose OSINT toolkit through a web interface.<br>
         <sub>Target Input: Keyword · Category: Investigation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;886</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;888</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4252,7 +4232,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Tracks aircraft, satellites, seismic events, and other global activity.<br>
         <sub>Target Input: Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;11,378</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;11,432</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4262,7 +4242,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Estimates possible locations from the geometry of shadows in an image.<br>
         <sub>Target Input: Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;621</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;623</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4272,7 +4252,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Checks a username across many social networks.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;94,926</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;95,409</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4282,7 +4262,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides device search, IP reconnaissance, DNS, CPE, and CVE intelligence.<br>
         <sub>Target Input: Domain; IP Address · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;178</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;184</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4292,7 +4272,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Adds passive asset discovery, DNS analysis, and vulnerability intelligence from Shodan.<br>
         <sub>Target Input: Domain; IP Address · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;22</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;23</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4312,7 +4292,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches OpenStreetMap data for real-world infrastructure patterns.<br>
         <sub>Target Input: Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;572</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;576</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4332,7 +4312,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Saves a complete web page as one file for preservation and later analysis.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;22,732</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;22,803</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4352,7 +4332,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Retrieves public account details associated with Snapchat usernames.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;358</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;361</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4362,7 +4342,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches for username usage across a large collection of websites.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;4,054</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;4,062</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4372,7 +4352,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches and analyzes profiles across numerous social platforms.<br>
         <sub>Target Input: Name; Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;24,382</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;24,427</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4382,7 +4362,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Converts profile URLs into structured identity records across many platforms.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,131</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,134</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4392,7 +4372,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Retrieves selected public information associated with an Instagram account.<br>
         <sub>Target Input: Username; Image · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;444</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;447</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4402,7 +4382,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Automates multi-source OSINT collection and attack-surface mapping.<br>
         <sub>Target Input: Email; Domain; IP Address · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;23,836</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;24,245</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4412,7 +4392,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Tracks public Steam player activity, game sessions, and status changes.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;59</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;60</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4422,7 +4402,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Finds mutual friends between public Steam profiles.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;104</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;105</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4442,7 +4422,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Finds subdomains and exposed data referenced in JavaScript files.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,906</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,909</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4462,7 +4442,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Enumerates subdomains using passive online sources.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;14,663</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;14,702</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4472,7 +4452,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Enumerates subdomains and related targets from public sources.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;976</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;978</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4482,7 +4462,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects and analyzes open-source information for situational awareness.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,229</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,231</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4492,7 +4472,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Exposes search, extraction, crawling, mapping, and research functions from Tavily.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,460</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,471</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4512,7 +4492,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Checks whether supplied phone numbers are connected to Telegram accounts.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,856</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,872</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4552,7 +4532,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects and analyzes public Telegram chat data.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,256</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,258</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4562,7 +4542,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides a modular framework for researching Telegram entities.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,334</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,336</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4572,7 +4552,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects Telegram channel information and supports repeatable investigation tasks.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;543</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;542</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4582,7 +4562,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects names, email addresses, subdomains, and hosts from public sources.<br>
         <sub>Target Input: Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;18,053</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;18,213</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4592,7 +4572,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Extracts and routes threat indicators from public information feeds.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;933</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;931</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4602,7 +4582,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Coordinates scope-aware agents across recon, exploitation, DFIR, and final reporting.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;91</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;94</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4612,7 +4592,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides a multi-target information gathering toolkit.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,109</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,135</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4622,7 +4602,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Crawls a known onion service and exports its link tree for structure mapping.<br>
         <sub>Target Input: URL; Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,118</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,158</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4632,7 +4612,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Extracts Telegram bot, chat, and user information from tokens and identifiers.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;879</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;880</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4642,7 +4622,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Covers security reconnaissance, bug bounty, AI threat testing, validation, and reporting.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;595</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;603</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4662,7 +4642,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Queries internet search engines for exposed hosts matching a search.<br>
         <sub>Target Input: IP Address · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,096</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,102</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4672,7 +4652,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Scrapes and archives Reddit submissions, comments, and user activity.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,038</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,044</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4682,7 +4662,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Passively collects URLs associated with a target.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;919</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;921</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4692,7 +4672,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Finds URLs exposed through public URL-shortening services.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,702</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,703</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4702,7 +4682,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Extracts URLs from public web archives for later analysis.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;193</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;194</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4712,7 +4692,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Runs username and email discovery checks across many services.<br>
         <sub>Target Input: Username; Email · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;5,477</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;5,544</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4722,7 +4702,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Generates likely username permutations from names and naming patterns.<br>
         <sub>Target Input: Username · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,488</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,495</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4742,7 +4722,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Performs lightweight username checks across online services.<br>
         <sub>Target Input: Username · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;336</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;335</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4752,7 +4732,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Queries files, URLs, domains, IPs, and related security-analysis records.<br>
         <sub>Target Input: Domain; IP Address; URL; File; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;151</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;155</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4762,7 +4742,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Runs a self-hosted pipeline for dark-web collection, extraction, correlation, and graph analysis.<br>
         <sub>Target Input: Onion Service · Category: Dark Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;932</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;969</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4772,7 +4752,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Orchestrates information gathering, vulnerability analysis, exploitation, and reporting.<br>
         <sub>Target Input: Domain; IP Address; URL · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;3,807</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,853</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4792,7 +4772,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects, enriches, and searches cyber threat intelligence with assisted analysis.<br>
         <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,434</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,440</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4832,7 +4812,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Provides a command-line and library interface to Wayback Machine APIs.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;610</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;612</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4842,7 +4822,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Collects archived URLs and responses from several public sources.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,783</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,787</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4862,7 +4842,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches the web, extracts sources, and produces citation-aware research results.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;70</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;75</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4872,7 +4852,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Produces a broad technical and open-source intelligence report for a website.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;35,240</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;35,327</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4882,7 +4862,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Checks usernames using community-maintained site definitions and scripts.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,981</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;3,011</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4892,7 +4872,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Retrieves public WhatsApp account details associated with a number.<br>
         <sub>Target Input: Username; Phone Number · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;369</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;373</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4902,7 +4882,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Unifies geopolitical news, infrastructure, and event monitoring in one dashboard.<br>
         <sub>Target Input: Location · Category: Geolocation</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;89,560</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;90,000</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4912,7 +4892,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Retrieves public X posts, replies, timelines, and articles without login.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;994</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;998</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4922,7 +4902,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Runs phone, email, domain, VIN, and identity-oriented lookup modules.<br>
         <sub>Target Input: Name; Email; Phone Number; Domain · Category: Infrastructure</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;2,791</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;2,808</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4932,7 +4912,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Searches, monitors, and exports public X data for agent-assisted investigations.<br>
         <sub>Target Input: Username · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;255</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;260</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4942,7 +4922,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Discovers URLs for a domain through passive public sources.<br>
         <sub>Target Input: URL · Category: Web</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;730</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;733</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4962,7 +4942,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Downloads public video, audio, subtitles, comments, and metadata from supported platforms.<br>
         <sub>Target Input: Username; Video · Category: Social Media</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;202,343</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;204,660</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4972,7 +4952,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Aggregates public information associated with an email address.<br>
         <sub>Target Input: Email · Category: Identity</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;1,094</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;1,098</strong></td>
     </tr>
     <tr>
       <td align="right" valign="middle"></td>
@@ -4992,7 +4972,7 @@ These projects predate reliable per-entry addition tracking. They are listed alp
         Connects Zotero collections to source-grounded research and agent workflows.<br>
         <sub>Target Input: Document · Category: Documents &amp; Records</sub>
       </td>
-      <td align="right" valign="top"><strong>⭐&nbsp;73</strong></td>
+      <td align="right" valign="top"><strong>⭐&nbsp;74</strong></td>
     </tr>
   </tbody>
 </table>
