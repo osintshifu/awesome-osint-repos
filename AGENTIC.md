@@ -4,10 +4,10 @@
   <h1>Agentic AI OSINT</h1>
   <p>Open-source skills, plugins, MCP servers, and AI-agent integrations for investigative work.</p>
   <p>
-    <img alt="Total projects: 134" src="https://img.shields.io/badge/total_projects-134-bf8700?style=flat-square">
-    <img alt="MCP integrations: 62" src="https://img.shields.io/badge/MCP_integrations-62-0969da?style=flat-square">
+    <img alt="Total projects: 133" src="https://img.shields.io/badge/total_projects-133-bf8700?style=flat-square">
+    <img alt="MCP integrations: 61" src="https://img.shields.io/badge/MCP_integrations-61-0969da?style=flat-square">
     <img alt="Skill integrations: 54" src="https://img.shields.io/badge/skill_integrations-54-8250df?style=flat-square">
-    <img alt="Last update: 2026-11-02" src="https://img.shields.io/badge/last_update-2026--11--02-1f883d?style=flat-square">
+    <img alt="Last update: 2026-11-09" src="https://img.shields.io/badge/last_update-2026--11--09-1f883d?style=flat-square">
   </p>
   <p><a href="README.md">Awesome OSINT Repositories</a> · <a href="INPUTS.md">Tools by Target Input</a> · <a href="EMERGING.md">Emerging Projects</a> · <strong><a href="AGENTIC.md">Agentic AI OSINT</a></strong> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -36,11 +36,11 @@ This view contains implementation-bearing repositories that expose investigative
 - [Web](#web) <sup>35 projects</sup>
 - [Dark Web](#dark-web) <sup>2 projects</sup>
 - [Threat Intelligence](#threat-intelligence) <sup>10 projects</sup>
-- [Documents & Records](#documents-records) <sup>22 projects</sup>
+- [Documents & Records](#documents-records) <sup>21 projects</sup>
 - [Geolocation](#geolocation) <sup>6 projects</sup>
 - [Investigation](#investigation) <sup>18 projects</sup>
 - [Catalogue timeline](TIMELINE.md)
-- [Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>
+- [Complete repository database (CSV)](osint-repositories.csv) <sup>491 unique repositories</sup>
 
 ---
 
@@ -52,7 +52,7 @@ Tools centered on people, names, contact identifiers, and identity resolution.
 
 | Project | Target Input | AI Agent | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [OSINT Skill](https://github.com/smixs/osint-skill) | Name | Multiple / configurable agents | Runs phased people research with source grading, correlation, and report generation. | 2026-03-10 | 2026-03-10 | ⭐ 151 |
+| [OSINT Skill](https://github.com/smixs/osint-skill) | Name | Multiple / configurable agents | Runs phased people research with source grading, correlation, and report generation. | 2026-03-10 | 2026-03-10 | ⭐ 164 |
 | [OSINT AI Agent](https://github.com/sumba101/OSINT-AI-Agent) | Name; Username; Email | Claude (agent unspecified) | Orchestrates Holehe, Sherlock, and GHunt for person-focused investigations. | 2026-01-11 | 2026-01-11 | ⭐ 15 |
 | [Clearfront](https://github.com/scottmartinanderson/clearfront) | Name; Username; Email | Claude Code | Agent that maps a digital footprint across public data sources and reports the collected identifiers. | 2026-07-08 | 2026-08-19 | ⭐ 12 |
 | [Deep Research Ladder](https://github.com/hint-shu/deep-research) | Name; URL | Claude Code | Scales from fact checks to long-form research and OSINT entity reconnaissance. | 2026-04-17 | 2026-04-29 | ⭐ 7 |
@@ -68,13 +68,13 @@ Tools for discovering and analyzing public accounts and content on social platfo
 
 | Project | Target Input | AI Agent | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Agent Reach](https://github.com/Panniantong/Agent-Reach) | Username; URL | Multiple / configurable agents | Gives agents collection workflows for public content across multiple social and developer platforms. | 2026-02-24 | 2026-11-01 | ⭐ 107,882 |
-| [last30days](https://github.com/mvanhorn/last30days-skill) | Username; URL | Multiple / configurable agents | Researches recent discussion across social platforms, communities, prediction markets, and the web. | 2026-01-23 | 2026-11-01 | ⭐ 66,322 |
-| [MCP Maigret](https://github.com/w0h1v/mcp-maigret) | Username | Any MCP-compatible agent | Exposes Maigret username searches and public account discovery through MCP. | 2024-12-13 | 2026-10-09 | ⭐ 268 |
-| [xint](https://github.com/0xNyk/xint) | Username | Multiple / configurable agents | Searches, monitors, and exports public X data for agent-assisted investigations. | 2026-02-14 | 2026-08-28 | ⭐ 260 |
-| [Reddit Research MCP](https://github.com/dialog-tools/reddit-research-mcp) | Username; URL | Any MCP-compatible agent | Supports structured Reddit discovery, thread collection, and community research. | 2025-08-12 | 2026-10-20 | ⭐ 259 |
-| [socai](https://github.com/socai-io/socai) | Keyword; URL | Claude Code; OpenAI Codex | Uses a signed-in Chrome session to search and inspect posts, profiles, comments, replies, and media across multiple social platforms. | 2026-05-02 | 2026-11-02 | ⭐ 252 |
-| [Jev Social](https://github.com/socai-io/jev-social) | Keyword; URL | Jev | Selects Instagram, TikTok, and LinkedIn research operations with Jev, executes them through the socai CLI, and produces reports citing captured sources. | 2026-09-18 | 2026-10-12 | ⭐ 195 |
+| [Agent Reach](https://github.com/Panniantong/Agent-Reach) | Username; URL | Multiple / configurable agents | Gives agents collection workflows for public content across multiple social and developer platforms. | 2026-02-24 | 2026-11-08 | ⭐ 110,500 |
+| [last30days](https://github.com/mvanhorn/last30days-skill) | Username; URL | Multiple / configurable agents | Researches recent discussion across social platforms, communities, prediction markets, and the web. | 2026-01-23 | 2026-11-09 | ⭐ 67,089 |
+| [MCP Maigret](https://github.com/w0h1v/mcp-maigret) | Username | Any MCP-compatible agent | Exposes Maigret username searches and public account discovery through MCP. | 2024-12-13 | 2026-11-05 | ⭐ 272 |
+| [Reddit Research MCP](https://github.com/dialog-tools/reddit-research-mcp) | Username; URL | Any MCP-compatible agent | Supports structured Reddit discovery, thread collection, and community research. | 2025-08-12 | 2026-10-20 | ⭐ 263 |
+| [xint](https://github.com/0xNyk/xint) | Username | Multiple / configurable agents | Searches, monitors, and exports public X data for agent-assisted investigations. | 2026-02-14 | 2026-08-28 | ⭐ 261 |
+| [socai](https://github.com/socai-io/socai) | Keyword; URL | Claude Code; OpenAI Codex | Uses a signed-in Chrome session to search and inspect posts, profiles, comments, replies, and media across multiple social platforms. | 2026-05-02 | 2026-11-09 | ⭐ 255 |
+| [Jev Social](https://github.com/socai-io/jev-social) | Keyword; URL | Jev | Selects Instagram, TikTok, and LinkedIn research operations with Jev, executes them through the socai CLI, and produces reports citing captured sources. | 2026-09-18 | 2026-11-08 | ⭐ 209 |
 | [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | Username; Video | Any MCP-compatible agent | Exposes YouTube videos, channels, search results, comments, and transcripts through MCP. | 2025-03-31 | 2026-10-26 | ⭐ 27 |
 | [Telegram MCP TDLib](https://github.com/tolboy/telegram-mcp-tdlib) | Username | Any MCP-compatible agent | Exposes Telegram searches, chats, messages, and public content to MCP clients through TDLib. | 2026-07-04 | 2026-11-02 | ⭐ 13 |
 | [LinkedIn Recon Skill](https://github.com/Kewanvk/linkedin-recon-skill) | Name; Organization Name | Claude Code; OpenAI Codex | Maps public hiring networks and organizational relationships from LinkedIn evidence. | 2026-05-08 | 2026-05-25 | ⭐ 1 |
@@ -91,30 +91,30 @@ Tools for domains, IP addresses, networks, ASNs, and related internet infrastruc
 
 | Project | Target Input | AI Agent | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) | Domain; IP Address; URL | Any MCP-compatible agent | Connects agents to a large collection of security and reconnaissance tools. | 2025-07-10 | 2026-08-03 | ⭐ 13,297 |
-| [Claude Red](https://github.com/SnailSploit/Claude-Red) | Domain; IP Address; URL | Claude Code | Provides red-team and security research playbooks for Claude-based workflows. | 2026-03-04 | 2026-10-12 | ⭐ 10,235 |
-| [Claude Bug Bounty](https://github.com/awarexone/Agentic-Bug-Hunter) | Domain; URL | Claude Code | Organizes authorized bug-bounty reconnaissance, testing, validation, and reporting. | 2026-03-08 | 2026-10-28 | ⭐ 5,536 |
-| [Claude BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Domain; URL | Claude Code | Adds structured web reconnaissance and vulnerability-hunting methodology. | 2026-05-05 | 2026-11-02 | ⭐ 5,381 |
-| [VulnClaw](https://github.com/Netw0rkNoob/VulnClaw) | Domain; IP Address; URL | Multiple / configurable agents | Orchestrates information gathering, vulnerability analysis, exploitation, and reporting. | 2026-04-18 | 2026-10-05 | ⭐ 3,853 |
-| [CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | Domain; IP Address; URL | Multiple / configurable agents | Runs agent-assisted offensive security with recon, testing, and evidence workflows. | 2026-02-14 | 2026-11-01 | ⭐ 3,350 |
-| [redamon](https://github.com/samugit83/redamon) | Domain; IP Address; URL | Multiple / configurable agents | Coordinates AI-assisted reconnaissance, validation, remediation, and reporting workflows for authorized security testing. | 2025-12-29 | 2026-11-01 | ⭐ 3,264 |
-| [Claude OSINT](https://github.com/elementalsouls/Claude-OSINT) | Domain; URL | Claude Code | Adds structured external reconnaissance methods, dorks, validators, and reporting guidance. | 2026-04-26 | 2026-10-20 | ⭐ 2,948 |
-| [Hack Skills](https://github.com/yaklang/hack-skills) | Domain; IP Address; URL | Any Agent Skills-compatible agent | Covers reconnaissance, web and network security, forensics, reversing, and authorized research. | 2026-04-07 | 2026-09-13 | ⭐ 2,603 |
-| [Pentest AI Agents](https://github.com/0xSteph/pentest-ai-agents) | Domain; IP Address; URL | Claude Code | Supplies specialized subagents for recon analysis, exploit research, detection, and reporting. | 2026-03-28 | 2026-08-16 | ⭐ 2,399 |
-| [Pentest AI](https://github.com/0xSteph/pentest-ai) | Domain; IP Address; URL | Multiple / configurable agents | Exposes security tools, specialist agents, and deterministic probes through CLI and MCP. | 2026-04-04 | 2026-10-07 | ⭐ 1,792 |
-| [Recon Skills](https://github.com/uphiago/recon-skills) | Domain; IP Address; URL | Any Agent Skills-compatible agent | Provides field-oriented recon, dorking, secret discovery, asset mapping, and testing playbooks. | 2026-06-24 | 2026-09-01 | ⭐ 1,323 |
-| [Transilience Community Tools](https://github.com/transilienceai/communitytools) | Domain; IP Address; URL | Claude Code | Covers security reconnaissance, bug bounty, AI threat testing, validation, and reporting. | 2025-11-21 | 2026-07-29 | ⭐ 603 |
-| [TORCH](https://github.com/Encod3d-Sec/TORCH) | Domain; IP Address; URL | Claude Code | Provides Claude Code with reconnaissance and authorized security-testing workflows, a searchable technique library, persistent engagement state, and MCP retrieval. | 2026-07-14 | 2026-09-01 | ⭐ 337 |
-| [ThreatSwarm](https://github.com/mukul975/Threatswarm) | Domain; IP Address; URL | Claude Code | Coordinates scope-aware agents across recon, exploitation, DFIR, and final reporting. | 2026-04-29 | 2026-04-29 | ⭐ 94 |
-| [OSINT AI](https://github.com/dkyazzentwatwa/osint-ai) | Name; Organization Name; Domain | Generic AI agent | Provides guided people, domain, organization, breach, and evidence-analysis workflows. | 2026-02-27 | 2026-03-07 | ⭐ 65 |
-| [MCP dnstwist](https://github.com/w0h1v/mcp-dnstwist) | Domain | Any MCP-compatible agent | Exposes look-alike domain discovery for phishing and impersonation investigations. | 2024-12-19 | 2026-10-13 | ⭐ 51 |
-| [Claude Code Pentest](https://github.com/Orizon-eu/claude-code-pentest) | Domain; IP Address; URL | Claude Code | Automates the authorized pentest lifecycle from initial recon to exploit-chain reports. | 2026-03-11 | 2026-03-11 | ⭐ 29 |
+| [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) | Domain; IP Address; URL | Any MCP-compatible agent | Connects agents to a large collection of security and reconnaissance tools. | 2025-07-10 | 2026-08-03 | ⭐ 13,466 |
+| [Claude Red](https://github.com/SnailSploit/Claude-Red) | Domain; IP Address; URL | Claude Code | Provides red-team and security research playbooks for Claude-based workflows. | 2026-03-04 | 2026-10-12 | ⭐ 10,527 |
+| [Claude Bug Bounty](https://github.com/awarexone/Agentic-Bug-Hunter) | Domain; URL | Claude Code | Organizes authorized bug-bounty reconnaissance, testing, validation, and reporting. | 2026-03-08 | 2026-10-28 | ⭐ 5,756 |
+| [Claude BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Domain; URL | Claude Code | Adds structured web reconnaissance and vulnerability-hunting methodology. | 2026-05-05 | 2026-11-09 | ⭐ 5,502 |
+| [VulnClaw](https://github.com/Netw0rkNoob/VulnClaw) | Domain; IP Address; URL | Multiple / configurable agents | Orchestrates information gathering, vulnerability analysis, exploitation, and reporting. | 2026-04-18 | 2026-10-05 | ⭐ 3,910 |
+| [CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | Domain; IP Address; URL | Multiple / configurable agents | Runs agent-assisted offensive security with recon, testing, and evidence workflows. | 2026-02-14 | 2026-11-08 | ⭐ 3,477 |
+| [redamon](https://github.com/samugit83/redamon) | Domain; IP Address; URL | Multiple / configurable agents | Coordinates AI-assisted reconnaissance, validation, remediation, and reporting workflows for authorized security testing. | 2025-12-29 | 2026-11-08 | ⭐ 3,343 |
+| [Claude OSINT](https://github.com/elementalsouls/Claude-OSINT) | Domain; URL | Claude Code | Adds structured external reconnaissance methods, dorks, validators, and reporting guidance. | 2026-04-26 | 2026-10-20 | ⭐ 2,994 |
+| [Hack Skills](https://github.com/yaklang/hack-skills) | Domain; IP Address; URL | Any Agent Skills-compatible agent | Covers reconnaissance, web and network security, forensics, reversing, and authorized research. | 2026-04-07 | 2026-09-13 | ⭐ 2,637 |
+| [Pentest AI Agents](https://github.com/0xSteph/pentest-ai-agents) | Domain; IP Address; URL | Claude Code | Supplies specialized subagents for recon analysis, exploit research, detection, and reporting. | 2026-03-28 | 2026-08-16 | ⭐ 2,431 |
+| [Pentest AI](https://github.com/0xSteph/pentest-ai) | Domain; IP Address; URL | Multiple / configurable agents | Exposes security tools, specialist agents, and deterministic probes through CLI and MCP. | 2026-04-04 | 2026-11-03 | ⭐ 1,816 |
+| [Recon Skills](https://github.com/uphiago/recon-skills) | Domain; IP Address; URL | Any Agent Skills-compatible agent | Provides field-oriented recon, dorking, secret discovery, asset mapping, and testing playbooks. | 2026-06-24 | 2026-11-07 | ⭐ 1,332 |
+| [Transilience Community Tools](https://github.com/transilienceai/communitytools) | Domain; IP Address; URL | Claude Code | Covers security reconnaissance, bug bounty, AI threat testing, validation, and reporting. | 2025-11-21 | 2026-07-29 | ⭐ 611 |
+| [TORCH](https://github.com/Encod3d-Sec/TORCH) | Domain; IP Address; URL | Claude Code | Provides Claude Code with reconnaissance and authorized security-testing workflows, a searchable technique library, persistent engagement state, and MCP retrieval. | 2026-07-14 | 2026-09-01 | ⭐ 340 |
+| [ThreatSwarm](https://github.com/mukul975/Threatswarm) | Domain; IP Address; URL | Claude Code | Coordinates scope-aware agents across recon, exploitation, DFIR, and final reporting. | 2026-04-29 | 2026-04-29 | ⭐ 97 |
+| [OSINT AI](https://github.com/dkyazzentwatwa/osint-ai) | Name; Organization Name; Domain | Generic AI agent | Provides guided people, domain, organization, breach, and evidence-analysis workflows. | 2026-02-27 | 2026-03-07 | ⭐ 66 |
+| [MCP dnstwist](https://github.com/w0h1v/mcp-dnstwist) | Domain | Any MCP-compatible agent | Exposes look-alike domain discovery for phishing and impersonation investigations. | 2024-12-19 | 2026-11-04 | ⭐ 51 |
+| [Claude Code Pentest](https://github.com/Orizon-eu/claude-code-pentest) | Domain; IP Address; URL | Claude Code | Automates the authorized pentest lifecycle from initial recon to exploit-chain reports. | 2026-03-11 | 2026-03-11 | ⭐ 31 |
 | [Shodan MCP by Vorota](https://github.com/Vorota-ai/shodan-mcp) | Domain; IP Address | Any MCP-compatible agent | Adds passive asset discovery, DNS analysis, and vulnerability intelligence from Shodan. | 2026-02-12 | 2026-02-12 | ⭐ 23 |
 | [Outrider Recon](https://github.com/Ap6pack/outrider-recon) | Domain; URL | Claude Code | Runs evidence-backed external reconnaissance with policy controls and optional MCP enrichment. | 2026-04-29 | 2026-09-12 | ⭐ 15 |
-| [Recon](https://github.com/g-baskin/recon) | Organization Name; Domain; URL | Claude Code | Performs competitive intelligence across products, infrastructure, APIs, and communities. | 2026-02-25 | 2026-10-20 | ⭐ 7 |
+| [Recon](https://github.com/g-baskin/recon) | Organization Name; Domain; URL | Claude Code | Performs competitive intelligence across products, infrastructure, APIs, and communities. | 2026-02-25 | 2026-10-20 | ⭐ 8 |
 | [Offensive Recon](https://github.com/mahuttha/offensive-recon) | Domain; IP Address; URL | Claude Code | Packages multi-phase reconnaissance skills and agents around common security tools. | 2026-03-01 | 2026-03-01 | ⭐ 4 |
 | [LeakIX MCP](https://github.com/LeakIX/leakix-mcp) | Domain; IP Address; URL | Any MCP-compatible agent | Exposes LeakIX searches for internet services, leaks, domains, and IP addresses through MCP. | 2026-01-27 | 2026-10-15 | ⭐ 3 |
-| [Bounty Recon Pro](https://github.com/synicalkid/bounty-recon-pro) | Domain; URL | Claude Code | Runs scoped passive OSINT and active bug-bounty recon with evidence-oriented reports. | 2026-07-11 | 2026-07-11 | ⭐ 0 |
+| [Bounty Recon Pro](https://github.com/synicalkid/bounty-recon-pro) | Domain; URL | Claude Code | Runs scoped passive OSINT and active bug-bounty recon with evidence-oriented reports. | 2026-07-11 | 2026-11-05 | ⭐ 0 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
 
@@ -126,35 +126,35 @@ Tools that collect, search, analyze, crawl, or preserve public web content.
 
 | Project | Target Input | AI Agent | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Browser Use](https://github.com/browser-use/browser-use) | URL | Multiple / configurable agents | Lets AI agents navigate websites, interact with pages, and extract information. | 2024-10-31 | 2026-10-30 | ⭐ 119,821 |
-| [Scrapling](https://github.com/D4Vinci/Scrapling) | URL | Any Agent Skills-compatible agent; Any MCP-compatible agent | Provides adaptive web scraping, crawling, browser automation, and structured extraction. | 2024-10-13 | 2026-11-01 | ⭐ 92,255 |
-| [DeerFlow](https://github.com/bytedance/deer-flow) | URL | Multiple / configurable agents | Orchestrates deep research with subagents, memory, optional web search, tools, and sandboxing. | 2025-05-07 | 2026-11-02 | ⭐ 84,879 |
-| [TrendRadar](https://github.com/sansan0/TrendRadar) | URL | Any MCP-compatible agent | Monitors news and RSS sources, tracks trends, stores history, and exposes MCP access. | 2025-04-28 | 2026-10-29 | ⭐ 63,367 |
-| [OpenHuman](https://github.com/tinyhumansai/openhuman) | URL; Document | Multiple / configurable agents | Builds local context and runs deep research across personal data and the web with browser tooling and durable agent workflows. | 2026-02-18 | 2026-11-02 | ⭐ 42,497 |
-| [Vane](https://github.com/ItzCrazyKns/Vane) | URL | Multiple / configurable agents | Provides a self-hosted research interface that answers questions with linked sources. | 2024-04-09 | 2026-09-01 | ⭐ 37,966 |
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | URL | Multiple / configurable agents | Runs multi-agent web research and produces source-grounded reports with citations. | 2023-05-12 | 2026-10-10 | ⭐ 30,430 |
-| [Stagehand](https://github.com/browserbase/stagehand) | URL | Multiple / configurable agents | Provides an SDK for agent-driven browser automation and page extraction. | 2024-03-24 | 2026-10-30 | ⭐ 25,906 |
-| [deep-research](https://github.com/dzhng/deep-research) | URL | Multiple / configurable agents | Runs iterative web searches, evaluates findings, and builds source-grounded research answers. | 2025-02-04 | 2026-04-11 | ⭐ 19,871 |
-| [Apify MCP Server](https://github.com/apify/apify-mcp-server) | URL | Any MCP-compatible agent | Makes Apify Actors and public web data collection available to compatible agents. | 2025-01-02 | 2026-10-30 | ⭐ 14,341 |
-| [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | URL; Document | Multiple / configurable agents | Runs local-first deep research across the web and indexed documents with citations and scheduled monitoring. | 2026-02-15 | 2026-11-02 | ⭐ 12,936 |
-| [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) | URL | Any MCP-compatible agent | Gives agents web search, crawling, scraping, extraction, and structured research tools. | 2024-12-06 | 2026-11-02 | ⭐ 7,751 |
-| [Exa MCP Server](https://github.com/exa-labs/exa-mcp-server) | URL | Any MCP-compatible agent | Provides semantic web search, content retrieval, and research discovery through Exa. | 2024-11-27 | 2026-11-02 | ⭐ 5,208 |
-| [Deep Research](https://github.com/u14app/deep-research) | URL | Multiple / configurable agents | Runs iterative web research and synthesis with configurable models and MCP access. | 2025-02-22 | 2026-06-18 | ⭐ 4,686 |
-| [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) | URL | Any MCP-compatible agent | Connects agents to search, browsing, scraping, and public web datasets. | 2025-04-15 | 2026-11-02 | ⭐ 2,705 |
-| [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) | URL | Any MCP-compatible agent | Exposes search, extraction, crawling, mapping, and research functions from Tavily. | 2025-01-27 | 2026-10-28 | ⭐ 2,471 |
-| [Brave Search MCP Server](https://github.com/brave/brave-search-mcp-server) | URL | Any MCP-compatible agent | Adds Brave web, news, image, video, and local search to MCP clients. | 2025-06-12 | 2026-10-26 | ⭐ 1,553 |
-| [De-Anthropocentric Research Engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) | URL | Multiple / configurable agents | Organizes autonomous research into composable campaigns, strategies, tactics, and procedures. | 2026-02-10 | 2026-10-23 | ⭐ 507 |
-| [NotebookLM Skill](https://github.com/claude-world/notebooklm-skill) | URL | Claude Code | Uses NotebookLM for source-grounded research, synthesis, and content preparation. | 2026-03-13 | 2026-10-21 | ⭐ 489 |
-| [Kindly Web Search MCP](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) | URL | Any MCP-compatible agent | Aggregates web search, extraction, crawling, and browser automation for many clients. | 2026-01-02 | 2026-10-10 | ⭐ 403 |
-| [MCP Omnisearch](https://github.com/spences10/mcp-omnisearch) | URL | Any MCP-compatible agent | Combines multiple search, AI search, and content-processing providers behind MCP. | 2025-03-08 | 2026-10-31 | ⭐ 358 |
-| [Google Research MCP](https://github.com/mixelpixx/Nimrod) | URL | Any MCP-compatible agent | Uses Google Search and browser automation for multi-step cited research. | 2024-12-19 | 2026-08-14 | ⭐ 258 |
-| [abx-dl](https://github.com/ArchiveBox/abx-dl) | URL | Agent Skills-compatible coding agents | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-11-01 | ⭐ 149 |
-| [Octagon MCP Server](https://github.com/OctagonAI/octagon-mcp-server) | URL | Any MCP-compatible agent | Provides public company, market, investor, private-market, and crypto research data. | 2025-03-12 | 2026-07-09 | ⭐ 148 |
-| [RivalSearch MCP](https://github.com/damionrashford/RivalSearchMCP) | URL | Any MCP-compatible agent | Unifies web, social, news, academic, and entity-search sources behind MCP. | 2025-08-03 | 2026-05-31 | ⭐ 134 |
-| [Deep Research MCP](https://github.com/pminervini/deep-research-mcp) | URL | Multiple / configurable agents | Connects several deep-research agents and model providers through one MCP interface. | 2025-08-07 | 2026-10-31 | ⭐ 116 |
-| [Agent Search](https://github.com/brcrusoe72/agent-search) | URL | Any MCP-compatible agent | Provides privacy-oriented search and browser retrieval for AI agents. | 2026-02-18 | 2026-10-13 | ⭐ 90 |
+| [Browser Use](https://github.com/browser-use/browser-use) | URL | Multiple / configurable agents | Lets AI agents navigate websites, interact with pages, and extract information. | 2024-10-31 | 2026-10-30 | ⭐ 120,412 |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | URL | Any Agent Skills-compatible agent; Any MCP-compatible agent | Provides adaptive web scraping, crawling, browser automation, and structured extraction. | 2024-10-13 | 2026-11-09 | ⭐ 100,281 |
+| [DeerFlow](https://github.com/bytedance/deer-flow) | URL | Multiple / configurable agents | Orchestrates deep research with subagents, memory, optional web search, tools, and sandboxing. | 2025-05-07 | 2026-11-09 | ⭐ 85,181 |
+| [TrendRadar](https://github.com/sansan0/TrendRadar) | URL | Any MCP-compatible agent | Monitors news and RSS sources, tracks trends, stores history, and exposes MCP access. | 2025-04-28 | 2026-11-05 | ⭐ 63,541 |
+| [OpenHuman](https://github.com/tinyhumansai/openhuman) | URL; Document | Multiple / configurable agents | Builds local context and runs deep research across personal data and the web with browser tooling and durable agent workflows. | 2026-02-18 | 2026-11-09 | ⭐ 42,607 |
+| [Vane](https://github.com/ItzCrazyKns/Vane) | URL | Multiple / configurable agents | Provides a self-hosted research interface that answers questions with linked sources. | 2024-04-09 | 2026-09-01 | ⭐ 38,112 |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | URL | Multiple / configurable agents | Runs multi-agent web research and produces source-grounded reports with citations. | 2023-05-12 | 2026-11-09 | ⭐ 30,596 |
+| [Stagehand](https://github.com/browserbase/stagehand) | URL | Multiple / configurable agents | Provides an SDK for agent-driven browser automation and page extraction. | 2024-03-24 | 2026-11-08 | ⭐ 25,992 |
+| [deep-research](https://github.com/dzhng/deep-research) | URL | Multiple / configurable agents | Runs iterative web searches, evaluates findings, and builds source-grounded research answers. | 2025-02-04 | 2026-04-11 | ⭐ 19,883 |
+| [Apify MCP Server](https://github.com/apify/apify-mcp-server) | URL | Any MCP-compatible agent | Makes Apify Actors and public web data collection available to compatible agents. | 2025-01-02 | 2026-11-09 | ⭐ 15,390 |
+| [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | URL; Document | Multiple / configurable agents | Runs local-first deep research across the web and indexed documents with citations and scheduled monitoring. | 2026-02-15 | 2026-11-09 | ⭐ 14,050 |
+| [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) | URL | Any MCP-compatible agent | Gives agents web search, crawling, scraping, extraction, and structured research tools. | 2024-12-06 | 2026-11-09 | ⭐ 7,787 |
+| [Exa MCP Server](https://github.com/exa-labs/exa-mcp-server) | URL | Any MCP-compatible agent | Provides semantic web search, content retrieval, and research discovery through Exa. | 2024-11-27 | 2026-11-03 | ⭐ 5,219 |
+| [Deep Research](https://github.com/u14app/deep-research) | URL | Multiple / configurable agents | Runs iterative web research and synthesis with configurable models and MCP access. | 2025-02-22 | 2026-06-18 | ⭐ 4,687 |
+| [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) | URL | Any MCP-compatible agent | Connects agents to search, browsing, scraping, and public web datasets. | 2025-04-15 | 2026-11-09 | ⭐ 2,717 |
+| [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) | URL | Any MCP-compatible agent | Exposes search, extraction, crawling, mapping, and research functions from Tavily. | 2025-01-27 | 2026-11-05 | ⭐ 2,481 |
+| [Brave Search MCP Server](https://github.com/brave/brave-search-mcp-server) | URL | Any MCP-compatible agent | Adds Brave web, news, image, video, and local search to MCP clients. | 2025-06-12 | 2026-11-09 | ⭐ 1,565 |
+| [De-Anthropocentric Research Engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) | URL | Multiple / configurable agents | Organizes autonomous research into composable campaigns, strategies, tactics, and procedures. | 2026-02-10 | 2026-10-23 | ⭐ 510 |
+| [NotebookLM Skill](https://github.com/claude-world/notebooklm-skill) | URL | Claude Code | Uses NotebookLM for source-grounded research, synthesis, and content preparation. | 2026-03-13 | 2026-10-21 | ⭐ 494 |
+| [Kindly Web Search MCP](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) | URL | Any MCP-compatible agent | Aggregates web search, extraction, crawling, and browser automation for many clients. | 2026-01-02 | 2026-10-10 | ⭐ 402 |
+| [MCP Omnisearch](https://github.com/spences10/mcp-omnisearch) | URL | Any MCP-compatible agent | Combines multiple search, AI search, and content-processing providers behind MCP. | 2025-03-08 | 2026-11-07 | ⭐ 358 |
+| [Google Research MCP](https://github.com/mixelpixx/Nimrod) | URL | Any MCP-compatible agent | Uses Google Search and browser automation for multi-step cited research. | 2024-12-19 | 2026-08-14 | ⭐ 261 |
+| [abx-dl](https://github.com/ArchiveBox/abx-dl) | URL | Agent Skills-compatible coding agents | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-11-07 | ⭐ 151 |
+| [Octagon MCP Server](https://github.com/OctagonAI/octagon-mcp-server) | URL | Any MCP-compatible agent | Provides public company, market, investor, private-market, and crypto research data. | 2025-03-12 | 2026-07-09 | ⭐ 149 |
+| [RivalSearch MCP](https://github.com/damionrashford/RivalSearchMCP) | URL | Any MCP-compatible agent | Unifies web, social, news, academic, and entity-search sources behind MCP. | 2025-08-03 | 2026-05-31 | ⭐ 137 |
+| [Deep Research MCP](https://github.com/pminervini/deep-research-mcp) | URL | Multiple / configurable agents | Connects several deep-research agents and model providers through one MCP interface. | 2025-08-07 | 2026-11-04 | ⭐ 116 |
+| [Agent Search](https://github.com/brcrusoe72/agent-search) | URL | Any MCP-compatible agent | Provides privacy-oriented search and browser retrieval for AI agents. | 2026-02-18 | 2026-11-05 | ⭐ 89 |
 | [Deep Web Research MCP](https://github.com/qpd-v/mcp-DEEPwebresearch) | URL | Any MCP-compatible agent | Coordinates recursive web search and page analysis for deeper topic coverage. | 2025-01-13 | 2025-03-05 | ⭐ 88 |
-| [Web Researcher MCP](https://github.com/zoharbabin/web-researcher-mcp) | URL | Any MCP-compatible agent | Searches the web, extracts sources, and produces citation-aware research results. | 2026-05-18 | 2026-10-27 | ⭐ 75 |
+| [Web Researcher MCP](https://github.com/zoharbabin/web-researcher-mcp) | URL | Any MCP-compatible agent | Searches the web, extracts sources, and produces citation-aware research results. | 2026-05-18 | 2026-11-09 | ⭐ 77 |
 | [OpenRouter Deep Research MCP](https://github.com/wheattoast11/openrouter-deep-research-mcp) | URL | Any MCP-compatible agent | Orchestrates parallel research agents and consensus-backed synthesis through OpenRouter. | 2025-03-28 | 2026-03-04 | ⭐ 55 |
 | [GiaSip Skills](https://github.com/GiaSip/giasip-skills) | URL | Claude Code; OpenAI Codex | Provides quick recon, fact-checking, research orchestration, and multi-model dispatch. | 2026-05-30 | 2026-09-17 | ⭐ 13 |
 | [Web Multi Search](https://github.com/soxoj/web-multi-search-skill) | URL | OpenClaw | Searches several web engines in parallel and exports deduplicated results. | 2026-02-08 | 2026-02-08 | ⭐ 8 |
@@ -172,7 +172,7 @@ Tools for discovering, collecting, and analyzing onion services and dark-web con
 
 | Project | Target Input | AI Agent | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [OnionClaw](https://github.com/JacobJandon/OnionClaw) | Onion Service | OpenClaw | Adds Tor search, hidden-service retrieval, crawling, and export workflows to OpenClaw. | 2026-03-14 | 2026-10-29 | ⭐ 93 |
+| [OnionClaw](https://github.com/JacobJandon/OnionClaw) | Onion Service | OpenClaw | Adds Tor search, hidden-service retrieval, crawling, and export workflows to OpenClaw. | 2026-03-14 | 2026-10-29 | ⭐ 95 |
 | [Sicry](https://github.com/JacobJandon/Sicry) | Onion Service | Any MCP-compatible agent; Generic AI agent | Checks Tor health, rotates identity, searches onion engines, fetches known services, and exposes optional agent-assisted analysis. | 2026-03-14 | 2026-10-29 | ⭐ 19 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
@@ -185,42 +185,41 @@ Tools for threat data, indicators, file hashes, vulnerabilities, and malware ana
 
 | Project | Target Input | AI Agent | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [CVE MCP Server](https://github.com/mukul975/cve-mcp-server) | CVE ID | Any MCP-compatible agent | Correlates CVE, EPSS, KEV, Shodan, VirusTotal, and related security intelligence. | 2026-04-14 | 2026-06-22 | ⭐ 1,732 |
-| [MCP Scanner](https://github.com/cisco-ai-defense/mcp-scanner) | URL; File | Claude Code | Scans remote and local Model Context Protocol servers for unsafe tools, prompts, resources, and instructions. | 2025-09-24 | 2026-10-28 | ⭐ 1,106 |
-| [CTI Expert](https://github.com/7onez/cti-expert) | Domain; IP Address; URL; File Hash | Claude Code; OpenAI Codex | Guides structured cyber threat intelligence and OSINT collection with confidence scoring. | 2026-04-06 | 2026-10-22 | ⭐ 620 |
-| [Reversecore MCP](https://github.com/sjkim1127/Reversecore_MCP) | File; File Hash | Any MCP-compatible agent | Connects agents to reverse engineering, malware, forensics, and vulnerability research tools. | 2025-11-10 | 2026-10-17 | ⭐ 216 |
-| [Shodan MCP](https://github.com/w0h1v/mcp-shodan) | Domain; IP Address | Any MCP-compatible agent | Provides device search, IP reconnaissance, DNS, CPE, and CVE intelligence. | 2024-12-12 | 2026-10-12 | ⭐ 184 |
-| [VirusTotal MCP](https://github.com/w0h1v/mcp-virustotal) | Domain; IP Address; URL; File; File Hash | Any MCP-compatible agent | Queries files, URLs, domains, IPs, and related security-analysis records. | 2024-12-13 | 2026-10-20 | ⭐ 155 |
+| [CVE MCP Server](https://github.com/mukul975/cve-mcp-server) | CVE ID | Any MCP-compatible agent | Correlates CVE, EPSS, KEV, Shodan, VirusTotal, and related security intelligence. | 2026-04-14 | 2026-06-22 | ⭐ 1,767 |
+| [MCP Scanner](https://github.com/cisco-ai-defense/mcp-scanner) | URL; File | Claude Code | Scans remote and local Model Context Protocol servers for unsafe tools, prompts, resources, and instructions. | 2025-09-24 | 2026-11-06 | ⭐ 1,113 |
+| [CTI Expert](https://github.com/7onez/cti-expert) | Domain; IP Address; URL; File Hash | Claude Code; OpenAI Codex | Guides structured cyber threat intelligence and OSINT collection with confidence scoring. | 2026-04-06 | 2026-11-08 | ⭐ 623 |
+| [Reversecore MCP](https://github.com/sjkim1127/Reversecore_MCP) | File; File Hash | Any MCP-compatible agent | Connects agents to reverse engineering, malware, forensics, and vulnerability research tools. | 2025-11-10 | 2026-11-09 | ⭐ 220 |
+| [Shodan MCP](https://github.com/w0h1v/mcp-shodan) | Domain; IP Address | Any MCP-compatible agent | Provides device search, IP reconnaissance, DNS, CPE, and CVE intelligence. | 2024-12-12 | 2026-11-04 | ⭐ 189 |
+| [VirusTotal MCP](https://github.com/w0h1v/mcp-virustotal) | Domain; IP Address; URL; File; File Hash | Any MCP-compatible agent | Queries files, URLs, domains, IPs, and related security-analysis records. | 2024-12-13 | 2026-11-04 | ⭐ 155 |
 | [ZettelForge](https://github.com/ThreatRecall/zettelforge) | Domain; IP Address; URL; File Hash | Multiple / configurable agents | Extracts IOCs and threat entities into a local STIX knowledge graph with agent access. | 2026-04-06 | 2026-07-10 | ⭐ 66 |
-| [Malware Sandbox MCP](https://github.com/mukul975/Malware-Sandbox-mcp) | File; File Hash | Any MCP-compatible agent | Normalizes malware sandbox verdicts, IOCs, artifacts, and ATT&CK mappings. | 2026-06-11 | 2026-06-11 | ⭐ 33 |
-| [MISP MCP](https://github.com/MISP/misp-mcp) | Domain; IP Address; URL; File Hash | Any MCP-compatible agent | Provides read-only access to MISP threat intelligence events and attributes. | 2026-04-01 | 2026-04-05 | ⭐ 15 |
+| [Malware Sandbox MCP](https://github.com/mukul975/Malware-Sandbox-mcp) | File; File Hash | Any MCP-compatible agent | Normalizes malware sandbox verdicts, IOCs, artifacts, and ATT&CK mappings. | 2026-06-11 | 2026-06-11 | ⭐ 35 |
+| [MISP MCP](https://github.com/MISP/misp-mcp) | Domain; IP Address; URL; File Hash | Any MCP-compatible agent | Provides read-only access to MISP threat intelligence events and attributes. | 2026-04-01 | 2026-04-05 | ⭐ 16 |
 | [OSINT MCP Gateway](https://github.com/bonetrees/osint-mcp-gateway) | Domain; IP Address; URL | Any MCP-compatible agent | Routes agent queries across VirusTotal, Shodan, DNS, WHOIS, RIPEstat, and OTX. | 2025-11-23 | 2026-06-10 | ⭐ 0 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
 
 <a id="documents-records"></a>
 
-## 📄 Documents & Records <sup>22 projects</sup>
+## 📄 Documents & Records <sup>21 projects</sup>
 
 Tools for documents, files, datasets, public records, extraction, and structured review.
 
 | Project | Target Input | AI Agent | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Document; Dataset | Multiple / configurable agents | Provides reusable scientific research workflows and access patterns for public databases. | 2025-10-19 | 2026-11-02 | ⭐ 55,793 |
-| [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Document | Multiple / configurable agents | Gives agents programmatic, source-grounded access to NotebookLM research workflows. | 2026-01-07 | 2026-10-31 | ⭐ 20,068 |
-| [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | Document | Multiple / configurable agents | Orchestrates long-running research, cross-model review, experiments, and evidence capture. | 2026-03-10 | 2026-11-01 | ⭐ 18,485 |
-| [NotebookLM CLI and MCP](https://github.com/jacob-bd/gemini-notebook-mcp-cli) | Document | Multiple / configurable agents | Connects AI agents to NotebookLM for cited source ingestion, querying, and synthesis. | 2025-12-23 | 2026-11-02 | ⭐ 6,441 |
-| [Agentset](https://github.com/agentset-ai/agentset) | Document | Any MCP-compatible agent | Provides document ingestion, agentic search, ranking, citations, RAG, and MCP access. | 2025-03-10 | 2026-10-28 | ⭐ 2,119 |
-| [PDF Reader MCP](https://github.com/SylphxAI/anymd) | Document | Any MCP-compatible agent | Analyzes PDFs through MCP while retaining page references, visual crops, and OCR provenance. | 2025-04-04 | 2026-11-02 | ⭐ 1,059 |
-| [Docling MCP](https://github.com/docling-project/docling-mcp) | Document | Any MCP-compatible agent | Exposes document conversion and structured extraction from files and URLs through MCP. | 2025-03-14 | 2026-10-27 | ⭐ 782 |
-| [Claude Skills for Journalism](https://github.com/jamditis/claude-skills-journalism) | URL; Document | Claude Code | Covers source verification, public records, FOIA work, scraping, and newsroom research. | 2025-12-25 | 2026-10-30 | ⭐ 444 |
+| [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Document; Dataset | Multiple / configurable agents | Provides reusable scientific research workflows and access patterns for public databases. | 2025-10-19 | 2026-11-09 | ⭐ 56,582 |
+| [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Document | Multiple / configurable agents | Gives agents programmatic, source-grounded access to NotebookLM research workflows. | 2026-01-07 | 2026-11-07 | ⭐ 20,179 |
+| [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | Document | Multiple / configurable agents | Orchestrates long-running research, cross-model review, experiments, and evidence capture. | 2026-03-10 | 2026-11-08 | ⭐ 18,922 |
+| [NotebookLM CLI and MCP](https://github.com/jacob-bd/gemini-notebook-mcp-cli) | Document | Multiple / configurable agents | Connects AI agents to NotebookLM for cited source ingestion, querying, and synthesis. | 2025-12-23 | 2026-11-08 | ⭐ 6,483 |
+| [Agentset](https://github.com/agentset-ai/agentset) | Document | Any MCP-compatible agent | Provides document ingestion, agentic search, ranking, citations, RAG, and MCP access. | 2025-03-10 | 2026-10-28 | ⭐ 2,124 |
+| [PDF Reader MCP](https://github.com/SylphxAI/anymd) | Document | Any MCP-compatible agent | Analyzes PDFs through MCP while retaining page references, visual crops, and OCR provenance. | 2025-04-04 | 2026-11-07 | ⭐ 1,067 |
+| [Docling MCP](https://github.com/docling-project/docling-mcp) | Document | Any MCP-compatible agent | Exposes document conversion and structured extraction from files and URLs through MCP. | 2025-03-14 | 2026-11-04 | ⭐ 789 |
+| [Claude Skills for Journalism](https://github.com/jamditis/claude-skills-journalism) | URL; Document | Claude Code | Covers source verification, public records, FOIA work, scraping, and newsroom research. | 2025-12-25 | 2026-11-04 | ⭐ 450 |
 | [Simple PubMed MCP](https://github.com/andybrandt/mcp-simple-pubmed) | Document | Any MCP-compatible agent | Searches PubMed and retrieves biomedical article metadata and abstracts. | 2024-12-11 | 2026-03-19 | ⭐ 171 |
-| [mcp.science](https://github.com/pathintegral-institute/mcp.science) | Document; Dataset | Any MCP-compatible agent | Connects agents to scientific literature search and research data services. | 2025-03-27 | 2025-09-02 | ⭐ 156 |
+| [mcp.science](https://github.com/pathintegral-institute/mcp.science) | Document; Dataset | Any MCP-compatible agent | Connects agents to scientific literature search and research data services. | 2025-03-27 | 2025-09-02 | ⭐ 157 |
 | [Data Commons Agent Toolkit](https://github.com/datacommonsorg/agent-toolkit) | Dataset | Any MCP-compatible agent | Connects agents and MCP clients to the public Data Commons knowledge graph. | 2025-06-26 | 2026-09-15 | ⭐ 149 |
 | [Academia MCP](https://github.com/IlyaGusev/academia_mcp) | Document | Any MCP-compatible agent | Searches academic sources and retrieves papers for agent-assisted literature research. | 2025-01-24 | 2026-10-30 | ⭐ 94 |
 | [ZotPilot](https://github.com/xunhe730/ZotPilot) | Document | Any MCP-compatible agent | Connects Zotero collections to source-grounded research and agent workflows. | 2026-03-16 | 2026-06-16 | ⭐ 74 |
-| [OpenAlex Research MCP](https://github.com/oksure/openalex-research-mcp) | Document | Any MCP-compatible agent | Queries OpenAlex works, authors, institutions, concepts, and citation relationships. | 2025-10-05 | 2026-10-01 | ⭐ 58 |
-| [European Parliament MCP](https://github.com/Hack23/European-Parliament-MCP-Server) | Name; Document | Any MCP-compatible agent | Provides agent access to European Parliament members, committees, votes, documents, and questions. | 2026-02-16 | 2026-11-01 | ⭐ 30 |
+| [OpenAlex Research MCP](https://github.com/oksure/openalex-research-mcp) | Document | Any MCP-compatible agent | Queries OpenAlex works, authors, institutions, concepts, and citation relationships. | 2025-10-05 | 2026-10-01 | ⭐ 60 |
 | [Semantic Scholar Skills](https://github.com/zongmin-yu/semantic-scholar-skills) | Document | Claude Code | Supports literature discovery, citation expansion, and structured Semantic Scholar research. | 2026-03-10 | 2026-03-16 | ⭐ 22 |
 | [Hermes OSINT Skill](https://github.com/mtjikuzu/hermes-osint-skill) | Name; Organization Name | Hermes Agent | Structures company due diligence, background checks, vendor risk, and privacy review. | 2026-05-22 | 2026-05-22 | ⭐ 12 |
 | [Newsroom Extension](https://github.com/ehurrn/newsroom-extension) | Organization Name; Document | Multiple / configurable agents | Supports investigative journalism, FOIA work, corporate research, verification, and editorial review. | 2026-04-06 | 2026-06-22 | ⭐ 8 |
@@ -239,8 +238,8 @@ Tools for locations, coordinates, maps, wireless identifiers, aircraft, and sate
 
 | Project | Target Input | AI Agent | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Velocity](https://github.com/AndrewCTF/velocity) | Location; Aircraft ID; Event Data | Any MCP-compatible agent | Self-hosted situation console that fuses public aircraft, maritime, satellite, hazard, and conflict feeds with provenance, replay, and evidence capture. | 2026-06-12 | 2026-10-23 | ⭐ 150 |
-| [Bellingcat OSINT Toolkit Skills](https://github.com/CasualSecurityInc/Bellingcat-OSINT-Toolkit) | - | Any Agent Skills-compatible agent | Packages hundreds of investigation resources by geolocation, media, identity, transport, and conflict use case. | 2026-07-12 | 2026-07-12 | ⭐ 8 |
+| [Velocity](https://github.com/AndrewCTF/velocity) | Location; Aircraft ID; Event Data | Any MCP-compatible agent | Self-hosted situation console that fuses public aircraft, maritime, satellite, hazard, and conflict feeds with provenance, replay, and evidence capture. | 2026-06-12 | 2026-10-23 | ⭐ 153 |
+| [Bellingcat OSINT Toolkit Skills](https://github.com/CasualSecurityInc/Bellingcat-OSINT-Toolkit) | - | Any Agent Skills-compatible agent | Packages hundreds of investigation resources by geolocation, media, identity, transport, and conflict use case. | 2026-07-12 | 2026-07-12 | ⭐ 9 |
 | [Geo Trajectory Analysis](https://github.com/eyal-weiss/geo-trajectory-analysis) | Location; Video | Claude (agent unspecified) | Applies a documented video-geolocation method to estimate missile launch origins. | 2026-03-23 | 2026-03-23 | ⭐ 3 |
 | [Aircraft Research Skill](https://github.com/WPTK/aircraft-research-claude-skill) | Aircraft ID | Claude Code | Agent skill that traces an airframe registration through public records to its owning entities. | 2026-06-08 | 2026-06-17 | ⭐ 2 |
 | [Geolocation Skill](https://github.com/zuocharles/geolocation-skill) | Location; Image | Any Agent Skills-compatible agent | Guides photo geolocation with visual clues, map queries, and source references. | 2026-03-30 | 2026-03-31 | ⭐ 1 |
@@ -256,20 +255,20 @@ Cross-cutting investigation, case-management, correlation, and research workspac
 
 | Project | Target Input | AI Agent | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | - | Multiple / configurable agents | Packages extensive offensive, defensive, CTI, forensics, and reconnaissance procedures. | 2026-02-25 | 2026-08-31 | ⭐ 35,433 |
-| [Claude Skills](https://github.com/alirezarezvani/claude-skills) | - | Multiple / configurable agents | Includes research, security, market analysis, compliance, and evidence-oriented agent skills. | 2025-10-19 | 2026-11-02 | ⭐ 29,154 |
-| [CTF Skills](https://github.com/ljagiello/ctf-skills) | - | Any Agent Skills-compatible agent | Supplies agent workflows for CTF categories including OSINT, forensics, and web investigation. | 2026-02-01 | 2026-10-30 | ⭐ 3,603 |
-| [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | - | Multiple / configurable agents | Combines OSINT tools in an interactive agent, command-line interface, and MCP server. | 2026-05-06 | 2026-10-30 | ⭐ 1,843 |
-| [Hackingtool Plugin](https://github.com/AKCodez/hackingtool-plugin) | - | Claude Code | Makes a large catalogue of pentest and OSINT tools discoverable and runnable by Claude. | 2026-04-23 | 2026-10-01 | ⭐ 1,139 |
-| [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) | Keyword; Location; Event Data | Any MCP-compatible agent | Provides an MCP server, CLI, and dashboard for cited multi-source global intelligence, geofenced monitoring, alerts, and situation briefs. | 2025-11-29 | 2026-10-18 | ⭐ 1,057 |
-| [Huntkit](https://github.com/assafkip/investigators-copilot) | Name; Organization Name; Event Data | Claude Code | Organizes cases, targets, findings, timelines, evidence hashes, and chain-of-custody records. | 2026-04-15 | 2026-10-24 | ⭐ 73 |
-| [OSINT Skills](https://github.com/UseOSINT/Skills) | - | Cursor; Claude Code; compatible coding agents | Provides 28 source-grounded skills for agent-led OSINT workflows, evidence grading, and investigative reporting. | 2026-08-02 | 2026-08-03 | ⭐ 58 |
+| [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | - | Multiple / configurable agents | Packages extensive offensive, defensive, CTI, forensics, and reconnaissance procedures. | 2026-02-25 | 2026-08-31 | ⭐ 35,826 |
+| [Claude Skills](https://github.com/alirezarezvani/claude-skills) | - | Multiple / configurable agents | Includes research, security, market analysis, compliance, and evidence-oriented agent skills. | 2025-10-19 | 2026-11-05 | ⭐ 29,515 |
+| [CTF Skills](https://github.com/ljagiello/ctf-skills) | - | Any Agent Skills-compatible agent | Supplies agent workflows for CTF categories including OSINT, forensics, and web investigation. | 2026-02-01 | 2026-11-06 | ⭐ 3,665 |
+| [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | - | Multiple / configurable agents | Combines OSINT tools in an interactive agent, command-line interface, and MCP server. | 2026-05-06 | 2026-11-05 | ⭐ 1,912 |
+| [Hackingtool Plugin](https://github.com/AKCodez/hackingtool-plugin) | - | Claude Code | Makes a large catalogue of pentest and OSINT tools discoverable and runnable by Claude. | 2026-04-23 | 2026-10-01 | ⭐ 1,152 |
+| [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) | Keyword; Location; Event Data | Any MCP-compatible agent | Provides an MCP server, CLI, and dashboard for cited multi-source global intelligence, geofenced monitoring, alerts, and situation briefs. | 2025-11-29 | 2026-10-18 | ⭐ 1,066 |
+| [Huntkit](https://github.com/assafkip/investigators-copilot) | Name; Organization Name; Event Data | Claude Code | Organizes cases, targets, findings, timelines, evidence hashes, and chain-of-custody records. | 2026-04-15 | 2026-11-02 | ⭐ 74 |
+| [OSINT Skills](https://github.com/UseOSINT/Skills) | - | Cursor; Claude Code; compatible coding agents | Provides 28 source-grounded skills for agent-led OSINT workflows, evidence grading, and investigative reporting. | 2026-08-02 | 2026-08-03 | ⭐ 61 |
 | [OSINT Agent Skills](https://github.com/frangelbarrera/osint-agent-skills) | - | Multiple / configurable agents | Combines OSINT playbooks, agent instructions, report templates, and MCP tool definitions. | 2026-06-27 | 2026-10-02 | ⭐ 45 |
 | [deep-recon](https://github.com/kvarnelis/deep-recon) | - | Claude Code | Coordinates multi-agent research and stores reconnaissance findings in Obsidian. | 2026-02-18 | 2026-02-21 | ⭐ 44 |
-| [Claude OSINT Deploy](https://github.com/soxoj/claude-osint-deploy) | - | Claude Code | Installs, runs, and verifies OSINT tools from public repositories inside an agent session. | 2026-08-25 | 2026-08-28 | ⭐ 23 |
-| [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) | - | Claude Code | Exposes a classified OSINT tool index, query builders, and identifier validators as a skill and MCP server. | 2026-07-10 | 2026-11-02 | ⭐ 20 |
+| [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) | - | Claude Code | Exposes a classified OSINT tool index, query builders, and identifier validators as a skill and MCP server. | 2026-07-10 | 2026-11-02 | ⭐ 25 |
+| [Claude OSINT Deploy](https://github.com/soxoj/claude-osint-deploy) | - | Claude Code | Installs, runs, and verifies OSINT tools from public repositories inside an agent session. | 2026-08-25 | 2026-08-28 | ⭐ 24 |
+| [OSINT Investigation](https://github.com/reichaves/osint-investigation) | Name; Username; Location; Image | Claude Code | Guides geolocation, source verification, entity profiling, and social-media investigation. | 2026-05-02 | 2026-05-03 | ⭐ 7 |
 | [FileGrail](https://github.com/osintshifu/filegrail) | File | Any MCP-compatible agent | Examines file provenance, metadata, operating-system and application traces, investigative identifiers, and evidence relationships locally, with a read-only MCP interface. | 2026-08-31 | 2026-10-04 | ⭐ 7 |
-| [OSINT Investigation](https://github.com/reichaves/osint-investigation) | Name; Username; Location; Image | Claude Code | Guides geolocation, source verification, entity profiling, and social-media investigation. | 2026-05-02 | 2026-05-03 | ⭐ 6 |
 | [OSINT Investigator](https://github.com/TNeagle/osint-investigator) | Name; Organization Name; Location; Coordinates | Claude Code | Coordinates multi-domain investigations, public-record research, geolocation, and intelligence reports. | 2026-03-18 | 2026-03-20 | ⭐ 3 |
 | [OSINT Researcher](https://github.com/MrBridgeHQ/osint-researcher-claude) | - | Claude Code | Provides scoped OSINT, CTI, due diligence, and evidence-reporting procedures. | 2026-07-01 | 2026-07-06 | ⭐ 2 |
 | [OSINT Investigator for OpenClaw](https://github.com/Elyasuuuuu/osint-investigator) | Name; Username; Email; Organization Name; Domain; IP Address | OpenClaw | Correlates usernames, emails, domains, IPs, organizations, and public profile evidence. | 2026-03-16 | 2026-03-16 | ⭐ 1 |
