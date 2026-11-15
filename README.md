@@ -671,6 +671,7 @@ Tools for locations, coordinates, maps, wireless identifiers, aircraft, and sate
 | [World Monitor](https://github.com/koala73/worldmonitor) | TypeScript | Location | Unifies geopolitical news, infrastructure, and event monitoring in one dashboard. | 2026-01-08 | 2026-11-09 | ⭐ 90,408 |
 | [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | Coordinates; Location | Overlays live public satellite and spatial intelligence feeds on an interactive browser globe. | 2026-06-22 | 2026-11-09 | ⭐ 63,784 |
 | [QGIS](https://github.com/qgis/QGIS) | C++ | Location | Provides a complete desktop environment for geospatial data analysis and mapping. | 2011-05-02 | 2026-11-09 | ⭐ 14,800 |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | MCP | Location | Public MCP server and directory covering 1,700+ US and Canadian live-music venues. | 2026-01-01 | 2026-11-15 | - |
 | [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | Location | Tracks aircraft, satellites, seismic events, and other global activity. | 2026-03-05 | 2026-11-09 | ⭐ 11,513 |
 | [GeoLibre](https://github.com/opengeos/GeoLibre) | Python | Location; Image | Provides open geospatial and remote-sensing analysis workflows. | 2026-05-27 | 2026-11-09 | ⭐ 8,510 |
 | [Google Maps Scraper by gosom](https://github.com/gosom/google-maps-scraper) | Go | Organization Name; Location | Collects structured place and business information from Google Maps. | 2023-04-22 | 2026-11-08 | ⭐ 7,703 |
