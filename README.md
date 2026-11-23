@@ -8,7 +8,7 @@
     <a href="#social-media"><img alt="Social Media projects: 71" src="https://img.shields.io/badge/social_media-71-8250df?style=flat-square"></a>
     <a href="AGENTIC.md"><img alt="Agentic integrations: 133" src="https://img.shields.io/badge/agentic_integrations-133-d1242f?style=flat-square"></a>
     <img alt="Catalogue projects: 489" src="https://img.shields.io/badge/catalogue_projects-489-8250df?style=flat-square">
-    <img alt="Last update: 2026-11-16" src="https://img.shields.io/badge/last_update-2026--11--16-1f883d?style=flat-square">
+    <img alt="Last update: 2026-11-23" src="https://img.shields.io/badge/last_update-2026--11--23-1f883d?style=flat-square">
   </p>
   <p><strong><a href="README.md">Awesome OSINT Repositories</a></strong> · <a href="INPUTS.md">Tools by Target Input</a> · <a href="EMERGING.md">Emerging Projects</a> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -80,40 +80,40 @@ Tools centered on people, names, contact identifiers, and identity resolution.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [GHunt](https://github.com/mxrch/GHunt) | Python | Name | Collects public information associated with Google accounts and identifiers. | 2020-10-02 | 2026-04-10 | ⭐ 19,855 |
-| [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) | Go | Phone Number | Collects and correlates publicly available information about phone numbers. | 2018-10-25 | 2026-08-25 | ⭐ 18,591 |
-| [Holehe](https://github.com/megadose/holehe) | Python | Email | Checks whether an email address is registered with supported online services. | 2020-06-25 | 2024-09-10 | ⭐ 15,677 |
-| [h8mail](https://github.com/khast3x/h8mail) | Python | Email | Searches breach sources and local datasets for email-related records. | 2018-06-15 | 2022-06-25 | ⭐ 5,387 |
-| [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) | Python | Email | Searches breach data for passwords associated with an email address. | 2018-05-25 | 2026-03-28 | ⭐ 2,680 |
-| [ignorant](https://github.com/megadose/ignorant) | Python | Phone Number | Checks whether a phone number is registered on Snapchat, Instagram, and other consumer platforms. | 2021-03-24 | 2023-12-29 | ⭐ 2,171 |
-| [SearchPhone](https://github.com/HackUnderway/SearchPhone) | Python | Phone Number | Aggregates phone number searches and produces investigation reports. | 2024-11-12 | 2026-08-24 | ⭐ 2,166 |
+| [GHunt](https://github.com/mxrch/GHunt) | Python | Name | Collects public information associated with Google accounts and identifiers. | 2020-10-02 | 2026-04-10 | ⭐ 19,891 |
+| [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) | Go | Phone Number | Collects and correlates publicly available information about phone numbers. | 2018-10-25 | 2026-08-25 | ⭐ 18,657 |
+| [Holehe](https://github.com/megadose/holehe) | Python | Email | Checks whether an email address is registered with supported online services. | 2020-06-25 | 2024-09-10 | ⭐ 15,742 |
+| [h8mail](https://github.com/khast3x/h8mail) | Python | Email | Searches breach sources and local datasets for email-related records. | 2018-06-15 | 2022-06-25 | ⭐ 5,389 |
+| [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) | Python | Email | Searches breach data for passwords associated with an email address. | 2018-05-25 | 2026-03-28 | ⭐ 2,685 |
+| [SearchPhone](https://github.com/HackUnderway/SearchPhone) | Python | Phone Number | Aggregates phone number searches and produces investigation reports. | 2024-11-12 | 2026-08-24 | ⭐ 2,178 |
+| [ignorant](https://github.com/megadose/ignorant) | Python | Phone Number | Checks whether a phone number is registered on Snapchat, Instagram, and other consumer platforms. | 2021-03-24 | 2023-12-29 | ⭐ 2,178 |
 | [socialscan](https://github.com/iojw/socialscan) | Python | Username; Email | Queries platform registration endpoints to confirm username and email usage without false positives. | 2019-02-17 | 2024-01-21 | ⭐ 1,877 |
-| [MailAccess](https://github.com/KatrielMoses/MailAccess) | Python | Name; Email | Clusters identities and checks service usage and breach references for emails. | 2026-05-18 | 2026-10-28 | ⭐ 1,796 |
-| [WhatBreach](https://github.com/Ekultek/WhatBreach) | Python | Email | Searches breach databases, paste sites, and public leak sources for an email address. | 2019-04-19 | 2025-08-14 | ⭐ 1,703 |
-| [username-anarchy](https://github.com/urbanadventurer/username-anarchy) | Ruby | Username | Generates likely username permutations from names and naming patterns. | 2012-11-07 | 2024-09-20 | ⭐ 1,500 |
-| [Phunter](https://github.com/N0rz3/Phunter) | Python | Phone Number | Aggregates several public phone number investigation methods. | 2023-12-30 | 2024-04-06 | ⭐ 1,253 |
+| [MailAccess](https://github.com/KatrielMoses/MailAccess) | Python | Name; Email | Clusters identities and checks service usage and breach references for emails. | 2026-05-18 | 2026-11-17 | ⭐ 1,828 |
+| [WhatBreach](https://github.com/Ekultek/WhatBreach) | Python | Email | Searches breach databases, paste sites, and public leak sources for an email address. | 2019-04-19 | 2025-08-14 | ⭐ 1,707 |
+| [username-anarchy](https://github.com/urbanadventurer/username-anarchy) | Ruby | Username | Generates likely username permutations from names and naming patterns. | 2012-11-07 | 2024-09-20 | ⭐ 1,502 |
+| [Phunter](https://github.com/N0rz3/Phunter) | Python | Phone Number | Aggregates several public phone number investigation methods. | 2023-12-30 | 2024-04-06 | ⭐ 1,256 |
 | [Zehef](https://github.com/N0rz3/Zehef) | Python | Email | Aggregates public information associated with an email address. | 2023-06-13 | 2024-11-13 | ⭐ 1,101 |
-| [iKy](https://github.com/kennbroorg/iKy) | Python | Email | Builds profiles and timelines from email-based investigation modules. | 2018-12-14 | 2026-07-20 | ⭐ 995 |
-| [mailcat](https://github.com/sharsil/mailcat) | Python | Email | Finds existing email addresses derived from a nickname. | 2021-08-20 | 2026-09-05 | ⭐ 964 |
-| [GHOST OSINT CRM](https://github.com/elm1nst3r/GHOST-osint-crm) | JavaScript | Name | Manages people, relationships, evidence, and investigation notes locally. | 2025-05-16 | 2026-11-16 | ⭐ 959 |
-| [Emora](https://github.com/idefasoft/Emora-Project) | C# | Username | Provides a graphical interface for cross-platform username searches. | 2024-03-11 | 2026-02-07 | ⭐ 733 |
-| [Leaker](https://github.com/vflame6/leaker) | Go | Username; Email | Performs passive leak enumeration across multiple breach sources. | 2025-12-25 | 2026-11-01 | ⭐ 610 |
+| [iKy](https://github.com/kennbroorg/iKy) | Python | Email | Builds profiles and timelines from email-based investigation modules. | 2018-12-14 | 2026-11-23 | ⭐ 994 |
+| [mailcat](https://github.com/sharsil/mailcat) | Python | Email | Finds existing email addresses derived from a nickname. | 2021-08-20 | 2026-09-05 | ⭐ 968 |
+| [GHOST OSINT CRM](https://github.com/elm1nst3r/GHOST-osint-crm) | JavaScript | Name | Manages people, relationships, evidence, and investigation notes locally. | 2025-05-16 | 2026-11-22 | ⭐ 968 |
+| [Emora](https://github.com/idefasoft/Emora-Project) | C# | Username | Provides a graphical interface for cross-platform username searches. | 2024-03-11 | 2026-02-07 | ⭐ 732 |
+| [Leaker](https://github.com/vflame6/leaker) | Go | Username; Email | Performs passive leak enumeration across multiple breach sources. | 2025-12-25 | 2026-11-01 | ⭐ 613 |
+| [Deanonymizer](https://github.com/ni5arga/deanonymizer) | TypeScript | Name | Compares public posting history and behavioral timing patterns. | 2026-06-02 | 2026-06-15 | ⭐ 369 |
 | [FindME](https://github.com/0xSaikat/findme) | HTML | Username | Searches social and online profiles associated with a username. | 2025-01-14 | 2026-08-28 | ⭐ 368 |
-| [Deanonymizer](https://github.com/ni5arga/deanonymizer) | TypeScript | Name | Compares public posting history and behavioral timing patterns. | 2026-06-02 | 2026-06-15 | ⭐ 367 |
 | [Nox Framework](https://github.com/nox-project/nox-framework) | Python | Name; Email | Automates identity pivots and risk analysis across public sources. | 2026-04-07 | 2026-05-06 | ⭐ 340 |
 | [vesper](https://github.com/krishpranav/vesper) | Rust | Username | Performs lightweight username checks across online services. | 2021-06-20 | 2026-08-17 | ⭐ 338 |
-| [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) | Python CLI | Username; Email; Phone Number | Combines username, email, and phone lookups and exports reports and evidence graphs. | 2026-10-08 | 2026-11-04 | ⭐ 274 |
+| [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) | Python CLI | Username; Email; Phone Number | Combines username, email, and phone lookups and exports reports and evidence graphs. | 2026-10-08 | 2026-11-19 | ⭐ 308 |
 | [sharetrace](https://github.com/soxoj/sharetrace) | Python | URL | Extracts public identity metadata exposed by supported social, document, code, and content-sharing links. | 2026-03-29 | 2026-10-10 | ⭐ 242 |
-| [OSINT Skill](https://github.com/smixs/osint-skill) | Skill | Name | Runs phased people research with source grading, correlation, and report generation. | 2026-03-10 | 2026-03-10 | ⭐ 169 |
-| [Telespot](https://github.com/thumpersecure/Telespot) | Python | Phone Number | Searches phone-number variations across public engines and correlates identity clues. | 2025-12-28 | 2026-09-21 | ⭐ 145 |
-| [Telespotter](https://github.com/thumpersecure/Telespotter) | Rust | Phone Number | Searches phone numbers across public engines and people-search sources in a Rust CLI. | 2026-01-02 | 2026-09-01 | ⭐ 87 |
+| [OSINT Skill](https://github.com/smixs/osint-skill) | Skill | Name | Runs phased people research with source grading, correlation, and report generation. | 2026-03-10 | 2026-03-10 | ⭐ 170 |
+| [Telespot](https://github.com/thumpersecure/Telespot) | Python | Phone Number | Searches phone-number variations across public engines and correlates identity clues. | 2025-12-28 | 2026-11-22 | ⭐ 145 |
+| [Telespotter](https://github.com/thumpersecure/Telespotter) | Rust | Phone Number | Searches phone numbers across public engines and people-search sources in a Rust CLI. | 2026-01-02 | 2026-11-22 | ⭐ 87 |
 | [glit](https://github.com/shadawck/glit) | Rust | Email | Extracts contributor email addresses from Git repositories and organizations. | 2022-11-14 | 2024-05-01 | ⭐ 59 |
 | [Bellingcat Name Variant Search](https://github.com/bellingcat/name-variant-search) | Python | Name | Generates and searches spelling and transliteration variants of personal names. | 2023-07-18 | 2026-06-25 | ⭐ 56 |
 | [Wiwok](https://github.com/Kirozaku/Wiwok) | Python | Username; Email; Phone Number | Investigates usernames, email addresses, phone numbers, and names without mandatory API keys. | 2026-04-26 | 2026-05-22 | ⭐ 48 |
 | [odnoklassniki-checker](https://github.com/OSINT-mindset/odnoklassniki-checker) | Python | Phone Number | Looks for public OK.ru account data using a phone number or email. | 2022-10-15 | 2024-10-02 | ⭐ 21 |
 | [OSINT AI Agent](https://github.com/sumba101/OSINT-AI-Agent) | Agent + skills | Name; Username; Email | Orchestrates Holehe, Sherlock, and GHunt for person-focused investigations. | 2026-01-11 | 2026-01-11 | ⭐ 15 |
 | [Clearfront](https://github.com/scottmartinanderson/clearfront) | Python | Name; Username; Email | Agent that maps a digital footprint across public data sources and reports the collected identifiers. | 2026-07-08 | 2026-08-19 | ⭐ 12 |
-| [Deep Research Ladder](https://github.com/hint-shu/deep-research) | Skills + plugin | Name; URL | Scales from fact checks to long-form research and OSINT entity reconnaissance. | 2026-04-17 | 2026-04-29 | ⭐ 7 |
+| [Deep Research Ladder](https://github.com/hint-shu/deep-research) | Skills + plugin | Name; URL | Scales from fact checks to long-form research and OSINT entity reconnaissance. | 2026-04-17 | 2026-04-29 | ⭐ 8 |
 | [Email Finder Batch](https://github.com/yoitsyoung/email-finder-batch) | Skill | Email | Coordinates public-source email discovery, pattern generation, and verification agents. | 2026-03-22 | 2026-03-22 | ⭐ 3 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
@@ -132,27 +132,27 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Sherlock](https://github.com/sherlock-project/sherlock) | Python | Username | Checks a username across many social networks. | 2018-12-24 | 2026-11-01 | ⭐ 112,914 |
-| [Agent Reach](https://github.com/Panniantong/Agent-Reach) | CLI + skill | Username; URL | Gives agents collection workflows for public content across multiple social and developer platforms. | 2026-02-24 | 2026-11-08 | ⭐ 112,214 |
-| [last30days](https://github.com/mvanhorn/last30days-skill) | Skill + plugin | Username; URL | Researches recent discussion across social platforms, communities, prediction markets, and the web. | 2026-01-23 | 2026-11-16 | ⭐ 67,855 |
-| [Maigret](https://github.com/soxoj/maigret) | Python | Username | Builds username-based account reports across thousands of sites. | 2020-06-27 | 2026-11-13 | ⭐ 40,794 |
-| [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | JavaScript | Name; Username | Searches and analyzes profiles across numerous social platforms. | 2020-11-30 | 2026-11-08 | ⭐ 24,566 |
-| [Blackbird](https://github.com/antoniaci/blackbird) | Python | Username | Searches social platforms for accounts linked to a username or email. | 2022-05-06 | 2026-11-03 | ⭐ 10,182 |
-| [user-scanner](https://github.com/kaifcodec/user-scanner) | Python | Username; Email | Runs username and email discovery checks across many services. | 2025-10-19 | 2026-11-09 | ⭐ 5,658 |
-| [Aliens Eye](https://github.com/arxhr007/Aliens_eye) | Python | Username | Searches for accounts associated with a username across hundreds of platforms. | 2021-09-22 | 2026-11-15 | ⭐ 4,831 |
-| [Snoop](https://github.com/snooppr/snoop) | Python | Username | Searches for username usage across a large collection of websites. | 2020-02-14 | 2026-11-16 | ⭐ 4,068 |
-| [gosearch](https://github.com/ibnaleem/gosearch) | Go | Username | Searches for a person's digital footprint across hundreds of websites. | 2024-11-09 | 2026-11-16 | ⭐ 3,908 |
-| [Tookie](https://github.com/Alfredredbird/tookie-osint) | Python | Username | Provides a multi-target information gathering toolkit. | 2023-08-22 | 2026-11-10 | ⭐ 3,191 |
-| [socid-extractor](https://github.com/soxoj/socid-extractor) | Python | Username | Converts profile URLs into structured identity records across many platforms. | 2019-11-17 | 2026-11-01 | ⭐ 1,142 |
-| [Linkook](https://github.com/JackJuly/linkook) | Python | Username | Discovers linked social accounts and email clues from a username. | 2025-01-30 | 2026-10-01 | ⭐ 1,036 |
-| [Marple](https://github.com/soxoj/marple) | Python | Username | Finds profile links through search engines and extensible analysis plugins. | 2021-11-16 | 2026-08-17 | ⭐ 333 |
-| [MCP Maigret](https://github.com/w0h1v/mcp-maigret) | MCP server | Username | Exposes Maigret username searches and public account discovery through MCP. | 2024-12-13 | 2026-11-05 | ⭐ 273 |
-| [socai](https://github.com/socai-io/socai) | Rust CLI + desktop | Keyword; URL | Uses a signed-in Chrome session to search and inspect posts, profiles, comments, replies, and media across multiple social platforms. | 2026-05-02 | 2026-11-09 | ⭐ 257 |
-| [Jev Social](https://github.com/socai-io/jev-social) | JavaScript CLI + web UI | Keyword; URL | Selects Instagram, TikTok, and LinkedIn research operations with Jev, executes them through the socai CLI, and produces reports citing captured sources. | 2026-09-18 | 2026-11-08 | ⭐ 213 |
-| [OWASP Social OSINT Agent](https://github.com/bm-github/owasp-social-osint-agent) | Python | Username | Collects public social activity and uses configurable language models to produce analytical reports. | 2025-10-07 | 2026-04-25 | ⭐ 106 |
+| [Sherlock](https://github.com/sherlock-project/sherlock) | Python | Username | Checks a username across many social networks. | 2018-12-24 | 2026-11-01 | ⭐ 116,170 |
+| [Agent Reach](https://github.com/Panniantong/Agent-Reach) | CLI + skill | Username; URL | Gives agents collection workflows for public content across multiple social and developer platforms. | 2026-02-24 | 2026-11-22 | ⭐ 114,204 |
+| [last30days](https://github.com/mvanhorn/last30days-skill) | Skill + plugin | Username; URL | Researches recent discussion across social platforms, communities, prediction markets, and the web. | 2026-01-23 | 2026-11-23 | ⭐ 73,242 |
+| [Maigret](https://github.com/soxoj/maigret) | Python | Username | Builds username-based account reports across thousands of sites. | 2020-06-27 | 2026-11-21 | ⭐ 41,201 |
+| [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | JavaScript | Name; Username | Searches and analyzes profiles across numerous social platforms. | 2020-11-30 | 2026-11-08 | ⭐ 24,607 |
+| [Blackbird](https://github.com/antoniaci/blackbird) | Python | Username | Searches social platforms for accounts linked to a username or email. | 2022-05-06 | 2026-11-03 | ⭐ 10,252 |
+| [user-scanner](https://github.com/kaifcodec/user-scanner) | Python | Username; Email | Runs username and email discovery checks across many services. | 2025-10-19 | 2026-11-21 | ⭐ 5,732 |
+| [Aliens Eye](https://github.com/arxhr007/Aliens_eye) | Python | Username | Searches for accounts associated with a username across hundreds of platforms. | 2021-09-22 | 2026-11-22 | ⭐ 4,862 |
+| [Snoop](https://github.com/snooppr/snoop) | Python | Username | Searches for username usage across a large collection of websites. | 2020-02-14 | 2026-11-22 | ⭐ 4,075 |
+| [gosearch](https://github.com/ibnaleem/gosearch) | Go | Username | Searches for a person's digital footprint across hundreds of websites. | 2024-11-09 | 2026-11-16 | ⭐ 3,922 |
+| [Tookie](https://github.com/Alfredredbird/tookie-osint) | Python | Username | Provides a multi-target information gathering toolkit. | 2023-08-22 | 2026-11-10 | ⭐ 3,217 |
+| [socid-extractor](https://github.com/soxoj/socid-extractor) | Python | Username | Converts profile URLs into structured identity records across many platforms. | 2019-11-17 | 2026-11-20 | ⭐ 1,143 |
+| [Linkook](https://github.com/JackJuly/linkook) | Python | Username | Discovers linked social accounts and email clues from a username. | 2025-01-30 | 2026-10-01 | ⭐ 1,040 |
+| [Marple](https://github.com/soxoj/marple) | Python | Username | Finds profile links through search engines and extensible analysis plugins. | 2021-11-16 | 2026-08-17 | ⭐ 331 |
+| [MCP Maigret](https://github.com/w0h1v/mcp-maigret) | MCP server | Username | Exposes Maigret username searches and public account discovery through MCP. | 2024-12-13 | 2026-11-17 | ⭐ 274 |
+| [socai](https://github.com/socai-io/socai) | Rust CLI + desktop | Keyword; URL | Uses a signed-in Chrome session to search and inspect posts, profiles, comments, replies, and media across multiple social platforms. | 2026-05-02 | 2026-11-22 | ⭐ 261 |
+| [Jev Social](https://github.com/socai-io/jev-social) | JavaScript CLI + web UI | Keyword; URL | Selects Instagram, TikTok, and LinkedIn research operations with Jev, executes them through the socai CLI, and produces reports citing captured sources. | 2026-09-18 | 2026-11-08 | ⭐ 220 |
+| [OWASP Social OSINT Agent](https://github.com/bm-github/owasp-social-osint-agent) | Python | Username | Collects public social activity and uses configurable language models to produce analytical reports. | 2025-10-07 | 2026-04-25 | ⭐ 108 |
 | [Social OSINT](https://github.com/krishpranav/socialosint) | Rust | Username; Email | Collects exposed email addresses from supported social platforms and checks related leak data. | 2021-07-02 | 2026-02-10 | ⭐ 101 |
 | [OSINT Social](https://github.com/guleguleguru/osint-social) | Skill | Username | Wraps broad username discovery with additional coverage for major Chinese platforms. | 2026-02-28 | 2026-02-28 | ⭐ 1 |
-| [Chinese OSINT Skills](https://github.com/zomin/chinese-osint-skills) | Skill pack | Username | Supplies Chinese-platform research methods and scripts for cross-platform identity pivots. | 2026-04-30 | 2026-04-30 | ⭐ 0 |
+| [Chinese OSINT Skills](https://github.com/zomin/chinese-osint-skills) | Skill pack | Username | Supplies Chinese-platform research methods and scripts for cross-platform identity pivots. | 2026-04-30 | 2026-04-30 | ⭐ 1 |
 
 <a id="social-media-telegram"></a>
 
@@ -160,20 +160,20 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Telegram Phone Number Checker](https://github.com/bellingcat/telegram-phone-number-checker) | Python | Username | Checks whether supplied phone numbers are connected to Telegram accounts. | 2021-02-17 | 2026-08-17 | ⭐ 1,918 |
-| [Informer](https://github.com/paulpierre/informer) | Python | Username | Collects and indexes Telegram channel and group activity. | 2019-12-09 | 2025-10-20 | ⭐ 1,688 |
-| [Telerecon](https://github.com/sockysec/Telerecon) | Python | Username | Provides a modular framework for researching Telegram entities. | 2023-08-30 | 2024-04-22 | ⭐ 1,338 |
-| [Telepathy Community](https://github.com/prose-intelligence-ltd/Telepathy-Community) | Python | Username | Collects and analyzes public Telegram chat data. | 2022-01-17 | 2026-08-10 | ⭐ 1,265 |
-| [Tosint](https://github.com/drego85/tosint) | Python | Username | Extracts Telegram bot, chat, and user information from tokens and identifiers. | 2021-07-26 | 2026-11-13 | ⭐ 882 |
-| [Maltego Telegram](https://github.com/vognik/maltego-telegram) | Python | Username | Adds Maltego transforms for Telegram channels, groups, users, and messages. | 2024-11-04 | 2026-10-19 | ⭐ 584 |
-| [TeleTracker](https://github.com/tsale/TeleTracker) | Python | Username | Collects Telegram channel information and supports repeatable investigation tasks. | 2024-01-15 | 2024-04-29 | ⭐ 543 |
-| [telegram-tracker](https://github.com/estebanpdl/telegram-tracker) | Python | Username | Exports channel details and posts from selected Telegram channels. | 2022-04-06 | 2026-11-11 | ⭐ 389 |
-| [TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite) | Python | Username | Collects Telegram channel posts and exports them as JSON. | 2025-04-12 | 2026-08-11 | ⭐ 291 |
-| [Telegram Archive](https://github.com/GeiserX/Telegram-Archive) | Python | Username | Creates incremental local archives of Telegram chats, media, and message history. | 2025-11-25 | 2026-11-13 | ⭐ 254 |
+| [Telegram Phone Number Checker](https://github.com/bellingcat/telegram-phone-number-checker) | Python | Username | Checks whether supplied phone numbers are connected to Telegram accounts. | 2021-02-17 | 2026-08-17 | ⭐ 1,928 |
+| [Informer](https://github.com/paulpierre/informer) | Python | Username | Collects and indexes Telegram channel and group activity. | 2019-12-09 | 2025-10-20 | ⭐ 1,689 |
+| [Telerecon](https://github.com/sockysec/Telerecon) | Python | Username | Provides a modular framework for researching Telegram entities. | 2023-08-30 | 2024-04-22 | ⭐ 1,335 |
+| [Telepathy Community](https://github.com/prose-intelligence-ltd/Telepathy-Community) | Python | Username | Collects and analyzes public Telegram chat data. | 2022-01-17 | 2026-08-10 | ⭐ 1,262 |
+| [Tosint](https://github.com/drego85/tosint) | Python | Username | Extracts Telegram bot, chat, and user information from tokens and identifiers. | 2021-07-26 | 2026-11-13 | ⭐ 883 |
+| [Maltego Telegram](https://github.com/vognik/maltego-telegram) | Python | Username | Adds Maltego transforms for Telegram channels, groups, users, and messages. | 2024-11-04 | 2026-10-19 | ⭐ 603 |
+| [TeleTracker](https://github.com/tsale/TeleTracker) | Python | Username | Collects Telegram channel information and supports repeatable investigation tasks. | 2024-01-15 | 2024-04-29 | ⭐ 540 |
+| [telegram-tracker](https://github.com/estebanpdl/telegram-tracker) | Python | Username | Exports channel details and posts from selected Telegram channels. | 2022-04-06 | 2026-11-11 | ⭐ 386 |
+| [TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite) | Python | Username | Collects Telegram channel posts and exports them as JSON. | 2025-04-12 | 2026-08-11 | ⭐ 292 |
+| [Telegram Archive](https://github.com/GeiserX/Telegram-Archive) | Python | Username | Creates incremental local archives of Telegram chats, media, and message history. | 2025-11-25 | 2026-11-23 | ⭐ 258 |
 | [Telegram Similar Channels](https://github.com/SocialLinks-IO/telegram-similar-channels) | Python | Username | Finds related Telegram channels through CLI and Maltego interfaces. | 2023-12-07 | 2024-04-10 | ⭐ 202 |
 | [Telegram OSINT Polo](https://github.com/Ironship/TelegramOSINTPolo) | Python | Username | Downloads Telegram feed posts for local review and assisted analysis. | 2025-03-04 | 2026-10-21 | ⭐ 58 |
-| [Telegram MCP TDLib](https://github.com/tolboy/telegram-mcp-tdlib) | MCP server | Username | Exposes Telegram searches, chats, messages, and public content to MCP clients through TDLib. | 2026-07-04 | 2026-11-09 | ⭐ 13 |
-| [Pulpit](https://github.com/giovabal/pulpit) | Python | Username; Keyword | Collects selected public Telegram channels and maps forwarding and linking relationships for influence and political communication analysis. | 2024-10-30 | 2026-11-13 | ⭐ 9 |
+| [Telegram MCP TDLib](https://github.com/tolboy/telegram-mcp-tdlib) | MCP server | Username | Exposes Telegram searches, chats, messages, and public content to MCP clients through TDLib. | 2026-07-04 | 2026-11-23 | ⭐ 13 |
+| [Pulpit](https://github.com/giovabal/pulpit) | Python | Username; Keyword | Collects selected public Telegram channels and maps forwarding and linking relationships for influence and political communication analysis. | 2024-10-30 | 2026-11-20 | ⭐ 9 |
 
 <a id="social-media-instagram"></a>
 
@@ -181,14 +181,14 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Osintgram](https://github.com/Datalux/Osintgram) | Python | Name; Username; Image | Provides an interactive interface for collecting information from Instagram profiles. | 2019-06-07 | 2026-10-26 | ⭐ 15,651 |
-| [Instaloader](https://github.com/instaloader/instaloader) | Python | Name; Username; Image | Downloads Instagram posts, captions, profile data, and related metadata. | 2016-06-15 | 2026-11-01 | ⭐ 13,920 |
-| [Toutatis](https://github.com/megadose/toutatis) | Python | Username | Extracts obfuscated contact details and account metadata from public Instagram profiles. | 2020-02-03 | 2024-12-05 | ⭐ 4,455 |
-| [yesitsme](https://github.com/0x0be/yesitsme) | Python | Name; Email; Phone Number | Finds Instagram profiles matching a supplied name, email address, or phone number. | 2021-12-23 | 2021-12-23 | ⭐ 3,128 |
-| [Instagram Monitor](https://github.com/misiektoja/instagram_monitor) | Python | Username; Image | Tracks public Instagram profile changes, activity, and captured content. | 2024-04-25 | 2026-11-03 | ⭐ 1,602 |
-| [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) | Python | Username; Image | Maps Instagram followers and relationships in Neo4j for network analysis. | 2025-04-30 | 2026-05-10 | ⭐ 976 |
-| [SoIG](https://github.com/yezz123/SoIG) | Python | Username; Image | Retrieves selected public information associated with an Instagram account. | 2020-06-08 | 2026-06-28 | ⭐ 459 |
-| [insto](https://github.com/subzeroid/insto) | Python | Username; Image | Collects Instagram profile, media, relationship, and timeline data through interchangeable backends. | 2026-04-26 | 2026-10-17 | ⭐ 141 |
+| [Osintgram](https://github.com/Datalux/Osintgram) | Python | Name; Username; Image | Provides an interactive interface for collecting information from Instagram profiles. | 2019-06-07 | 2026-10-26 | ⭐ 15,835 |
+| [Instaloader](https://github.com/instaloader/instaloader) | Python | Name; Username; Image | Downloads Instagram posts, captions, profile data, and related metadata. | 2016-06-15 | 2026-11-01 | ⭐ 13,992 |
+| [Toutatis](https://github.com/megadose/toutatis) | Python | Username | Extracts obfuscated contact details and account metadata from public Instagram profiles. | 2020-02-03 | 2024-12-05 | ⭐ 4,468 |
+| [yesitsme](https://github.com/0x0be/yesitsme) | Python | Name; Email; Phone Number | Finds Instagram profiles matching a supplied name, email address, or phone number. | 2021-12-23 | 2021-12-23 | ⭐ 3,186 |
+| [Instagram Monitor](https://github.com/misiektoja/instagram_monitor) | Python | Username; Image | Tracks public Instagram profile changes, activity, and captured content. | 2024-04-25 | 2026-11-22 | ⭐ 1,612 |
+| [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) | Python | Username; Image | Maps Instagram followers and relationships in Neo4j for network analysis. | 2025-04-30 | 2026-05-10 | ⭐ 983 |
+| [SoIG](https://github.com/yezz123/SoIG) | Python | Username; Image | Retrieves selected public information associated with an Instagram account. | 2020-06-08 | 2026-06-28 | ⭐ 462 |
+| [insto](https://github.com/subzeroid/insto) | Python | Username; Image | Collects Instagram profile, media, relationship, and timeline data through interchangeable backends. | 2026-04-26 | 2026-10-17 | ⭐ 146 |
 
 <a id="social-media-linkedin"></a>
 
@@ -196,9 +196,9 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [linkedin2username](https://github.com/initstring/linkedin2username) | Python | Name; Organization Name | Generates possible corporate usernames from public LinkedIn employee data. | 2018-02-22 | 2026-05-20 | ⭐ 1,908 |
-| [CrossLinked](https://github.com/m8sec/CrossLinked) | Python | Name; Organization Name | Extracts employee names from public LinkedIn search results. | 2019-05-16 | 2024-11-26 | ⭐ 1,649 |
-| [LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) | Python | Name; Organization Name | Extracts company employee records through LinkedIn endpoints. | 2022-10-17 | 2026-08-21 | ⭐ 625 |
+| [linkedin2username](https://github.com/initstring/linkedin2username) | Python | Name; Organization Name | Generates possible corporate usernames from public LinkedIn employee data. | 2018-02-22 | 2026-05-20 | ⭐ 1,914 |
+| [CrossLinked](https://github.com/m8sec/CrossLinked) | Python | Name; Organization Name | Extracts employee names from public LinkedIn search results. | 2019-05-16 | 2024-11-26 | ⭐ 1,650 |
+| [LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) | Python | Name; Organization Name | Extracts company employee records through LinkedIn endpoints. | 2022-10-17 | 2026-08-21 | ⭐ 624 |
 | [LinkedIn OSINT Toolkit](https://github.com/michaelelizarov/linkedin-osint-toolkit) | Python | Name; Organization Name | Discovers companies and employees, classifies roles, and builds organization views. | 2026-02-16 | 2026-02-16 | ⭐ 57 |
 | [LinkedIn Recon Skill](https://github.com/Kewanvk/linkedin-recon-skill) | Skill | Name; Organization Name | Maps public hiring networks and organizational relationships from LinkedIn evidence. | 2026-05-08 | 2026-05-25 | ⭐ 1 |
 
@@ -208,11 +208,11 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [twikit](https://github.com/d60/twikit) | Python | Username | Provides an alternative Python client for collecting and interacting with public X data. | 2024-01-20 | 2026-03-10 | ⭐ 4,777 |
-| [twscrape](https://github.com/vladkens/twscrape) | Python | Username | Collects public X data through supported GraphQL endpoints with account-pool rotation. | 2023-05-05 | 2026-11-13 | ⭐ 2,967 |
-| [X Tweet Fetcher](https://github.com/ythx-101/x-tweet-fetcher) | Python | Username | Retrieves public X posts, replies, timelines, and articles without login. | 2026-02-14 | 2026-11-12 | ⭐ 1,006 |
+| [twikit](https://github.com/d60/twikit) | Python | Username | Provides an alternative Python client for collecting and interacting with public X data. | 2024-01-20 | 2026-03-10 | ⭐ 4,788 |
+| [twscrape](https://github.com/vladkens/twscrape) | Python | Username | Collects public X data through supported GraphQL endpoints with account-pool rotation. | 2023-05-05 | 2026-11-23 | ⭐ 2,987 |
+| [X Tweet Fetcher](https://github.com/ythx-101/x-tweet-fetcher) | Python | Username | Retrieves public X posts, replies, timelines, and articles without login. | 2026-02-14 | 2026-11-12 | ⭐ 1,014 |
 | [xint](https://github.com/0xNyk/xint) | CLI + skill + MCP | Username | Searches, monitors, and exports public X data for agent-assisted investigations. | 2026-02-14 | 2026-08-28 | ⭐ 262 |
-| [x-scraper](https://github.com/proxidize/x-scraper) | Python | Username | Collects X timelines and search results through Playwright with resume and proxy controls. | 2025-10-30 | 2026-06-22 | ⭐ 37 |
+| [x-scraper](https://github.com/proxidize/x-scraper) | Python | Username | Collects X timelines and search results through Playwright with resume and proxy controls. | 2025-10-30 | 2026-06-22 | ⭐ 38 |
 
 <a id="social-media-youtube"></a>
 
@@ -220,11 +220,11 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | Username; Video | Downloads public video, audio, subtitles, comments, and metadata from supported platforms. | 2020-10-26 | 2026-11-15 | ⭐ 208,288 |
-| [Yark](https://github.com/Owez/yark) | Python | Name; Username; Video | Archives public YouTube channels, videos, and metadata for local analysis. | 2022-08-16 | 2025-12-17 | ⭐ 2,195 |
-| [tubeup](https://github.com/bibanon/tubeup) | Python | Username; Video | Archives online video and metadata to the Internet Archive through yt-dlp. | 2016-02-05 | 2026-10-27 | ⭐ 524 |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | Username; Video | Downloads public video, audio, subtitles, comments, and metadata from supported platforms. | 2020-10-26 | 2026-11-23 | ⭐ 210,161 |
+| [Yark](https://github.com/Owez/yark) | Python | Name; Username; Video | Archives public YouTube channels, videos, and metadata for local analysis. | 2022-08-16 | 2025-12-17 | ⭐ 2,194 |
+| [tubeup](https://github.com/bibanon/tubeup) | Python | Username; Video | Archives online video and metadata to the Internet Archive through yt-dlp. | 2016-02-05 | 2026-10-27 | ⭐ 523 |
 | [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | MCP server | Username; Video | Exposes YouTube videos, channels, search results, comments, and transcripts through MCP. | 2025-03-31 | 2026-10-26 | ⭐ 27 |
-| [Arcmira](https://github.com/arcmira/arcmira) | TypeScript SDK / CLI | Keyword; Name; Organization Name; Video | Searches indexed YouTube transcripts and speaker mentions through the hosted Arcmira API. | 2026-10-12 | 2026-11-09 | ⭐ 17 |
+| [Arcmira](https://github.com/arcmira/arcmira) | TypeScript SDK / CLI | Keyword; Name; Organization Name; Video | Searches indexed YouTube transcripts and speaker mentions through the hosted Arcmira API. | 2026-10-12 | 2026-11-09 | ⭐ 16 |
 
 <a id="social-media-discord"></a>
 
@@ -232,8 +232,8 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | C# | Username | Exports accessible Discord message history and rich media to local files. | 2017-07-12 | 2026-11-14 | ⭐ 12,399 |
-| [Discord History Tracker](https://github.com/chylex/Discord-History-Tracker) | C# | Username | Saves accessible Discord chat history for offline preservation and review. | 2016-10-22 | 2026-01-29 | ⭐ 593 |
+| [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | C# | Username | Exports accessible Discord message history and rich media to local files. | 2017-07-12 | 2026-11-14 | ⭐ 12,430 |
+| [Discord History Tracker](https://github.com/chylex/Discord-History-Tracker) | C# | Username | Saves accessible Discord chat history for offline preservation and review. | 2016-10-22 | 2026-01-29 | ⭐ 594 |
 | [discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) | Rust | Username; URL | Extracts URLs and media references from supported Discord archive formats. | 2021-11-21 | 2024-12-19 | ⭐ 22 |
 
 <a id="social-media-reddit"></a>
@@ -242,9 +242,9 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Arctic Shift](https://github.com/ArthurHeitmann/arctic_shift) | TypeScript | Username | Provides searchable Reddit archives through data dumps, an API, and a web interface. | 2023-08-03 | 2026-11-14 | ⭐ 1,869 |
-| [Universal Reddit Scraper](https://github.com/JosephLai241/URS) | Python | Username | Scrapes and archives Reddit submissions, comments, and user activity. | 2019-03-20 | 2026-07-11 | ⭐ 1,048 |
-| [Reddit Research MCP](https://github.com/dialog-tools/reddit-research-mcp) | MCP server | Username; URL | Supports structured Reddit discovery, thread collection, and community research. | 2025-08-12 | 2026-10-20 | ⭐ 265 |
+| [Arctic Shift](https://github.com/ArthurHeitmann/arctic_shift) | TypeScript | Username | Provides searchable Reddit archives through data dumps, an API, and a web interface. | 2023-08-03 | 2026-11-14 | ⭐ 1,908 |
+| [Universal Reddit Scraper](https://github.com/JosephLai241/URS) | Python | Username | Scrapes and archives Reddit submissions, comments, and user activity. | 2019-03-20 | 2026-07-11 | ⭐ 1,049 |
+| [Reddit Research MCP](https://github.com/dialog-tools/reddit-research-mcp) | MCP server | Username; URL | Supports structured Reddit discovery, thread collection, and community research. | 2025-08-12 | 2026-10-20 | ⭐ 267 |
 
 <a id="social-media-steam"></a>
 
@@ -253,8 +253,8 @@ Tools that search many networks at once rather than a single platform.
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
 | [steam-osint](https://github.com/matiash26/steam-osint) | Python | Username | Finds mutual friends between public Steam profiles. | 2022-03-12 | 2026-09-01 | ⭐ 108 |
-| [Steam Monitor](https://github.com/misiektoja/steam_monitor) | Python | Username | Tracks public Steam player activity, game sessions, and status changes. | 2024-04-25 | 2026-11-11 | ⭐ 60 |
-| [SteamReveal](https://github.com/Berchez/SteamReveal) | TypeScript | Username | Analyzes Steam profiles for close contacts and possible location clues. | 2024-02-20 | 2026-10-28 | ⭐ 29 |
+| [Steam Monitor](https://github.com/misiektoja/steam_monitor) | Python | Username | Tracks public Steam player activity, game sessions, and status changes. | 2024-04-25 | 2026-11-22 | ⭐ 62 |
+| [SteamReveal](https://github.com/Berchez/SteamReveal) | TypeScript | Username | Analyzes Steam profiles for close contacts and possible location clues. | 2024-02-20 | 2026-10-28 | ⭐ 30 |
 
 <a id="social-media-tiktok"></a>
 
@@ -262,7 +262,7 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [TokIntel](https://github.com/HackUnderway/TokIntel) | Python | Username | Collects TikTok profile metadata, metrics, and avatars for supplied usernames and writes structured local reports through the Apify scraper API. | 2026-03-29 | 2026-07-26 | ⭐ 126 |
+| [TokIntel](https://github.com/HackUnderway/TokIntel) | Python | Username | Collects TikTok profile metadata, metrics, and avatars for supplied usernames and writes structured local reports through the Apify scraper API. | 2026-03-29 | 2026-07-26 | ⭐ 127 |
 | [TikSpyder](https://github.com/estebanpdl/tik-spyder) | Python | Username; Video | Collects TikTok search, user, tag, and media data through SerpAPI and Apify. | 2024-07-16 | 2026-10-14 | ⭐ 103 |
 
 <a id="social-media-snapchat"></a>
@@ -271,7 +271,7 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [SnapIntel](https://github.com/Kr0wZ/SnapIntel) | Python | Username | Retrieves public account details associated with Snapchat usernames. | 2021-03-02 | 2026-03-24 | ⭐ 369 |
+| [SnapIntel](https://github.com/Kr0wZ/SnapIntel) | Python | Username | Retrieves public account details associated with Snapchat usernames. | 2021-03-02 | 2026-03-24 | ⭐ 371 |
 
 <a id="social-media-whatsapp"></a>
 
@@ -279,7 +279,7 @@ Tools that search many networks at once rather than a single platform.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [WhatsOSINT](https://github.com/HackUnderway/WhatsOSINT) | Python | Username; Phone Number | Retrieves public WhatsApp account details associated with a number. | 2024-11-19 | 2026-08-15 | ⭐ 378 |
+| [WhatsOSINT](https://github.com/HackUnderway/WhatsOSINT) | Python | Username; Phone Number | Retrieves public WhatsApp account details associated with a number. | 2024-11-19 | 2026-08-15 | ⭐ 379 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
 
@@ -291,21 +291,21 @@ Tools that investigate public source-code repositories, accounts, and repository
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Gitleaks](https://github.com/gitleaks/gitleaks) | Go | Username; Repository URL | Scans Git repositories and other inputs for hardcoded secrets and credentials. | 2018-01-27 | 2026-10-23 | ⭐ 31,084 |
-| [TruffleHog](https://github.com/trufflesecurity/trufflehog) | Go | Username; Repository URL | Finds, verifies, and analyzes exposed credentials across supported code and storage sources. | 2016-12-31 | 2026-11-15 | ⭐ 29,402 |
-| [github-dorks](https://github.com/techgaun/github-dorks) | Python | Username; Repository URL | Runs GitHub search queries intended to locate exposed sensitive data. | 2015-10-11 | 2026-09-15 | ⭐ 3,308 |
-| [Betterleaks](https://github.com/betterleaks/betterleaks) | Go | Username; Repository URL | Scans supported code and storage sources for secrets with configurable detection and validation. | 2026-02-03 | 2026-11-13 | ⭐ 3,012 |
-| [gitGraber](https://github.com/hisxo/gitGraber) | Python | Username; Repository URL | Monitors public GitHub activity for exposed credentials and service tokens. | 2019-09-04 | 2024-07-19 | ⭐ 2,470 |
-| [Bellingcat Octosuite](https://github.com/bellingcat/octosuite) | Python | Username; Repository URL | Collects and analyzes public GitHub repository, user, organization, and activity data. | 2022-02-24 | 2026-10-26 | ⭐ 1,894 |
-| [GitGot](https://github.com/BishopFox/GitGot) | Python | Username; Repository URL | Searches public GitHub data for exposed secrets using feedback-driven queries. | 2019-06-14 | 2024-03-07 | ⭐ 1,579 |
+| [Gitleaks](https://github.com/gitleaks/gitleaks) | Go | Username; Repository URL | Scans Git repositories and other inputs for hardcoded secrets and credentials. | 2018-01-27 | 2026-10-23 | ⭐ 31,282 |
+| [TruffleHog](https://github.com/trufflesecurity/trufflehog) | Go | Username; Repository URL | Finds, verifies, and analyzes exposed credentials across supported code and storage sources. | 2016-12-31 | 2026-11-20 | ⭐ 29,591 |
+| [github-dorks](https://github.com/techgaun/github-dorks) | Python | Username; Repository URL | Runs GitHub search queries intended to locate exposed sensitive data. | 2015-10-11 | 2026-09-15 | ⭐ 3,311 |
+| [Betterleaks](https://github.com/betterleaks/betterleaks) | Go | Username; Repository URL | Scans supported code and storage sources for secrets with configurable detection and validation. | 2026-02-03 | 2026-11-23 | ⭐ 3,100 |
+| [gitGraber](https://github.com/hisxo/gitGraber) | Python | Username; Repository URL | Monitors public GitHub activity for exposed credentials and service tokens. | 2019-09-04 | 2024-07-19 | ⭐ 2,472 |
+| [Bellingcat Octosuite](https://github.com/bellingcat/octosuite) | Python | Username; Repository URL | Collects and analyzes public GitHub repository, user, organization, and activity data. | 2022-02-24 | 2026-10-26 | ⭐ 1,895 |
+| [GitGot](https://github.com/BishopFox/GitGot) | Python | Username; Repository URL | Searches public GitHub data for exposed secrets using feedback-driven queries. | 2019-06-14 | 2024-03-07 | ⭐ 1,577 |
 | [git-hound](https://github.com/tillson/git-hound) | Go | Username; Repository URL | Searches GitHub at scale for exposed secrets and dork matches. | 2019-07-16 | 2025-11-20 | ⭐ 1,475 |
-| [GitFive](https://github.com/mxrch/GitFive) | Python | Name; Username; Repository URL | Correlates public GitHub account data for identity-focused investigations. | 2022-10-05 | 2025-10-04 | ⭐ 1,035 |
-| [GitSint](https://github.com/N0rz3/GitSint) | Python | Username; Repository URL | Collects public intelligence about GitHub users and repositories. | 2023-04-26 | 2026-06-28 | ⭐ 266 |
-| [Gitxray](https://github.com/kulkansecurity/gitxray) | Python | Username; Repository URL | Uses public GitHub APIs for account, repository, and contribution analysis. | 2024-08-06 | 2026-01-09 | ⭐ 187 |
-| [Shotstars](https://github.com/snooppr/shotstars) | Python | Username; Repository URL | Analyzes repository star history and indicators of artificial activity. | 2024-05-25 | 2026-10-01 | ⭐ 121 |
+| [GitFive](https://github.com/mxrch/GitFive) | Python | Name; Username; Repository URL | Correlates public GitHub account data for identity-focused investigations. | 2022-10-05 | 2025-10-04 | ⭐ 1,037 |
+| [GitSint](https://github.com/N0rz3/GitSint) | Python | Username; Repository URL | Collects public intelligence about GitHub users and repositories. | 2023-04-26 | 2026-06-28 | ⭐ 267 |
+| [Gitxray](https://github.com/kulkansecurity/gitxray) | Python | Username; Repository URL | Uses public GitHub APIs for account, repository, and contribution analysis. | 2024-08-06 | 2026-01-09 | ⭐ 188 |
+| [Shotstars](https://github.com/snooppr/shotstars) | Python | Username; Repository URL | Analyzes repository star history and indicators of artificial activity. | 2024-05-25 | 2026-10-01 | ⭐ 122 |
 | [Gitcolombo](https://github.com/soxoj/gitcolombo) | Python | Repository URL; Username | Extracts names and emails from Git history and GitHub metadata to correlate contributor identities. | 2020-02-29 | 2026-08-30 | ⭐ 102 |
 | [GitRecon](https://github.com/atiilla/gitrecon) | JavaScript | Username; Repository URL | Scans a GitHub user's repositories for exposed names and email addresses. | 2023-09-03 | 2025-12-29 | ⭐ 57 |
-| [GitHub Monitor](https://github.com/misiektoja/github_monitor) | Python | Username; Repository URL | Tracks GitHub profile and repository activity with change notifications. | 2024-05-11 | 2026-11-03 | ⭐ 57 |
+| [GitHub Monitor](https://github.com/misiektoja/github_monitor) | Python | Username; Repository URL | Tracks GitHub profile and repository activity with change notifications. | 2024-05-11 | 2026-11-22 | ⭐ 57 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
 
@@ -317,63 +317,63 @@ Tools for domains, IP addresses, networks, ASNs, and related internet infrastruc
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [SpiderFoot](https://github.com/smicallef/spiderfoot) | Python | Email; Domain; IP Address | Automates multi-source OSINT collection and attack-surface mapping. | 2012-04-28 | 2023-11-05 | ⭐ 24,618 |
-| [theHarvester](https://github.com/laramies/theHarvester) | Python | Domain | Collects names, email addresses, subdomains, and hosts from public sources. | 2011-01-01 | 2026-11-13 | ⭐ 18,331 |
-| [Amass](https://github.com/owasp-amass/amass) | Go | Domain | Maps external assets and discovers domains from multiple data sources. | 2018-07-10 | 2026-10-25 | ⭐ 15,524 |
-| [Subfinder](https://github.com/projectdiscovery/subfinder) | Go | Domain | Enumerates subdomains using passive online sources. | 2018-03-31 | 2026-11-16 | ⭐ 14,814 |
-| [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) | MCP server | Domain; IP Address; URL | Connects agents to a large collection of security and reconnaissance tools. | 2025-07-10 | 2026-08-03 | ⭐ 13,646 |
-| [BBOT](https://github.com/blacklanternsecurity/bbot) | Python | Domain | Recursively discovers internet-facing assets through modular scan events. | 2022-03-12 | 2026-11-12 | ⭐ 11,136 |
-| [Claude Red](https://github.com/SnailSploit/Claude-Red) | Skill pack | Domain; IP Address; URL | Provides red-team and security research playbooks for Claude-based workflows. | 2026-03-04 | 2026-11-11 | ⭐ 11,088 |
-| [OneForAll](https://github.com/shmilylty/OneForAll) | Python | Domain | Combines numerous sources and methods for subdomain discovery. | 2018-12-10 | 2026-11-02 | ⭐ 10,151 |
-| [reNgine](https://github.com/yogeshojha/rengine) | Python | Domain | Runs configurable reconnaissance pipelines against web targets and stores results for comparison. | 2020-05-03 | 2025-11-16 | ⭐ 8,946 |
-| [reconFTW](https://github.com/six2dez/reconftw) | Shell | Domain | Orchestrates domain reconnaissance, asset collection, and follow-up checks. | 2020-12-30 | 2026-10-29 | ⭐ 8,379 |
-| [Claude BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Skill pack | Domain; URL | Adds structured web reconnaissance and vulnerability-hunting methodology. | 2026-05-05 | 2026-11-16 | ⭐ 7,092 |
-| [Recon-ng](https://github.com/lanmaster53/recon-ng) | Python | Name; Organization Name; Domain | Organizes modular open-source intelligence collection in a command-line framework. | 2019-03-28 | 2026-10-05 | ⭐ 6,050 |
-| [Claude Bug Bounty](https://github.com/awarexone/Agentic-Bug-Hunter) | Skills + agents | Domain; URL | Organizes authorized bug-bounty reconnaissance, testing, validation, and reporting. | 2026-03-08 | 2026-11-12 | ⭐ 5,921 |
-| [dnstwist](https://github.com/elceef/dnstwist) | Python | Domain | Generates and evaluates look-alike domains for phishing and impersonation research. | 2015-06-11 | 2025-04-15 | ⭐ 5,784 |
-| [IVRE](https://github.com/ivre/ivre) | Python | IP Address | Builds searchable network intelligence from active and passive observations. | 2014-09-12 | 2026-09-10 | ⭐ 4,213 |
-| [Knockpy](https://github.com/guelfoweb/knockpy) | Python | Domain | Enumerates subdomains and resolves related DNS information. | 2014-02-11 | 2026-02-19 | ⭐ 4,209 |
-| [VulnClaw](https://github.com/Netw0rkNoob/VulnClaw) | Agent + skills + MCP | Domain; IP Address; URL | Orchestrates information gathering, vulnerability analysis, exploitation, and reporting. | 2026-04-18 | 2026-10-05 | ⭐ 3,931 |
-| [Findomain](https://github.com/Findomain/Findomain) | Rust | Domain | Discovers and monitors domains and subdomains from multiple sources. | 2019-04-14 | 2026-11-13 | ⭐ 3,830 |
-| [MassDNS](https://github.com/blechschmidt/massdns) | C | Domain | Resolves large DNS name lists at high throughput for bulk lookups and subdomain enumeration. | 2016-06-23 | 2026-09-27 | ⭐ 3,664 |
-| [CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | Agent + MCP | Domain; IP Address; URL | Runs agent-assisted offensive security with recon, testing, and evidence workflows. | 2026-02-14 | 2026-11-15 | ⭐ 3,595 |
-| [redamon](https://github.com/samugit83/redamon) | Agentic security framework | Domain; IP Address; URL | Coordinates AI-assisted reconnaissance, validation, remediation, and reporting workflows for authorized security testing. | 2025-12-29 | 2026-11-14 | ⭐ 3,413 |
-| [Uncover](https://github.com/projectdiscovery/uncover) | Go | IP Address | Queries internet search engines for exposed hosts matching a search. | 2022-03-02 | 2026-11-04 | ⭐ 3,116 |
-| [Claude OSINT](https://github.com/elementalsouls/Claude-OSINT) | Skill pack | Domain; URL | Adds structured external reconnaissance methods, dorks, validators, and reporting guidance. | 2026-04-26 | 2026-10-20 | ⭐ 3,059 |
-| [FinalRecon](https://github.com/thewhiteh4t/FinalRecon) | Python | Domain | Collects headers, DNS records, subdomains, and related web intelligence. | 2019-03-28 | 2026-10-31 | ⭐ 3,051 |
-| [dnsx](https://github.com/projectdiscovery/dnsx) | Go | Domain | Runs high-volume DNS queries and filters resolved records. | 2020-11-12 | 2026-11-16 | ⭐ 2,925 |
-| [X-osint](https://github.com/TermuxHackz/X-osint) | Python | Name; Email; Phone Number; Domain | Runs phone, email, domain, VIN, and identity-oriented lookup modules. | 2023-03-11 | 2026-10-09 | ⭐ 2,893 |
-| [Hack Skills](https://github.com/yaklang/hack-skills) | Skill library | Domain; IP Address; URL | Covers reconnaissance, web and network security, forensics, reversing, and authorized research. | 2026-04-07 | 2026-09-13 | ⭐ 2,664 |
-| [Pentest AI Agents](https://github.com/0xSteph/pentest-ai-agents) | Agent pack | Domain; IP Address; URL | Supplies specialized subagents for recon analysis, exploit research, detection, and reporting. | 2026-03-28 | 2026-08-16 | ⭐ 2,451 |
-| [ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | Domain; IP Address | Manages distributed asset discovery, monitoring, and exposure analysis. | 2024-02-27 | 2026-10-11 | ⭐ 2,441 |
-| [CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) | Python | Domain | Identifies origin IP exposure of sites served behind Cloudflare and similar reverse proxies. | 2023-11-02 | 2026-01-06 | ⭐ 2,291 |
-| [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) | Python | Domain | Finds subdomains and exposed data referenced in JavaScript files. | 2018-11-19 | 2026-09-14 | ⭐ 1,910 |
-| [Metabigor](https://github.com/j3ssie/metabigor) | Go | IP Address; ASN | Correlates IP, ASN, domain, and network data without mandatory API keys. | 2019-05-24 | 2026-08-08 | ⭐ 1,871 |
-| [Pentest AI](https://github.com/0xSteph/pentest-ai) | CLI + MCP | Domain; IP Address; URL | Exposes security tools, specialist agents, and deterministic probes through CLI and MCP. | 2026-04-04 | 2026-11-16 | ⭐ 1,835 |
-| [domain-digger](https://github.com/wotschofsky/domain-digger) | TypeScript | Domain | Provides a web toolkit for DNS, certificate, hosting, and domain analysis. | 2021-07-29 | 2026-11-12 | ⭐ 1,557 |
-| [Recon Skills](https://github.com/uphiago/recon-skills) | Skill pack | Domain; IP Address; URL | Provides field-oriented recon, dorking, secret discovery, asset mapping, and testing playbooks. | 2026-06-24 | 2026-11-07 | ⭐ 1,369 |
-| [HostHunter](https://github.com/SpiderLabs/HostHunter) | Python | IP Address | Discovers hostnames associated with supplied IP addresses. | 2018-05-17 | 2023-03-30 | ⭐ 1,179 |
-| [asnmap](https://github.com/projectdiscovery/asnmap) | Go | IP Address; CIDR; ASN | Maps organizations and ASNs to their advertised network ranges. | 2022-09-29 | 2026-10-25 | ⭐ 1,152 |
-| [dnsgen](https://github.com/AlephNullSK/dnsgen) | Python | Domain | Generates likely DNS name permutations for further discovery. | 2019-09-24 | 2025-01-03 | ⭐ 1,085 |
-| [openSquat](https://github.com/atenreiro/opensquat) | Python | Domain | Detects newly registered look-alike domains associated with brands. | 2020-05-04 | 2026-10-27 | ⭐ 993 |
-| [subscraper](https://github.com/m8sec/subscraper) | Python | Domain | Enumerates subdomains and related targets from public sources. | 2018-09-27 | 2024-06-19 | ⭐ 981 |
-| [Subdominator](https://github.com/RevoltSecurities/Subdominator) | Python | Domain | Performs low-impact subdomain discovery across multiple sources. | 2023-07-24 | 2026-10-07 | ⭐ 814 |
-| [Cyberbro](https://github.com/stanfrbd/cyberbro) | Python | Domain; IP Address; URL | Extracts observables from unstructured input and checks them across CTI services. | 2024-10-31 | 2026-11-14 | ⭐ 702 |
+| [SpiderFoot](https://github.com/smicallef/spiderfoot) | Python | Email; Domain; IP Address | Automates multi-source OSINT collection and attack-surface mapping. | 2012-04-28 | 2023-11-05 | ⭐ 24,875 |
+| [Claude BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Skill pack | Domain; URL | Adds structured web reconnaissance and vulnerability-hunting methodology. | 2026-05-05 | 2026-11-23 | ⭐ 19,168 |
+| [theHarvester](https://github.com/laramies/theHarvester) | Python | Domain | Collects names, email addresses, subdomains, and hosts from public sources. | 2011-01-01 | 2026-11-21 | ⭐ 18,393 |
+| [Amass](https://github.com/owasp-amass/amass) | Go | Domain | Maps external assets and discovers domains from multiple data sources. | 2018-07-10 | 2026-10-25 | ⭐ 15,552 |
+| [Subfinder](https://github.com/projectdiscovery/subfinder) | Go | Domain | Enumerates subdomains using passive online sources. | 2018-03-31 | 2026-11-22 | ⭐ 14,851 |
+| [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) | MCP server | Domain; IP Address; URL | Connects agents to a large collection of security and reconnaissance tools. | 2025-07-10 | 2026-08-03 | ⭐ 13,846 |
+| [Claude Red](https://github.com/SnailSploit/Claude-Red) | Skill pack | Domain; IP Address; URL | Provides red-team and security research playbooks for Claude-based workflows. | 2026-03-04 | 2026-11-17 | ⭐ 11,430 |
+| [BBOT](https://github.com/blacklanternsecurity/bbot) | Python | Domain | Recursively discovers internet-facing assets through modular scan events. | 2022-03-12 | 2026-11-19 | ⭐ 11,184 |
+| [OneForAll](https://github.com/shmilylty/OneForAll) | Python | Domain | Combines numerous sources and methods for subdomain discovery. | 2018-12-10 | 2026-11-02 | ⭐ 10,159 |
+| [reNgine](https://github.com/yogeshojha/rengine) | Python | Domain | Runs configurable reconnaissance pipelines against web targets and stores results for comparison. | 2020-05-03 | 2025-11-16 | ⭐ 8,959 |
+| [reconFTW](https://github.com/six2dez/reconftw) | Shell | Domain | Orchestrates domain reconnaissance, asset collection, and follow-up checks. | 2020-12-30 | 2026-10-29 | ⭐ 8,407 |
+| [Recon-ng](https://github.com/lanmaster53/recon-ng) | Python | Name; Organization Name; Domain | Organizes modular open-source intelligence collection in a command-line framework. | 2019-03-28 | 2026-10-05 | ⭐ 6,067 |
+| [Claude Bug Bounty](https://github.com/awarexone/Agentic-Bug-Hunter) | Skills + agents | Domain; URL | Organizes authorized bug-bounty reconnaissance, testing, validation, and reporting. | 2026-03-08 | 2026-11-12 | ⭐ 6,044 |
+| [dnstwist](https://github.com/elceef/dnstwist) | Python | Domain | Generates and evaluates look-alike domains for phishing and impersonation research. | 2015-06-11 | 2025-04-15 | ⭐ 5,787 |
+| [IVRE](https://github.com/ivre/ivre) | Python | IP Address | Builds searchable network intelligence from active and passive observations. | 2014-09-12 | 2026-11-20 | ⭐ 4,227 |
+| [Knockpy](https://github.com/guelfoweb/knockpy) | Python | Domain | Enumerates subdomains and resolves related DNS information. | 2014-02-11 | 2026-02-19 | ⭐ 4,210 |
+| [VulnClaw](https://github.com/Netw0rkNoob/VulnClaw) | Agent + skills + MCP | Domain; IP Address; URL | Orchestrates information gathering, vulnerability analysis, exploitation, and reporting. | 2026-04-18 | 2026-10-05 | ⭐ 3,957 |
+| [Findomain](https://github.com/Findomain/Findomain) | Rust | Domain | Discovers and monitors domains and subdomains from multiple sources. | 2019-04-14 | 2026-11-13 | ⭐ 3,835 |
+| [CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | Agent + MCP | Domain; IP Address; URL | Runs agent-assisted offensive security with recon, testing, and evidence workflows. | 2026-02-14 | 2026-11-22 | ⭐ 3,697 |
+| [MassDNS](https://github.com/blechschmidt/massdns) | C | Domain | Resolves large DNS name lists at high throughput for bulk lookups and subdomain enumeration. | 2016-06-23 | 2026-09-27 | ⭐ 3,669 |
+| [redamon](https://github.com/samugit83/redamon) | Agentic security framework | Domain; IP Address; URL | Coordinates AI-assisted reconnaissance, validation, remediation, and reporting workflows for authorized security testing. | 2025-12-29 | 2026-11-19 | ⭐ 3,478 |
+| [Claude OSINT](https://github.com/elementalsouls/Claude-OSINT) | Skill pack | Domain; URL | Adds structured external reconnaissance methods, dorks, validators, and reporting guidance. | 2026-04-26 | 2026-10-20 | ⭐ 3,127 |
+| [Uncover](https://github.com/projectdiscovery/uncover) | Go | IP Address | Queries internet search engines for exposed hosts matching a search. | 2022-03-02 | 2026-11-16 | ⭐ 3,121 |
+| [FinalRecon](https://github.com/thewhiteh4t/FinalRecon) | Python | Domain | Collects headers, DNS records, subdomains, and related web intelligence. | 2019-03-28 | 2026-10-31 | ⭐ 3,060 |
+| [dnsx](https://github.com/projectdiscovery/dnsx) | Go | Domain | Runs high-volume DNS queries and filters resolved records. | 2020-11-12 | 2026-11-23 | ⭐ 2,928 |
+| [X-osint](https://github.com/TermuxHackz/X-osint) | Python | Name; Email; Phone Number; Domain | Runs phone, email, domain, VIN, and identity-oriented lookup modules. | 2023-03-11 | 2026-10-09 | ⭐ 2,919 |
+| [Hack Skills](https://github.com/yaklang/hack-skills) | Skill library | Domain; IP Address; URL | Covers reconnaissance, web and network security, forensics, reversing, and authorized research. | 2026-04-07 | 2026-09-13 | ⭐ 2,684 |
+| [ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | Domain; IP Address | Manages distributed asset discovery, monitoring, and exposure analysis. | 2024-02-27 | 2026-10-11 | ⭐ 2,651 |
+| [Pentest AI Agents](https://github.com/0xSteph/pentest-ai-agents) | Agent pack | Domain; IP Address; URL | Supplies specialized subagents for recon analysis, exploit research, detection, and reporting. | 2026-03-28 | 2026-08-16 | ⭐ 2,488 |
+| [CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) | Python | Domain | Identifies origin IP exposure of sites served behind Cloudflare and similar reverse proxies. | 2023-11-02 | 2026-01-06 | ⭐ 2,294 |
+| [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) | Python | Domain | Finds subdomains and exposed data referenced in JavaScript files. | 2018-11-19 | 2026-09-14 | ⭐ 1,909 |
+| [Metabigor](https://github.com/j3ssie/metabigor) | Go | IP Address; ASN | Correlates IP, ASN, domain, and network data without mandatory API keys. | 2019-05-24 | 2026-08-08 | ⭐ 1,873 |
+| [Pentest AI](https://github.com/0xSteph/pentest-ai) | CLI + MCP | Domain; IP Address; URL | Exposes security tools, specialist agents, and deterministic probes through CLI and MCP. | 2026-04-04 | 2026-11-16 | ⭐ 1,847 |
+| [domain-digger](https://github.com/wotschofsky/domain-digger) | TypeScript | Domain | Provides a web toolkit for DNS, certificate, hosting, and domain analysis. | 2021-07-29 | 2026-11-20 | ⭐ 1,562 |
+| [Recon Skills](https://github.com/uphiago/recon-skills) | Skill pack | Domain; IP Address; URL | Provides field-oriented recon, dorking, secret discovery, asset mapping, and testing playbooks. | 2026-06-24 | 2026-11-07 | ⭐ 1,398 |
+| [HostHunter](https://github.com/SpiderLabs/HostHunter) | Python | IP Address | Discovers hostnames associated with supplied IP addresses. | 2018-05-17 | 2023-03-30 | ⭐ 1,178 |
+| [asnmap](https://github.com/projectdiscovery/asnmap) | Go | IP Address; CIDR; ASN | Maps organizations and ASNs to their advertised network ranges. | 2022-09-29 | 2026-11-16 | ⭐ 1,157 |
+| [dnsgen](https://github.com/AlephNullSK/dnsgen) | Python | Domain | Generates likely DNS name permutations for further discovery. | 2019-09-24 | 2025-01-03 | ⭐ 1,083 |
+| [openSquat](https://github.com/atenreiro/opensquat) | Python | Domain | Detects newly registered look-alike domains associated with brands. | 2020-05-04 | 2026-10-27 | ⭐ 992 |
+| [subscraper](https://github.com/m8sec/subscraper) | Python | Domain | Enumerates subdomains and related targets from public sources. | 2018-09-27 | 2024-06-19 | ⭐ 980 |
+| [Subdominator](https://github.com/RevoltSecurities/Subdominator) | Python | Domain | Performs low-impact subdomain discovery across multiple sources. | 2023-07-24 | 2026-10-07 | ⭐ 813 |
+| [Cyberbro](https://github.com/stanfrbd/cyberbro) | Python | Domain; IP Address; URL | Extracts observables from unstructured input and checks them across CTI services. | 2024-10-31 | 2026-11-21 | ⭐ 704 |
 | [Puncia](https://github.com/ARPSyndicate/puncia) | Python | Domain; Organization Name; CVE ID | Queries Subdomain Center and Exploit Observer for subdomain discovery, lookalike domains, and vulnerability intelligence. | 2023-09-10 | 2026-10-24 | ⭐ 666 |
-| [CloudRip](https://github.com/moscovium-mc/CloudRip) | Python | Domain; IP Address | Looks for origin IP addresses hidden behind Cloudflare. | 2024-10-12 | 2026-07-06 | ⭐ 656 |
-| [Transilience Community Tools](https://github.com/transilienceai/communitytools) | Skills + agents | Domain; IP Address; URL | Covers security reconnaissance, bug bounty, AI threat testing, validation, and reporting. | 2025-11-21 | 2026-07-29 | ⭐ 620 |
-| [TORCH](https://github.com/Encod3d-Sec/TORCH) | Skill library + MCP | Domain; IP Address; URL | Provides Claude Code with reconnaissance and authorized security-testing workflows, a searchable technique library, persistent engagement state, and MCP retrieval. | 2026-07-14 | 2026-09-01 | ⭐ 343 |
+| [CloudRip](https://github.com/moscovium-mc/CloudRip) | Python | Domain; IP Address | Looks for origin IP addresses hidden behind Cloudflare. | 2024-10-12 | 2026-07-06 | ⭐ 658 |
+| [Transilience Community Tools](https://github.com/transilienceai/communitytools) | Skills + agents | Domain; IP Address; URL | Covers security reconnaissance, bug bounty, AI threat testing, validation, and reporting. | 2025-11-21 | 2026-07-29 | ⭐ 633 |
+| [TORCH](https://github.com/Encod3d-Sec/TORCH) | Skill library + MCP | Domain; IP Address; URL | Provides Claude Code with reconnaissance and authorized security-testing workflows, a searchable technique library, persistent engagement state, and MCP retrieval. | 2026-07-14 | 2026-09-01 | ⭐ 344 |
 | [netscout](https://github.com/caio-ishikawa/netscout) | Go | Domain; URL | Crawls from a seed URL to find domains, paths, endpoints, and files. | 2024-03-28 | 2024-04-05 | ⭐ 183 |
-| [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) | Python | IP Address | Queries GreyNoise observations and classifications for internet-scanning IPs. | 2017-12-07 | 2026-11-09 | ⭐ 176 |
-| [ThreatSwarm](https://github.com/mukul975/Threatswarm) | Plugin + agents | Domain; IP Address; URL | Coordinates scope-aware agents across recon, exploitation, DFIR, and final reporting. | 2026-04-29 | 2026-04-29 | ⭐ 98 |
-| [Pius](https://github.com/praetorian-inc/pius) | Go | Organization Name; Domain; ASN; CIDR | Discovers organizational domains, CIDRs, and related infrastructure through passive-first certificate, registry, and public-data plugins with confidence scoring. | 2026-01-25 | 2026-11-15 | ⭐ 96 |
+| [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) | Python | IP Address | Queries GreyNoise observations and classifications for internet-scanning IPs. | 2017-12-07 | 2026-11-17 | ⭐ 176 |
+| [ThreatSwarm](https://github.com/mukul975/Threatswarm) | Plugin + agents | Domain; IP Address; URL | Coordinates scope-aware agents across recon, exploitation, DFIR, and final reporting. | 2026-04-29 | 2026-04-29 | ⭐ 101 |
+| [Pius](https://github.com/praetorian-inc/pius) | Go | Organization Name; Domain; ASN; CIDR | Discovers organizational domains, CIDRs, and related infrastructure through passive-first certificate, registry, and public-data plugins with confidence scoring. | 2026-01-25 | 2026-11-21 | ⭐ 97 |
 | [OSINT AI](https://github.com/dkyazzentwatwa/osint-ai) | Skill pack | Name; Organization Name; Domain | Provides guided people, domain, organization, breach, and evidence-analysis workflows. | 2026-02-27 | 2026-03-07 | ⭐ 69 |
 | [MCP dnstwist](https://github.com/w0h1v/mcp-dnstwist) | MCP server | Domain | Exposes look-alike domain discovery for phishing and impersonation investigations. | 2024-12-19 | 2026-11-04 | ⭐ 51 |
-| [CommiPiste](https://github.com/soxoj/CommiPiste) | Python | URL | Fingerprints publicly served static files to identify deployed open-source software versions and map verified CVE exposure. | 2026-06-27 | 2026-07-13 | ⭐ 44 |
+| [CommiPiste](https://github.com/soxoj/CommiPiste) | Python | URL | Fingerprints publicly served static files to identify deployed open-source software versions and map verified CVE exposure. | 2026-06-27 | 2026-07-13 | ⭐ 47 |
 | [Ronin Recon](https://github.com/ronin-rb/ronin-recon) | Ruby | Domain; URL | Provides a modular reconnaissance framework and command-line interface. | 2023-04-11 | 2026-01-15 | ⭐ 42 |
 | [Claude Code Pentest](https://github.com/Orizon-eu/claude-code-pentest) | Skill pack | Domain; IP Address; URL | Automates the authorized pentest lifecycle from initial recon to exploit-chain reports. | 2026-03-11 | 2026-03-11 | ⭐ 33 |
 | [Shodan MCP by Vorota](https://github.com/Vorota-ai/shodan-mcp) | MCP server | Domain; IP Address | Adds passive asset discovery, DNS analysis, and vulnerability intelligence from Shodan. | 2026-02-12 | 2026-02-12 | ⭐ 24 |
-| [Outrider Recon](https://github.com/Ap6pack/outrider-recon) | Skills + MCP | Domain; URL | Runs evidence-backed external reconnaissance with policy controls and optional MCP enrichment. | 2026-04-29 | 2026-09-12 | ⭐ 15 |
+| [Outrider Recon](https://github.com/Ap6pack/outrider-recon) | Skills + MCP | Domain; URL | Runs evidence-backed external reconnaissance with policy controls and optional MCP enrichment. | 2026-04-29 | 2026-09-12 | ⭐ 16 |
 | [AH-OSINT](https://github.com/ArunHax/AH-OSINT) | Python | Domain; IP Address; URL | Modular passive framework for domain, IP, DNS, and website intelligence with structured JSON reporting. | 2026-07-28 | 2026-07-28 | ⭐ 9 |
 | [Recon](https://github.com/g-baskin/recon) | Skill | Organization Name; Domain; URL | Performs competitive intelligence across products, infrastructure, APIs, and communities. | 2026-02-25 | 2026-10-20 | ⭐ 8 |
 | [Offensive Recon](https://github.com/mahuttha/offensive-recon) | Plugin + skills | Domain; IP Address; URL | Packages multi-phase reconnaissance skills and agents around common security tools. | 2026-03-01 | 2026-03-01 | ⭐ 4 |
@@ -390,90 +390,90 @@ Tools that collect, search, analyze, crawl, or preserve public web content.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | URL | Provides APIs for web search, scraping, crawling, and structured extraction. | 2024-04-15 | 2026-11-16 | ⭐ 202,231 |
-| [Browser Use](https://github.com/browser-use/browser-use) | Agent framework | URL | Lets AI agents navigate websites, interact with pages, and extract information. | 2024-10-31 | 2026-11-16 | ⭐ 121,186 |
-| [Scrapling](https://github.com/D4Vinci/Scrapling) | Python | URL | Provides adaptive web scraping, crawling, browser automation, and structured extraction. | 2024-10-13 | 2026-11-11 | ⭐ 103,527 |
-| [Crawl4AI](https://github.com/unclecode/crawl4ai) | Python | URL | Crawls websites and produces structured, LLM-ready content and metadata. | 2024-05-09 | 2026-11-04 | ⭐ 87,434 |
-| [DeerFlow](https://github.com/bytedance/deer-flow) | Research agent | URL | Orchestrates deep research with subagents, memory, optional web search, tools, and sandboxing. | 2025-05-07 | 2026-11-16 | ⭐ 85,395 |
-| [Scrapy](https://github.com/scrapy/scrapy) | Python | URL | Implements a mature Python framework for crawling and extracting structured web data. | 2010-02-22 | 2026-11-16 | ⭐ 65,429 |
-| [TrendRadar](https://github.com/sansan0/TrendRadar) | Monitoring platform + MCP | URL | Monitors news and RSS sources, tracks trends, stores history, and exposes MCP access. | 2025-04-28 | 2026-11-15 | ⭐ 63,659 |
-| [EasySpider](https://github.com/NaiboWang/EasySpider) | JavaScript | URL | Creates and runs visual no-code web crawling and data extraction tasks. | 2020-07-18 | 2026-11-16 | ⭐ 44,796 |
-| [OpenHuman](https://github.com/tinyhumansai/openhuman) | Research agent | URL; Document | Builds local context and runs deep research across personal data and the web with browser tooling and durable agent workflows. | 2026-02-18 | 2026-11-16 | ⭐ 42,714 |
-| [SearXNG](https://github.com/searxng/searxng) | Python | URL | Aggregates results from multiple search services in a self-hosted metasearch engine. | 2021-04-12 | 2026-11-15 | ⭐ 39,600 |
-| [Vane](https://github.com/ItzCrazyKns/Vane) | Research agent | URL | Provides a self-hosted research interface that answers questions with linked sources. | 2024-04-09 | 2026-09-01 | ⭐ 38,223 |
-| [changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Python | URL | Monitors web pages and records content changes over time. | 2021-01-27 | 2026-11-16 | ⭐ 35,842 |
-| [Web-Check](https://github.com/lissy93/web-check) | TypeScript | URL | Produces a broad technical and open-source intelligence report for a website. | 2023-06-25 | 2026-11-13 | ⭐ 35,529 |
-| [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python | URL | Builds scraping pipelines that use language models to extract structured information. | 2024-01-27 | 2026-10-06 | ⭐ 32,809 |
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Research agent | URL | Runs multi-agent web research and produces source-grounded reports with citations. | 2023-05-12 | 2026-11-09 | ⭐ 30,728 |
-| [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | Python | URL | Creates self-hosted, durable archives of web pages and linked online material. | 2017-05-05 | 2026-11-16 | ⭐ 29,034 |
-| [Crawlee](https://github.com/apify/crawlee) | TypeScript | URL | Provides a scalable SDK for HTTP crawling and browser automation. | 2016-08-26 | 2026-11-16 | ⭐ 26,464 |
-| [Stagehand](https://github.com/browserbase/stagehand) | Agent SDK | URL | Provides an SDK for agent-driven browser automation and page extraction. | 2024-03-24 | 2026-11-14 | ⭐ 26,069 |
-| [SingleFile](https://github.com/gildas-lormeau/SingleFile) | JavaScript | URL | Saves a complete web page as one file for preservation and later analysis. | 2010-09-12 | 2026-11-13 | ⭐ 22,926 |
-| [Linkwarden](https://github.com/linkwarden/linkwarden) | TypeScript | URL | Preserves bookmarked pages and stored copies for later reference and collaboration. | 2022-04-09 | 2026-11-10 | ⭐ 20,449 |
-| [deep-research](https://github.com/dzhng/deep-research) | Research agent | URL | Runs iterative web searches, evaluates findings, and builds source-grounded research answers. | 2025-02-04 | 2026-04-11 | ⭐ 19,908 |
-| [Maxun](https://github.com/getmaxun/maxun) | TypeScript | URL | Builds reusable web robots and structured data APIs through a visual interface. | 2023-10-23 | 2026-11-07 | ⭐ 18,484 |
-| [Katana](https://github.com/projectdiscovery/katana) | Go | Domain; URL | Crawls and spiders sites to collect endpoints, parameters, and linked assets. | 2021-01-02 | 2026-11-16 | ⭐ 17,856 |
-| [Apify MCP Server](https://github.com/apify/apify-mcp-server) | MCP server | URL | Makes Apify Actors and public web data collection available to compatible agents. | 2025-01-02 | 2026-11-16 | ⭐ 16,488 |
-| [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Research agent | URL; Document | Runs local-first deep research across the web and indexed documents with citations and scheduled monitoring. | 2026-02-15 | 2026-11-16 | ⭐ 15,802 |
-| [Photon](https://github.com/s0md3v/Photon) | Python | URL | Crawls a supplied URL to collect links and related open-source data. | 2018-03-30 | 2026-10-17 | ⭐ 13,346 |
-| [httpx](https://github.com/projectdiscovery/httpx) | Go | URL | Probes web targets at scale and reports HTTP, TLS, technology, and response metadata. | 2020-05-28 | 2026-11-09 | ⭐ 10,620 |
-| [Steel Browser](https://github.com/steel-dev/steel-browser) | TypeScript | URL | Runs a self-hosted browser API and sandbox for automated web operations. | 2024-11-01 | 2026-11-13 | ⭐ 7,974 |
-| [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) | MCP server | URL | Gives agents web search, crawling, scraping, extraction, and structured research tools. | 2024-12-06 | 2026-11-16 | ⭐ 7,836 |
-| [Trafilatura](https://github.com/adbar/trafilatura) | Python | URL | Extracts main text, metadata, links, and document structure from web pages. | 2019-04-08 | 2026-11-13 | ⭐ 7,136 |
-| [Exa MCP Server](https://github.com/exa-labs/exa-mcp-server) | MCP server | URL | Provides semantic web search, content retrieval, and research discovery through Exa. | 2024-11-27 | 2026-11-03 | ⭐ 5,239 |
-| [hakrawler](https://github.com/hakluke/hakrawler) | Go | URL | Crawls web applications to discover endpoints, assets, and linked resources. | 2019-12-15 | 2026-08-05 | ⭐ 5,169 |
-| [Deep Research](https://github.com/u14app/deep-research) | Research system + MCP | URL | Runs iterative web research and synthesis with configurable models and MCP access. | 2025-02-22 | 2026-06-18 | ⭐ 4,686 |
-| [Cariddi](https://github.com/edoardottt/cariddi) | Go | URL | Crawls domains and extracts endpoints, secrets, tokens, and file references. | 2021-04-27 | 2026-10-22 | ⭐ 3,813 |
-| [waybackpack](https://github.com/jsvine/waybackpack) | Python | URL | Downloads archived versions of a URL from the Wayback Machine. | 2016-04-11 | 2025-04-21 | ⭐ 3,243 |
-| [ParamSpider](https://github.com/devanshbatham/ParamSpider) | Python | URL | Mines web archives for URLs containing useful parameters. | 2020-04-12 | 2026-03-07 | ⭐ 3,210 |
-| [waymore](https://github.com/xnl-h4ck3r/waymore) | Python | URL | Collects archived URLs and responses from several public sources. | 2022-06-24 | 2026-06-11 | ⭐ 2,796 |
-| [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) | MCP server | URL | Connects agents to search, browsing, scraping, and public web datasets. | 2025-04-15 | 2026-11-12 | ⭐ 2,729 |
-| [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) | MCP server | URL | Exposes search, extraction, crawling, mapping, and research functions from Tavily. | 2025-01-27 | 2026-11-13 | ⭐ 2,493 |
-| [Mitaka](https://github.com/ninoseki/mitaka) | TypeScript | URL | Adds browser searches for URLs, hashes, IP addresses, and other indicators. | 2018-02-09 | 2026-11-15 | ⭐ 1,890 |
-| [BlackWidow](https://github.com/1N3/BlackWidow) | Python | URL | Crawls a web application to collect intelligence and identify reachable paths. | 2018-01-06 | 2026-04-17 | ⭐ 1,842 |
-| [pywb](https://github.com/webrecorder/pywb) | Python | URL | Indexes, serves, and replays WARC web archives. | 2013-12-09 | 2026-11-16 | ⭐ 1,720 |
-| [urlhunter](https://github.com/utkusen/urlhunter) | Go | URL | Finds URLs exposed through public URL-shortening services. | 2020-11-21 | 2025-01-23 | ⭐ 1,703 |
-| [ArchiveWeb.page](https://github.com/webrecorder/archiveweb.page) | TypeScript | URL | Captures selected web pages and browsing sessions into portable web archives. | 2020-02-10 | 2026-09-04 | ⭐ 1,629 |
-| [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) | Shell | URL | Uses search-engine results to enumerate web paths, files, and parameters. | 2022-06-17 | 2025-12-21 | ⭐ 1,595 |
-| [Brave Search MCP Server](https://github.com/brave/brave-search-mcp-server) | MCP server | URL | Adds Brave web, news, image, video, and local search to MCP clients. | 2025-06-12 | 2026-11-09 | ⭐ 1,584 |
-| [FavFreak](https://github.com/devanshbatham/FavFreak) | Python | URL | Creates favicon hashes for finding related websites through internet search engines. | 2020-07-03 | 2023-08-29 | ⭐ 1,320 |
-| [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) | TypeScript | URL | Captures interactive websites as WARC and WACZ archives with replay quality checks. | 2020-11-02 | 2026-11-11 | ⭐ 1,197 |
-| [Bellingcat Auto Archiver](https://github.com/bellingcat/auto-archiver) | Python | URL | Archives web pages, social posts, images, and videos from queued URLs. | 2021-01-15 | 2026-11-09 | ⭐ 1,151 |
-| [ReplayWeb.page](https://github.com/webrecorder/replayweb.page) | TypeScript | URL | Replays WARC and WACZ web archives locally in a browser. | 2019-12-09 | 2026-10-22 | ⭐ 1,015 |
-| [urlfinder](https://github.com/projectdiscovery/urlfinder) | Go | URL | Passively collects URLs associated with a target. | 2024-04-30 | 2026-11-09 | ⭐ 924 |
+| [Firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | URL | Provides APIs for web search, scraping, crawling, and structured extraction. | 2024-04-15 | 2026-11-23 | ⭐ 207,599 |
+| [Browser Use](https://github.com/browser-use/browser-use) | Agent framework | URL | Lets AI agents navigate websites, interact with pages, and extract information. | 2024-10-31 | 2026-11-22 | ⭐ 121,842 |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | Python | URL | Provides adaptive web scraping, crawling, browser automation, and structured extraction. | 2024-10-13 | 2026-11-23 | ⭐ 105,231 |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | Python | URL | Crawls websites and produces structured, LLM-ready content and metadata. | 2024-05-09 | 2026-11-23 | ⭐ 87,717 |
+| [DeerFlow](https://github.com/bytedance/deer-flow) | Research agent | URL | Orchestrates deep research with subagents, memory, optional web search, tools, and sandboxing. | 2025-05-07 | 2026-11-23 | ⭐ 85,672 |
+| [Scrapy](https://github.com/scrapy/scrapy) | Python | URL | Implements a mature Python framework for crawling and extracting structured web data. | 2010-02-22 | 2026-11-23 | ⭐ 65,549 |
+| [TrendRadar](https://github.com/sansan0/TrendRadar) | Monitoring platform + MCP | URL | Monitors news and RSS sources, tracks trends, stores history, and exposes MCP access. | 2025-04-28 | 2026-11-21 | ⭐ 63,829 |
+| [EasySpider](https://github.com/NaiboWang/EasySpider) | JavaScript | URL | Creates and runs visual no-code web crawling and data extraction tasks. | 2020-07-18 | 2026-11-16 | ⭐ 44,803 |
+| [OpenHuman](https://github.com/tinyhumansai/openhuman) | Research agent | URL; Document | Builds local context and runs deep research across personal data and the web with browser tooling and durable agent workflows. | 2026-02-18 | 2026-11-23 | ⭐ 42,824 |
+| [SearXNG](https://github.com/searxng/searxng) | Python | URL | Aggregates results from multiple search services in a self-hosted metasearch engine. | 2021-04-12 | 2026-11-23 | ⭐ 39,803 |
+| [Vane](https://github.com/ItzCrazyKns/Vane) | Research agent | URL | Provides a self-hosted research interface that answers questions with linked sources. | 2024-04-09 | 2026-09-01 | ⭐ 38,296 |
+| [changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Python | URL | Monitors web pages and records content changes over time. | 2021-01-27 | 2026-11-23 | ⭐ 35,980 |
+| [Web-Check](https://github.com/lissy93/web-check) | TypeScript | URL | Produces a broad technical and open-source intelligence report for a website. | 2023-06-25 | 2026-11-23 | ⭐ 35,581 |
+| [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python | URL | Builds scraping pipelines that use language models to extract structured information. | 2024-01-27 | 2026-10-06 | ⭐ 32,899 |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Research agent | URL | Runs multi-agent web research and produces source-grounded reports with citations. | 2023-05-12 | 2026-11-23 | ⭐ 30,878 |
+| [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | Python | URL | Creates self-hosted, durable archives of web pages and linked online material. | 2017-05-05 | 2026-11-23 | ⭐ 29,083 |
+| [Crawlee](https://github.com/apify/crawlee) | TypeScript | URL | Provides a scalable SDK for HTTP crawling and browser automation. | 2016-08-26 | 2026-11-23 | ⭐ 26,525 |
+| [Stagehand](https://github.com/browserbase/stagehand) | Agent SDK | URL | Provides an SDK for agent-driven browser automation and page extraction. | 2024-03-24 | 2026-11-21 | ⭐ 26,124 |
+| [SingleFile](https://github.com/gildas-lormeau/SingleFile) | JavaScript | URL | Saves a complete web page as one file for preservation and later analysis. | 2010-09-12 | 2026-11-22 | ⭐ 22,987 |
+| [Linkwarden](https://github.com/linkwarden/linkwarden) | TypeScript | URL | Preserves bookmarked pages and stored copies for later reference and collaboration. | 2022-04-09 | 2026-11-10 | ⭐ 20,508 |
+| [deep-research](https://github.com/dzhng/deep-research) | Research agent | URL | Runs iterative web searches, evaluates findings, and builds source-grounded research answers. | 2025-02-04 | 2026-04-11 | ⭐ 19,919 |
+| [Maxun](https://github.com/getmaxun/maxun) | TypeScript | URL | Builds reusable web robots and structured data APIs through a visual interface. | 2023-10-23 | 2026-11-20 | ⭐ 18,547 |
+| [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Research agent | URL; Document | Runs local-first deep research across the web and indexed documents with citations and scheduled monitoring. | 2026-02-15 | 2026-11-23 | ⭐ 18,207 |
+| [Katana](https://github.com/projectdiscovery/katana) | Go | Domain; URL | Crawls and spiders sites to collect endpoints, parameters, and linked assets. | 2021-01-02 | 2026-11-23 | ⭐ 17,889 |
+| [Apify MCP Server](https://github.com/apify/apify-mcp-server) | MCP server | URL | Makes Apify Actors and public web data collection available to compatible agents. | 2025-01-02 | 2026-11-23 | ⭐ 17,557 |
+| [Photon](https://github.com/s0md3v/Photon) | Python | URL | Crawls a supplied URL to collect links and related open-source data. | 2018-03-30 | 2026-10-17 | ⭐ 13,382 |
+| [httpx](https://github.com/projectdiscovery/httpx) | Go | URL | Probes web targets at scale and reports HTTP, TLS, technology, and response metadata. | 2020-05-28 | 2026-11-21 | ⭐ 10,646 |
+| [Steel Browser](https://github.com/steel-dev/steel-browser) | TypeScript | URL | Runs a self-hosted browser API and sandbox for automated web operations. | 2024-11-01 | 2026-11-21 | ⭐ 8,000 |
+| [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) | MCP server | URL | Gives agents web search, crawling, scraping, extraction, and structured research tools. | 2024-12-06 | 2026-11-23 | ⭐ 7,889 |
+| [Trafilatura](https://github.com/adbar/trafilatura) | Python | URL | Extracts main text, metadata, links, and document structure from web pages. | 2019-04-08 | 2026-11-22 | ⭐ 7,164 |
+| [Exa MCP Server](https://github.com/exa-labs/exa-mcp-server) | MCP server | URL | Provides semantic web search, content retrieval, and research discovery through Exa. | 2024-11-27 | 2026-11-21 | ⭐ 5,264 |
+| [hakrawler](https://github.com/hakluke/hakrawler) | Go | URL | Crawls web applications to discover endpoints, assets, and linked resources. | 2019-12-15 | 2026-08-05 | ⭐ 5,174 |
+| [Deep Research](https://github.com/u14app/deep-research) | Research system + MCP | URL | Runs iterative web research and synthesis with configurable models and MCP access. | 2025-02-22 | 2026-06-18 | ⭐ 4,687 |
+| [Cariddi](https://github.com/edoardottt/cariddi) | Go | URL | Crawls domains and extracts endpoints, secrets, tokens, and file references. | 2021-04-27 | 2026-10-22 | ⭐ 3,847 |
+| [waybackpack](https://github.com/jsvine/waybackpack) | Python | URL | Downloads archived versions of a URL from the Wayback Machine. | 2016-04-11 | 2025-04-21 | ⭐ 3,242 |
+| [ParamSpider](https://github.com/devanshbatham/ParamSpider) | Python | URL | Mines web archives for URLs containing useful parameters. | 2020-04-12 | 2026-03-07 | ⭐ 3,214 |
+| [waymore](https://github.com/xnl-h4ck3r/waymore) | Python | URL | Collects archived URLs and responses from several public sources. | 2022-06-24 | 2026-06-11 | ⭐ 2,802 |
+| [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) | MCP server | URL | Connects agents to search, browsing, scraping, and public web datasets. | 2025-04-15 | 2026-11-23 | ⭐ 2,734 |
+| [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) | MCP server | URL | Exposes search, extraction, crawling, mapping, and research functions from Tavily. | 2025-01-27 | 2026-11-18 | ⭐ 2,497 |
+| [Mitaka](https://github.com/ninoseki/mitaka) | TypeScript | URL | Adds browser searches for URLs, hashes, IP addresses, and other indicators. | 2018-02-09 | 2026-11-21 | ⭐ 1,893 |
+| [BlackWidow](https://github.com/1N3/BlackWidow) | Python | URL | Crawls a web application to collect intelligence and identify reachable paths. | 2018-01-06 | 2026-04-17 | ⭐ 1,844 |
+| [pywb](https://github.com/webrecorder/pywb) | Python | URL | Indexes, serves, and replays WARC web archives. | 2013-12-09 | 2026-11-19 | ⭐ 1,718 |
+| [urlhunter](https://github.com/utkusen/urlhunter) | Go | URL | Finds URLs exposed through public URL-shortening services. | 2020-11-21 | 2025-01-23 | ⭐ 1,702 |
+| [ArchiveWeb.page](https://github.com/webrecorder/archiveweb.page) | TypeScript | URL | Captures selected web pages and browsing sessions into portable web archives. | 2020-02-10 | 2026-09-04 | ⭐ 1,633 |
+| [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) | Shell | URL | Uses search-engine results to enumerate web paths, files, and parameters. | 2022-06-17 | 2025-12-21 | ⭐ 1,592 |
+| [Brave Search MCP Server](https://github.com/brave/brave-search-mcp-server) | MCP server | URL | Adds Brave web, news, image, video, and local search to MCP clients. | 2025-06-12 | 2026-11-19 | ⭐ 1,588 |
+| [FavFreak](https://github.com/devanshbatham/FavFreak) | Python | URL | Creates favicon hashes for finding related websites through internet search engines. | 2020-07-03 | 2023-08-29 | ⭐ 1,321 |
+| [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) | TypeScript | URL | Captures interactive websites as WARC and WACZ archives with replay quality checks. | 2020-11-02 | 2026-11-11 | ⭐ 1,202 |
+| [Bellingcat Auto Archiver](https://github.com/bellingcat/auto-archiver) | Python | URL | Archives web pages, social posts, images, and videos from queued URLs. | 2021-01-15 | 2026-11-18 | ⭐ 1,159 |
+| [ReplayWeb.page](https://github.com/webrecorder/replayweb.page) | TypeScript | URL | Replays WARC and WACZ web archives locally in a browser. | 2019-12-09 | 2026-11-19 | ⭐ 1,016 |
+| [urlfinder](https://github.com/projectdiscovery/urlfinder) | Go | URL | Passively collects URLs associated with a target. | 2024-04-30 | 2026-11-23 | ⭐ 924 |
 | [xurlfind3r](https://github.com/hueristiq/xurlfind3r) | Go | URL | Discovers URLs for a domain through passive public sources. | 2021-05-13 | 2025-11-17 | ⭐ 735 |
-| [waybackpy](https://github.com/akamhy/waybackpy) | Python | URL | Provides a command-line and library interface to Wayback Machine APIs. | 2020-05-02 | 2022-11-17 | ⭐ 617 |
-| [De-Anthropocentric Research Engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) | Research skill system | URL | Organizes autonomous research into composable campaigns, strategies, tactics, and procedures. | 2026-02-10 | 2026-10-23 | ⭐ 512 |
-| [NotebookLM Skill](https://github.com/claude-world/notebooklm-skill) | Skill + MCP | URL | Uses NotebookLM for source-grounded research, synthesis, and content preparation. | 2026-03-13 | 2026-10-21 | ⭐ 502 |
-| [Browsertrix](https://github.com/webrecorder/browsertrix) | TypeScript | URL | Provides a collaborative platform for browser-based web archiving and replay. | 2021-06-28 | 2026-11-09 | ⭐ 500 |
-| [Kindly Web Search MCP](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) | MCP server | URL | Aggregates web search, extraction, crawling, and browser automation for many clients. | 2026-01-02 | 2026-10-10 | ⭐ 405 |
-| [TheScrapper](https://github.com/champmq/TheScrapper) | Python | URL | Crawls websites to extract email addresses, phone numbers, and social profile links. | 2021-05-07 | 2026-05-29 | ⭐ 382 |
-| [MCP Omnisearch](https://github.com/spences10/mcp-omnisearch) | MCP server | URL | Combines multiple search, AI search, and content-processing providers behind MCP. | 2025-03-08 | 2026-11-07 | ⭐ 358 |
-| [WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) | TypeScript | Domain; URL | Collects and presents public DNS, TLS, headers, hosting, network, technology, security, and performance data for a website. | 2025-12-14 | 2026-11-16 | ⭐ 352 |
+| [waybackpy](https://github.com/akamhy/waybackpy) | Python | URL | Provides a command-line and library interface to Wayback Machine APIs. | 2020-05-02 | 2022-11-17 | ⭐ 618 |
+| [De-Anthropocentric Research Engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) | Research skill system | URL | Organizes autonomous research into composable campaigns, strategies, tactics, and procedures. | 2026-02-10 | 2026-10-23 | ⭐ 520 |
+| [NotebookLM Skill](https://github.com/claude-world/notebooklm-skill) | Skill + MCP | URL | Uses NotebookLM for source-grounded research, synthesis, and content preparation. | 2026-03-13 | 2026-10-21 | ⭐ 503 |
+| [Browsertrix](https://github.com/webrecorder/browsertrix) | TypeScript | URL | Provides a collaborative platform for browser-based web archiving and replay. | 2021-06-28 | 2026-11-20 | ⭐ 502 |
+| [Kindly Web Search MCP](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) | MCP server | URL | Aggregates web search, extraction, crawling, and browser automation for many clients. | 2026-01-02 | 2026-10-10 | ⭐ 406 |
+| [TheScrapper](https://github.com/champmq/TheScrapper) | Python | URL | Crawls websites to extract email addresses, phone numbers, and social profile links. | 2021-05-07 | 2026-05-29 | ⭐ 380 |
+| [MCP Omnisearch](https://github.com/spences10/mcp-omnisearch) | MCP server | URL | Combines multiple search, AI search, and content-processing providers behind MCP. | 2025-03-08 | 2026-11-07 | ⭐ 359 |
+| [WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) | TypeScript | Domain; URL | Collects and presents public DNS, TLS, headers, hosting, network, technology, security, and performance data for a website. | 2025-12-14 | 2026-11-23 | ⭐ 353 |
 | [Robofinder](https://github.com/Spix0r/robofinder) | Python | Domain; URL | Retrieves historical robots.txt snapshots from web archives to recover retired paths and directories. | 2023-06-17 | 2026-06-13 | ⭐ 279 |
-| [KeyLeak Detector](https://github.com/Amal-David/keyleak-detector) | Python | Domain; URL; File | Scans live sites, browser runtime, and local configuration for exposed API keys and misconfigured backend services. | 2025-11-01 | 2026-11-13 | ⭐ 277 |
+| [KeyLeak Detector](https://github.com/Amal-David/keyleak-detector) | Python | Domain; URL; File | Scans live sites, browser runtime, and local configuration for exposed API keys and misconfigured backend services. | 2025-11-01 | 2026-11-20 | ⭐ 278 |
 | [Google Research MCP](https://github.com/mixelpixx/Nimrod) | MCP server | URL | Uses Google Search and browser automation for multi-step cited research. | 2024-12-19 | 2026-08-14 | ⭐ 262 |
 | [Bellingcat Wayback Google Analytics](https://github.com/bellingcat/wayback-google-analytics) | Python | Domain; URL | Scrapes current and archived Google Analytics identifiers to link related websites. | 2023-09-15 | 2024-02-16 | ⭐ 242 |
-| [agent-pulse](https://github.com/barretlee/agent-pulse) | TypeScript | URL; Document | Turns public AI releases, research, policy, funding, and propagation signals into source-linked events and evolving assessments. | 2026-07-11 | 2026-08-28 | ⭐ 240 |
-| [urx](https://github.com/hahwul/urx) | Rust | URL | Extracts URLs from public web archives for later analysis. | 2025-03-28 | 2026-11-14 | ⭐ 194 |
-| [abx-dl](https://github.com/ArchiveBox/abx-dl) | Python | URL | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-11-16 | ⭐ 152 |
+| [agent-pulse](https://github.com/barretlee/agent-pulse) | TypeScript | URL; Document | Turns public AI releases, research, policy, funding, and propagation signals into source-linked events and evolving assessments. | 2026-07-11 | 2026-08-28 | ⭐ 241 |
+| [urx](https://github.com/hahwul/urx) | Rust | URL | Extracts URLs from public web archives for later analysis. | 2025-03-28 | 2026-11-21 | ⭐ 194 |
+| [abx-dl](https://github.com/ArchiveBox/abx-dl) | Python | URL | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-11-23 | ⭐ 155 |
 | [Octagon MCP Server](https://github.com/OctagonAI/octagon-mcp-server) | MCP server | URL | Provides public company, market, investor, private-market, and crypto research data. | 2025-03-12 | 2026-11-15 | ⭐ 149 |
-| [RivalSearch MCP](https://github.com/damionrashford/RivalSearchMCP) | MCP server | URL | Unifies web, social, news, academic, and entity-search sources behind MCP. | 2025-08-03 | 2026-11-12 | ⭐ 140 |
-| [Deep Research MCP](https://github.com/pminervini/deep-research-mcp) | MCP server | URL | Connects several deep-research agents and model providers through one MCP interface. | 2025-08-07 | 2026-11-04 | ⭐ 116 |
+| [RivalSearch MCP](https://github.com/damionrashford/RivalSearchMCP) | MCP server | URL | Unifies web, social, news, academic, and entity-search sources behind MCP. | 2025-08-03 | 2026-11-12 | ⭐ 141 |
+| [Deep Research MCP](https://github.com/pminervini/deep-research-mcp) | MCP server | URL | Connects several deep-research agents and model providers through one MCP interface. | 2025-08-07 | 2026-11-17 | ⭐ 117 |
 | [Agent Search](https://github.com/brcrusoe72/agent-search) | MCP server | URL | Provides privacy-oriented search and browser retrieval for AI agents. | 2026-02-18 | 2026-11-05 | ⭐ 89 |
 | [Deep Web Research MCP](https://github.com/qpd-v/mcp-DEEPwebresearch) | MCP server | URL | Coordinates recursive web search and page analysis for deeper topic coverage. | 2025-01-13 | 2025-03-05 | ⭐ 88 |
 | [Web Researcher MCP](https://github.com/zoharbabin/web-researcher-mcp) | MCP server | URL | Searches the web, extracts sources, and produces citation-aware research results. | 2026-05-18 | 2026-11-15 | ⭐ 79 |
 | [kronikier](https://github.com/soxoj/kronikier) | Python | Domain; URL | Extracts historical email addresses and phone numbers from Wayback Machine snapshots, with first and last sightings. | 2026-05-29 | 2026-06-13 | ⭐ 65 |
-| [AtDork](https://github.com/amnottdevv/AtDork) | Python | URL | Automates multi-engine search queries with rate and failure controls. | 2026-06-07 | 2026-10-21 | ⭐ 58 |
+| [AtDork](https://github.com/amnottdevv/AtDork) | Python | URL | Automates multi-engine search queries with rate and failure controls. | 2026-06-07 | 2026-10-21 | ⭐ 59 |
 | [OpenRouter Deep Research MCP](https://github.com/wheattoast11/openrouter-deep-research-mcp) | MCP server | URL | Orchestrates parallel research agents and consensus-backed synthesis through OpenRouter. | 2025-03-28 | 2026-03-04 | ⭐ 56 |
-| [Wayback Archive](https://github.com/GeiserX/Wayback-Archive) | Python | URL | Downloads complete archived websites with their referenced assets. | 2025-12-11 | 2026-11-06 | ⭐ 48 |
+| [Wayback Archive](https://github.com/GeiserX/Wayback-Archive) | Python | URL | Downloads complete archived websites with their referenced assets. | 2025-12-11 | 2026-11-06 | ⭐ 52 |
 | [GiaSip Skills](https://github.com/GiaSip/giasip-skills) | Skills + plugin | URL | Provides quick recon, fact-checking, research orchestration, and multi-model dispatch. | 2026-05-30 | 2026-09-17 | ⭐ 13 |
 | [Web Multi Search](https://github.com/soxoj/web-multi-search-skill) | Skill + script | URL | Searches several web engines in parallel and exports deduplicated results. | 2026-02-08 | 2026-02-08 | ⭐ 8 |
 | [Digital Research Skills](https://github.com/smarks26/digital-research-skills) | Research skill system | URL | Plans evidence-driven research waves for OSINT, due diligence, trends, and long-form analysis. | 2026-05-29 | 2026-05-16 | ⭐ 6 |
 | [JSHarvest](https://github.com/abdulhalimaltuntas/JSHarvest) | JavaScript browser extension | URL | Inventories scripts loaded by web pages and analyzes bundles and source maps for hidden chunks, endpoints, and exposed secrets. | 2026-08-21 | 2026-08-25 | ⭐ 6 |
-| [Internet Archive MCP](https://github.com/cyanheads/internet-archive-mcp-server) | MCP server | URL | Provides agent access to Internet Archive search, metadata, files, and preserved resources. | 2026-06-05 | 2026-11-13 | ⭐ 4 |
+| [Internet Archive MCP](https://github.com/cyanheads/internet-archive-mcp-server) | MCP server | URL | Provides agent access to Internet Archive search, metadata, files, and preserved resources. | 2026-06-05 | 2026-11-22 | ⭐ 4 |
+| [Wayback Diff](https://github.com/GeiserX/Wayback-Diff) | Python | URL | Compares current and archived web pages for content and visual changes. | 2025-12-13 | 2026-11-23 | ⭐ 3 |
 | [Memorious4](https://github.com/dataresearchcenter/memorious) | Python | URL | Runs maintained configurable crawlers for investigative documents and structured public data. | 2025-01-21 | 2026-11-04 | ⭐ 3 |
-| [Wayback Diff](https://github.com/GeiserX/Wayback-Diff) | Python | URL | Compares current and archived web pages for content and visual changes. | 2025-12-13 | 2026-11-02 | ⭐ 2 |
 | [Agent Toolkit](https://github.com/000001000000/agent-toolkit) | Skill pack | URL | Includes an OSINT dorking workflow with search tooling and evaluation assets. | 2026-04-11 | 2026-06-08 | ⭐ 1 |
 | [monster-search](https://github.com/scaso01/monster-search) | Python | Keyword; URL; Domain; IP Address; CVE ID | Federates web, code, archive, news, WHOIS, security, and research search engines into one ranked result set. | 2026-07-31 | 2026-10-18 | ⭐ 1 |
 
@@ -487,21 +487,21 @@ Tools for discovering, collecting, and analyzing onion services and dark-web con
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Robin](https://github.com/apurvsinghgautam/robin) | Python | Onion Service | Refines queries, filters dark-web search results, and saves assisted investigation summaries. | 2025-04-08 | 2026-10-03 | ⭐ 7,999 |
-| [TorBot](https://github.com/DedSecInside/TorBot) | Python | URL; Onion Service | Crawls a known onion service and exports its link tree for structure mapping. | 2017-05-17 | 2026-11-12 | ⭐ 5,211 |
-| [OnionSearch](https://github.com/megadose/OnionSearch) | Python | Onion Service | Scrapes result URLs from multiple onion search engines for a supplied query. | 2020-03-18 | 2023-12-29 | ⭐ 1,845 |
-| [darkdump](https://github.com/josh0xA/darkdump) | Python | Onion Service | Runs first-pass keyword discovery across dark-web search engines and saves result sets for later review. | 2021-02-11 | 2026-04-08 | ⭐ 1,822 |
-| [VoidAccess](https://github.com/KatrielMoses/voidaccess) | Python | Onion Service | Runs a self-hosted pipeline for dark-web collection, extraction, correlation, and graph analysis. | 2026-04-29 | 2026-10-29 | ⭐ 1,081 |
-| [AIL Framework](https://github.com/ail-project/ail-framework) | Python | Onion Service | Collects, crawls, processes, correlates, and analyzes unstructured information from Tor and other sources. | 2020-04-20 | 2026-11-16 | ⭐ 1,054 |
-| [Ahmia](https://github.com/ahmia/ahmia-site) | Python | Onion Service | Provides an open-source search application and interface for indexed onion services. | 2016-05-23 | 2026-09-25 | ⭐ 798 |
-| [Darkus](https://github.com/Lucksi/Darkus) | Python | Onion Service | Queries multiple onion search engines for keyword-matched hidden services. | 2023-10-27 | 2026-02-21 | ⭐ 725 |
-| [darc](https://github.com/JarryShaw/darc) | Python | Onion Service | Crawls dark-web services, stores link and host data, and supports distributed collection workflows. | 2019-09-28 | 2026-11-14 | ⭐ 240 |
-| [OnionClaw](https://github.com/JacobJandon/OnionClaw) | Skill + CLI | Onion Service | Adds Tor search, hidden-service retrieval, crawling, and export workflows to OpenClaw. | 2026-03-14 | 2026-10-29 | ⭐ 98 |
-| [onion-lookup](https://github.com/ail-project/onion-lookup) | Python | Onion Service | Checks onion-service availability and retrieves associated metadata from an AIL instance. | 2024-10-03 | 2026-01-05 | ⭐ 65 |
-| [DarkSpider](https://github.com/PROxZIMA/DarkSpider) | Python | Onion Service | Crawls onion services through Tor and visualizes extracted link relationships. | 2022-07-31 | 2024-07-27 | ⭐ 46 |
-| [PyAhmia](https://github.com/ritchiemwewa/pyahmia) | Python | Onion Service | Provides programmatic search access to Ahmia-indexed Tor hidden services. | 2025-09-26 | 2026-07-17 | ⭐ 21 |
-| [Sicry](https://github.com/JacobJandon/Sicry) | Python + MCP | Onion Service | Checks Tor health, rotates identity, searches onion engines, fetches known services, and exposes optional agent-assisted analysis. | 2026-03-14 | 2026-10-29 | ⭐ 20 |
-| [LeakRecon](https://github.com/egnake/LeakRecon) | Python | Onion Service | Runs Tor-routed leak reconnaissance with local history, change tracking, and report export. | 2026-05-18 | 2026-06-04 | ⭐ 11 |
+| [Robin](https://github.com/apurvsinghgautam/robin) | Python | Onion Service | Refines queries, filters dark-web search results, and saves assisted investigation summaries. | 2025-04-08 | 2026-10-03 | ⭐ 8,085 |
+| [TorBot](https://github.com/DedSecInside/TorBot) | Python | URL; Onion Service | Crawls a known onion service and exports its link tree for structure mapping. | 2017-05-17 | 2026-11-12 | ⭐ 5,227 |
+| [OnionSearch](https://github.com/megadose/OnionSearch) | Python | Onion Service | Scrapes result URLs from multiple onion search engines for a supplied query. | 2020-03-18 | 2023-12-29 | ⭐ 1,847 |
+| [darkdump](https://github.com/josh0xA/darkdump) | Python | Onion Service | Runs first-pass keyword discovery across dark-web search engines and saves result sets for later review. | 2021-02-11 | 2026-04-08 | ⭐ 1,826 |
+| [VoidAccess](https://github.com/KatrielMoses/voidaccess) | Python | Onion Service | Runs a self-hosted pipeline for dark-web collection, extraction, correlation, and graph analysis. | 2026-04-29 | 2026-10-29 | ⭐ 1,098 |
+| [AIL Framework](https://github.com/ail-project/ail-framework) | Python | Onion Service | Collects, crawls, processes, correlates, and analyzes unstructured information from Tor and other sources. | 2020-04-20 | 2026-11-23 | ⭐ 1,062 |
+| [Ahmia](https://github.com/ahmia/ahmia-site) | Python | Onion Service | Provides an open-source search application and interface for indexed onion services. | 2016-05-23 | 2026-09-25 | ⭐ 799 |
+| [Darkus](https://github.com/Lucksi/Darkus) | Python | Onion Service | Queries multiple onion search engines for keyword-matched hidden services. | 2023-10-27 | 2026-02-21 | ⭐ 727 |
+| [darc](https://github.com/JarryShaw/darc) | Python | Onion Service | Crawls dark-web services, stores link and host data, and supports distributed collection workflows. | 2019-09-28 | 2026-11-14 | ⭐ 242 |
+| [OnionClaw](https://github.com/JacobJandon/OnionClaw) | Skill + CLI | Onion Service | Adds Tor search, hidden-service retrieval, crawling, and export workflows to OpenClaw. | 2026-03-14 | 2026-10-29 | ⭐ 106 |
+| [onion-lookup](https://github.com/ail-project/onion-lookup) | Python | Onion Service | Checks onion-service availability and retrieves associated metadata from an AIL instance. | 2024-10-03 | 2026-01-05 | ⭐ 66 |
+| [DarkSpider](https://github.com/PROxZIMA/DarkSpider) | Python | Onion Service | Crawls onion services through Tor and visualizes extracted link relationships. | 2022-07-31 | 2024-07-27 | ⭐ 47 |
+| [PyAhmia](https://github.com/ritchiemwewa/pyahmia) | Python | Onion Service | Provides programmatic search access to Ahmia-indexed Tor hidden services. | 2025-09-26 | 2026-07-17 | ⭐ 22 |
+| [Sicry](https://github.com/JacobJandon/Sicry) | Python + MCP | Onion Service | Checks Tor health, rotates identity, searches onion engines, fetches known services, and exposes optional agent-assisted analysis. | 2026-03-14 | 2026-10-29 | ⭐ 21 |
+| [LeakRecon](https://github.com/egnake/LeakRecon) | Python | Onion Service | Runs Tor-routed leak reconnaissance with local history, change tracking, and report export. | 2026-05-18 | 2026-06-04 | ⭐ 12 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
 
@@ -513,32 +513,32 @@ Tools for threat data, indicators, file hashes, vulnerabilities, and malware ana
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Crucix](https://github.com/calesthio/Crucix) | JavaScript | Domain; IP Address; URL; File Hash | Watches multiple public intelligence sources and reports relevant changes. | 2026-03-14 | 2026-05-20 | ⭐ 12,228 |
-| [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | TypeScript | Domain; IP Address; URL; File Hash | Organizes cyber threat intelligence in a graph-based analysis platform. | 2018-12-17 | 2026-11-16 | ⭐ 10,378 |
-| [MISP](https://github.com/MISP/MISP) | PHP | Domain; IP Address; URL; File Hash | Stores, correlates, analyzes, and shares structured threat intelligence and indicators. | 2013-02-07 | 2026-11-01 | ⭐ 6,668 |
-| [gau](https://github.com/lc/gau) | Go | URL | Collects known URLs from public archives and threat intelligence sources. | 2020-02-25 | 2026-10-12 | ⭐ 5,177 |
-| [IntelOwl](https://github.com/intelowlproject/IntelOwl) | Python | Domain; IP Address; URL; File Hash | Orchestrates threat intelligence analyzers and connectors at scale. | 2019-12-31 | 2026-09-02 | ⭐ 4,821 |
-| [Malwoverview](https://github.com/alexandreborges/malwoverview) | Python | Domain; IP Address; URL; File Hash | Performs first-response triage against VirusTotal, Hybrid Analysis, URLhaus, and similar services. | 2018-09-08 | 2026-09-22 | ⭐ 4,143 |
-| [Yeti](https://github.com/yeti-platform/yeti) | Python | Domain; IP Address; URL; File Hash | Stores, links, and enriches observables, indicators, and threat actor knowledge in one repository. | 2015-12-13 | 2026-11-15 | ⭐ 2,045 |
-| [CVE MCP Server](https://github.com/mukul975/cve-mcp-server) | MCP server | CVE ID | Correlates CVE, EPSS, KEV, Shodan, VirusTotal, and related security intelligence. | 2026-04-14 | 2026-06-22 | ⭐ 1,778 |
-| [Cortex](https://github.com/TheHive-Project/Cortex) | Scala | Domain; IP Address; URL; File Hash | Runs observable analysers and active response actions behind a single API. | 2017-01-10 | 2026-10-20 | ⭐ 1,649 |
-| [Watcher](https://github.com/thalesgroup-cert/Watcher) | JavaScript | Domain; IP Address; URL; File Hash | Collects, enriches, and searches cyber threat intelligence with assisted analysis. | 2020-09-01 | 2026-10-19 | ⭐ 1,451 |
-| [Harpoon](https://github.com/Te-k/harpoon) | Python | IP Address | Provides command-line queries for open-source and threat intelligence indicators. | 2017-09-25 | 2026-05-18 | ⭐ 1,300 |
-| [Taranis AI](https://github.com/taranis-ai/taranis-ai) | Python | Domain; IP Address; URL; File Hash | Collects and analyzes open-source information for situational awareness. | 2023-10-05 | 2026-11-14 | ⭐ 1,238 |
-| [MCP Scanner](https://github.com/cisco-ai-defense/mcp-scanner) | Python | URL; File | Scans remote and local Model Context Protocol servers for unsafe tools, prompts, resources, and instructions. | 2025-09-24 | 2026-11-06 | ⭐ 1,119 |
+| [Crucix](https://github.com/calesthio/Crucix) | JavaScript | Domain; IP Address; URL; File Hash | Watches multiple public intelligence sources and reports relevant changes. | 2026-03-14 | 2026-05-20 | ⭐ 12,249 |
+| [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | TypeScript | Domain; IP Address; URL; File Hash | Organizes cyber threat intelligence in a graph-based analysis platform. | 2018-12-17 | 2026-11-23 | ⭐ 10,429 |
+| [MISP](https://github.com/MISP/MISP) | PHP | Domain; IP Address; URL; File Hash | Stores, correlates, analyzes, and shares structured threat intelligence and indicators. | 2013-02-07 | 2026-11-23 | ⭐ 6,699 |
+| [gau](https://github.com/lc/gau) | Go | URL | Collects known URLs from public archives and threat intelligence sources. | 2020-02-25 | 2026-10-12 | ⭐ 5,181 |
+| [IntelOwl](https://github.com/intelowlproject/IntelOwl) | Python | Domain; IP Address; URL; File Hash | Orchestrates threat intelligence analyzers and connectors at scale. | 2019-12-31 | 2026-09-02 | ⭐ 4,829 |
+| [Malwoverview](https://github.com/alexandreborges/malwoverview) | Python | Domain; IP Address; URL; File Hash | Performs first-response triage against VirusTotal, Hybrid Analysis, URLhaus, and similar services. | 2018-09-08 | 2026-09-22 | ⭐ 4,147 |
+| [Yeti](https://github.com/yeti-platform/yeti) | Python | Domain; IP Address; URL; File Hash | Stores, links, and enriches observables, indicators, and threat actor knowledge in one repository. | 2015-12-13 | 2026-11-21 | ⭐ 2,045 |
+| [CVE MCP Server](https://github.com/mukul975/cve-mcp-server) | MCP server | CVE ID | Correlates CVE, EPSS, KEV, Shodan, VirusTotal, and related security intelligence. | 2026-04-14 | 2026-06-22 | ⭐ 1,787 |
+| [Cortex](https://github.com/TheHive-Project/Cortex) | Scala | Domain; IP Address; URL; File Hash | Runs observable analysers and active response actions behind a single API. | 2017-01-10 | 2026-10-20 | ⭐ 1,651 |
+| [Watcher](https://github.com/thalesgroup-cert/Watcher) | JavaScript | Domain; IP Address; URL; File Hash | Collects, enriches, and searches cyber threat intelligence with assisted analysis. | 2020-09-01 | 2026-11-23 | ⭐ 1,454 |
+| [Harpoon](https://github.com/Te-k/harpoon) | Python | IP Address | Provides command-line queries for open-source and threat intelligence indicators. | 2017-09-25 | 2026-05-18 | ⭐ 1,299 |
+| [Taranis AI](https://github.com/taranis-ai/taranis-ai) | Python | Domain; IP Address; URL; File Hash | Collects and analyzes open-source information for situational awareness. | 2023-10-05 | 2026-11-23 | ⭐ 1,246 |
+| [MCP Scanner](https://github.com/cisco-ai-defense/mcp-scanner) | Python | URL; File | Scans remote and local Model Context Protocol servers for unsafe tools, prompts, resources, and instructions. | 2025-09-24 | 2026-11-19 | ⭐ 1,127 |
 | [Mihari](https://github.com/ninoseki/mihari) | Ruby | Domain; IP Address; URL; File Hash | Aggregates search queries across threat intelligence services. | 2019-04-15 | 2026-10-03 | ⭐ 948 |
 | [ThreatIngestor](https://github.com/pedramamini/ThreatIngestor) | Python | Domain; IP Address; URL; File Hash | Extracts and routes threat indicators from public information feeds. | 2017-08-31 | 2026-05-26 | ⭐ 933 |
-| [CTI Expert](https://github.com/7onez/cti-expert) | Skill | Domain; IP Address; URL; File Hash | Guides structured cyber threat intelligence and OSINT collection with confidence scoring. | 2026-04-06 | 2026-11-13 | ⭐ 625 |
-| [MISP Modules](https://github.com/MISP/misp-modules) | Python | Domain; IP Address; URL; File Hash | Enriches threat indicators and imports or exports intelligence through standalone Python modules and a REST API. | 2016-02-17 | 2026-11-16 | ⭐ 383 |
-| [Reversecore MCP](https://github.com/sjkim1127/Reversecore_MCP) | MCP server | File; File Hash | Connects agents to reverse engineering, malware, forensics, and vulnerability research tools. | 2025-11-10 | 2026-11-13 | ⭐ 222 |
-| [Shodan MCP](https://github.com/w0h1v/mcp-shodan) | MCP server | Domain; IP Address | Provides device search, IP reconnaissance, DNS, CPE, and CVE intelligence. | 2024-12-12 | 2026-11-04 | ⭐ 191 |
-| [VirusTotal MCP](https://github.com/w0h1v/mcp-virustotal) | MCP server | Domain; IP Address; URL; File; File Hash | Queries files, URLs, domains, IPs, and related security-analysis records. | 2024-12-13 | 2026-11-04 | ⭐ 155 |
-| [Taranis NG](https://github.com/SK-CERT/Taranis-NG) | Vue | URL; Keyword; Document | Collects, analyzes, and reports on open-source information for CSIRT teams, with collaboration and asset-management workflows. | 2021-10-09 | 2026-11-16 | ⭐ 131 |
+| [CTI Expert](https://github.com/7onez/cti-expert) | Skill | Domain; IP Address; URL; File Hash | Guides structured cyber threat intelligence and OSINT collection with confidence scoring. | 2026-04-06 | 2026-11-22 | ⭐ 627 |
+| [MISP Modules](https://github.com/MISP/misp-modules) | Python | Domain; IP Address; URL; File Hash | Enriches threat indicators and imports or exports intelligence through standalone Python modules and a REST API. | 2016-02-17 | 2026-11-23 | ⭐ 384 |
+| [Reversecore MCP](https://github.com/sjkim1127/Reversecore_MCP) | MCP server | File; File Hash | Connects agents to reverse engineering, malware, forensics, and vulnerability research tools. | 2025-11-10 | 2026-11-20 | ⭐ 225 |
+| [Shodan MCP](https://github.com/w0h1v/mcp-shodan) | MCP server | Domain; IP Address | Provides device search, IP reconnaissance, DNS, CPE, and CVE intelligence. | 2024-12-12 | 2026-11-17 | ⭐ 192 |
+| [VirusTotal MCP](https://github.com/w0h1v/mcp-virustotal) | MCP server | Domain; IP Address; URL; File; File Hash | Queries files, URLs, domains, IPs, and related security-analysis records. | 2024-12-13 | 2026-11-17 | ⭐ 156 |
+| [Taranis NG](https://github.com/SK-CERT/Taranis-NG) | Vue | URL; Keyword; Document | Collects, analyzes, and reports on open-source information for CSIRT teams, with collaboration and asset-management workflows. | 2021-10-09 | 2026-11-23 | ⭐ 131 |
 | [ZettelForge](https://github.com/ThreatRecall/zettelforge) | CTI system + MCP | Domain; IP Address; URL; File Hash | Extracts IOCs and threat entities into a local STIX knowledge graph with agent access. | 2026-04-06 | 2026-11-13 | ⭐ 68 |
-| [MalwareDB](https://github.com/malwaredb/malwaredb-rs) | Rust | File; File Hash | Stores, indexes, and analyzes malware samples and associated metadata. | 2023-02-19 | 2026-11-15 | ⭐ 65 |
-| [Malware Sandbox MCP](https://github.com/mukul975/Malware-Sandbox-mcp) | MCP server | File; File Hash | Normalizes malware sandbox verdicts, IOCs, artifacts, and ATT&CK mappings. | 2026-06-11 | 2026-06-11 | ⭐ 35 |
+| [MalwareDB](https://github.com/malwaredb/malwaredb-rs) | Rust | File; File Hash | Stores, indexes, and analyzes malware samples and associated metadata. | 2023-02-19 | 2026-11-22 | ⭐ 65 |
+| [Malware Sandbox MCP](https://github.com/mukul975/Malware-Sandbox-mcp) | MCP server | File; File Hash | Normalizes malware sandbox verdicts, IOCs, artifacts, and ATT&CK mappings. | 2026-06-11 | 2026-06-11 | ⭐ 37 |
 | [MISP MCP](https://github.com/MISP/misp-mcp) | MCP server | Domain; IP Address; URL; File Hash | Provides read-only access to MISP threat intelligence events and attributes. | 2026-04-01 | 2026-04-05 | ⭐ 16 |
-| [OSINT MCP Gateway](https://github.com/bonetrees/osint-mcp-gateway) | MCP server | Domain; IP Address; URL | Routes agent queries across VirusTotal, Shodan, DNS, WHOIS, RIPEstat, and OTX. | 2025-11-23 | 2026-06-10 | ⭐ 0 |
+| [OSINT MCP Gateway](https://github.com/bonetrees/osint-mcp-gateway) | MCP server | Domain; IP Address; URL | Routes agent queries across VirusTotal, Shodan, DNS, WHOIS, RIPEstat, and OTX. | 2025-11-23 | 2026-06-10 | ⭐ 1 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
 
@@ -550,52 +550,52 @@ Tools for documents, files, datasets, public records, extraction, and structured
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [MarkItDown](https://github.com/microsoft/markitdown) | Python | Document | Converts common document and media formats into Markdown for analysis. | 2024-11-13 | 2026-11-07 | ⭐ 195,677 |
-| [Docling](https://github.com/docling-project/docling) | Python | Document | Parses PDFs, office files, HTML, images, and audio into structured document representations. | 2024-07-09 | 2026-11-16 | ⭐ 70,647 |
-| [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Skill library | Document; Dataset | Provides reusable scientific research workflows and access patterns for public databases. | 2025-10-19 | 2026-11-16 | ⭐ 57,418 |
-| [Marker](https://github.com/datalab-to/marker) | Python | Document | Converts PDFs and other documents into Markdown, JSON, tables, and structured text. | 2023-10-30 | 2026-11-14 | ⭐ 40,936 |
-| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | Python | Document | Adds searchable OCR text layers to scanned PDF documents. | 2013-12-20 | 2026-11-16 | ⭐ 35,331 |
-| [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) | Java | Document | Extracts text, tables, layout, and structured content from PDF documents. | 2025-05-13 | 2026-11-16 | ⭐ 30,310 |
-| [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Library + skill + MCP | Document | Gives agents programmatic, source-grounded access to NotebookLM research workflows. | 2026-01-07 | 2026-11-07 | ⭐ 20,250 |
-| [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | Research skill system | Document | Orchestrates long-running research, cross-model review, experiments, and evidence capture. | 2026-03-10 | 2026-11-14 | ⭐ 19,295 |
-| [Unstructured](https://github.com/Unstructured-IO/unstructured) | Python | Document | Normalizes documents and extracts elements for search, analytics, and RAG pipelines. | 2022-09-26 | 2026-11-14 | ⭐ 15,747 |
-| [OpenRefine](https://github.com/OpenRefine/OpenRefine) | Java | Dataset | Cleans, transforms, reconciles, and links inconsistent structured data. | 2012-10-15 | 2026-11-12 | ⭐ 12,107 |
-| [NotebookLM CLI and MCP](https://github.com/jacob-bd/gemini-notebook-mcp-cli) | CLI + skill + MCP | Document | Connects AI agents to NotebookLM for cited source ingestion, querying, and synthesis. | 2025-12-23 | 2026-11-14 | ⭐ 6,521 |
-| [GLiNER](https://github.com/urchade/GLiNER) | Python | Text | Recognizes user-defined entity types in unstructured text without task-specific retraining. | 2023-11-14 | 2026-11-11 | ⭐ 4,267 |
-| [Apache Tika](https://github.com/apache/tika) | Java | Document | Detects file types and extracts text and metadata from many document formats. | 2009-05-21 | 2026-11-16 | ⭐ 4,150 |
-| [IPED](https://github.com/sepinf-inc/IPED) | Java | File; Document | Processes and indexes digital evidence, extracting files, documents, and derived artefacts for analysis. | 2015-06-12 | 2026-11-11 | ⭐ 3,101 |
-| [Splink](https://github.com/moj-analytical-services/splink) | Python | Name; Organization Name; Dataset | Performs probabilistic entity resolution and deduplication across imperfect records. | 2019-11-22 | 2026-11-11 | ⭐ 2,586 |
-| [Aleph](https://github.com/alephdata/aleph) | JavaScript | Organization Name | Lets investigators search documents and structured data for people and companies. | 2014-08-27 | 2025-12-19 | ⭐ 2,512 |
-| [cloud_enum](https://github.com/initstring/cloud_enum) | Python | Organization Name | Enumerates public cloud resources associated with organization keywords. | 2019-05-31 | 2026-10-04 | ⭐ 2,166 |
-| [Agentset](https://github.com/agentset-ai/agentset) | Research system + MCP | Document | Provides document ingestion, agentic search, ranking, citations, RAG, and MCP access. | 2025-03-10 | 2026-10-28 | ⭐ 2,127 |
-| [Open Semantic Search](https://github.com/opensemanticsearch/open-semantic-search) | Shell | Document | Searches, extracts, and links entities across large document collections. | 2016-03-30 | 2025-04-19 | ⭐ 1,234 |
-| [PDF Reader MCP](https://github.com/SylphxAI/anymd) | MCP server + CLI | Document | Analyzes PDFs through MCP while retaining page references, visual crops, and OCR provenance. | 2025-04-04 | 2026-11-16 | ⭐ 1,070 |
-| [OpenSanctions](https://github.com/opensanctions/opensanctions) | Python | Organization Name | Builds searchable data on sanctions, entities, and persons of interest. | 2015-12-05 | 2026-11-16 | ⭐ 877 |
-| [emploleaks](https://github.com/infobyte/emploleaks) | Python | Organization Name | Identifies company employees appearing in credential leak data. | 2023-04-21 | 2026-05-19 | ⭐ 808 |
-| [Docling MCP](https://github.com/docling-project/docling-mcp) | MCP server | Document | Exposes document conversion and structured extraction from files and URLs through MCP. | 2025-03-14 | 2026-11-14 | ⭐ 794 |
-| [ICIJ Datashare](https://github.com/ICIJ/datashare) | Java | Document | Indexes investigative documents, runs OCR, and extracts people, organizations, and locations. | 2016-04-20 | 2026-11-13 | ⭐ 783 |
-| [ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) | Python | Document | Provides local document intelligence, retrieval, and relationship analysis for investigations. | 2025-11-25 | 2026-01-25 | ⭐ 505 |
-| [Claude Skills for Journalism](https://github.com/jamditis/claude-skills-journalism) | Skills + plugins | URL; Document | Covers source verification, public records, FOIA work, scraping, and newsroom research. | 2025-12-25 | 2026-11-12 | ⭐ 455 |
-| [ICIJ Extract](https://github.com/ICIJ/extract) | Python | Document | Extracts searchable text and metadata from investigative document collections. | 2015-05-07 | 2026-11-13 | ⭐ 257 |
+| [MarkItDown](https://github.com/microsoft/markitdown) | Python | Document | Converts common document and media formats into Markdown for analysis. | 2024-11-13 | 2026-11-07 | ⭐ 198,037 |
+| [Docling](https://github.com/docling-project/docling) | Python | Document | Parses PDFs, office files, HTML, images, and audio into structured document representations. | 2024-07-09 | 2026-11-23 | ⭐ 70,920 |
+| [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Skill library | Document; Dataset | Provides reusable scientific research workflows and access patterns for public databases. | 2025-10-19 | 2026-11-23 | ⭐ 58,204 |
+| [Marker](https://github.com/datalab-to/marker) | Python | Document | Converts PDFs and other documents into Markdown, JSON, tables, and structured text. | 2023-10-30 | 2026-11-20 | ⭐ 41,031 |
+| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | Python | Document | Adds searchable OCR text layers to scanned PDF documents. | 2013-12-20 | 2026-11-16 | ⭐ 35,379 |
+| [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) | Java | Document | Extracts text, tables, layout, and structured content from PDF documents. | 2025-05-13 | 2026-11-23 | ⭐ 30,360 |
+| [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Library + skill + MCP | Document | Gives agents programmatic, source-grounded access to NotebookLM research workflows. | 2026-01-07 | 2026-11-19 | ⭐ 20,350 |
+| [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | Research skill system | Document | Orchestrates long-running research, cross-model review, experiments, and evidence capture. | 2026-03-10 | 2026-11-19 | ⭐ 19,652 |
+| [Unstructured](https://github.com/Unstructured-IO/unstructured) | Python | Document | Normalizes documents and extracts elements for search, analytics, and RAG pipelines. | 2022-09-26 | 2026-11-19 | ⭐ 15,775 |
+| [OpenRefine](https://github.com/OpenRefine/OpenRefine) | Java | Dataset | Cleans, transforms, reconciles, and links inconsistent structured data. | 2012-10-15 | 2026-11-17 | ⭐ 12,117 |
+| [NotebookLM CLI and MCP](https://github.com/jacob-bd/gemini-notebook-mcp-cli) | CLI + skill + MCP | Document | Connects AI agents to NotebookLM for cited source ingestion, querying, and synthesis. | 2025-12-23 | 2026-11-22 | ⭐ 6,561 |
+| [GLiNER](https://github.com/urchade/GLiNER) | Python | Text | Recognizes user-defined entity types in unstructured text without task-specific retraining. | 2023-11-14 | 2026-11-11 | ⭐ 4,289 |
+| [Apache Tika](https://github.com/apache/tika) | Java | Document | Detects file types and extracts text and metadata from many document formats. | 2009-05-21 | 2026-11-23 | ⭐ 4,155 |
+| [IPED](https://github.com/sepinf-inc/IPED) | Java | File; Document | Processes and indexes digital evidence, extracting files, documents, and derived artefacts for analysis. | 2015-06-12 | 2026-11-23 | ⭐ 3,107 |
+| [Splink](https://github.com/moj-analytical-services/splink) | Python | Name; Organization Name; Dataset | Performs probabilistic entity resolution and deduplication across imperfect records. | 2019-11-22 | 2026-11-11 | ⭐ 2,596 |
+| [Aleph](https://github.com/alephdata/aleph) | JavaScript | Organization Name | Lets investigators search documents and structured data for people and companies. | 2014-08-27 | 2025-12-19 | ⭐ 2,515 |
+| [cloud_enum](https://github.com/initstring/cloud_enum) | Python | Organization Name | Enumerates public cloud resources associated with organization keywords. | 2019-05-31 | 2026-10-04 | ⭐ 2,167 |
+| [Agentset](https://github.com/agentset-ai/agentset) | Research system + MCP | Document | Provides document ingestion, agentic search, ranking, citations, RAG, and MCP access. | 2025-03-10 | 2026-10-28 | ⭐ 2,130 |
+| [Open Semantic Search](https://github.com/opensemanticsearch/open-semantic-search) | Shell | Document | Searches, extracts, and links entities across large document collections. | 2016-03-30 | 2025-04-19 | ⭐ 1,235 |
+| [PDF Reader MCP](https://github.com/SylphxAI/anymd) | MCP server + CLI | Document | Analyzes PDFs through MCP while retaining page references, visual crops, and OCR provenance. | 2025-04-04 | 2026-11-23 | ⭐ 1,078 |
+| [OpenSanctions](https://github.com/opensanctions/opensanctions) | Python | Organization Name | Builds searchable data on sanctions, entities, and persons of interest. | 2015-12-05 | 2026-11-23 | ⭐ 882 |
+| [emploleaks](https://github.com/infobyte/emploleaks) | Python | Organization Name | Identifies company employees appearing in credential leak data. | 2023-04-21 | 2026-05-19 | ⭐ 807 |
+| [Docling MCP](https://github.com/docling-project/docling-mcp) | MCP server | Document | Exposes document conversion and structured extraction from files and URLs through MCP. | 2025-03-14 | 2026-11-23 | ⭐ 802 |
+| [ICIJ Datashare](https://github.com/ICIJ/datashare) | Java | Document | Indexes investigative documents, runs OCR, and extracts people, organizations, and locations. | 2016-04-20 | 2026-11-23 | ⭐ 783 |
+| [ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) | Python | Document | Provides local document intelligence, retrieval, and relationship analysis for investigations. | 2025-11-25 | 2026-01-25 | ⭐ 508 |
+| [Claude Skills for Journalism](https://github.com/jamditis/claude-skills-journalism) | Skills + plugins | URL; Document | Covers source verification, public records, FOIA work, scraping, and newsroom research. | 2025-12-25 | 2026-11-12 | ⭐ 459 |
+| [ICIJ Extract](https://github.com/ICIJ/extract) | Python | Document | Extracts searchable text and metadata from investigative document collections. | 2015-05-07 | 2026-11-23 | ⭐ 257 |
 | [Simple PubMed MCP](https://github.com/andybrandt/mcp-simple-pubmed) | MCP server | Document | Searches PubMed and retrieves biomedical article metadata and abstracts. | 2024-12-11 | 2026-11-12 | ⭐ 171 |
-| [mcp.science](https://github.com/pathintegral-institute/mcp.science) | MCP server | Document; Dataset | Connects agents to scientific literature search and research data services. | 2025-03-27 | 2025-09-02 | ⭐ 157 |
-| [Data Commons Agent Toolkit](https://github.com/datacommonsorg/agent-toolkit) | MCP toolkit | Dataset | Connects agents and MCP clients to the public Data Commons knowledge graph. | 2025-06-26 | 2026-11-13 | ⭐ 149 |
+| [mcp.science](https://github.com/pathintegral-institute/mcp.science) | MCP server | Document; Dataset | Connects agents to scientific literature search and research data services. | 2025-03-27 | 2025-09-02 | ⭐ 159 |
+| [Data Commons Agent Toolkit](https://github.com/datacommonsorg/agent-toolkit) | MCP toolkit | Dataset | Connects agents and MCP clients to the public Data Commons knowledge graph. | 2025-06-26 | 2026-11-21 | ⭐ 149 |
 | [Academia MCP](https://github.com/IlyaGusev/academia_mcp) | MCP server | Document | Searches academic sources and retrieves papers for agent-assisted literature research. | 2025-01-24 | 2026-10-30 | ⭐ 94 |
 | [Bellingcat Sugartrail](https://github.com/bellingcat/sugartrail) | Python | Organization Name | Builds relationship graphs from UK companies, officers, and registered addresses. | 2022-09-04 | 2026-02-20 | ⭐ 81 |
 | [ZotPilot](https://github.com/xunhe730/ZotPilot) | Skill + MCP | Document | Connects Zotero collections to source-grounded research and agent workflows. | 2026-03-16 | 2026-06-16 | ⭐ 74 |
-| [OpenAlex Research MCP](https://github.com/oksure/openalex-research-mcp) | MCP server | Document | Queries OpenAlex works, authors, institutions, concepts, and citation relationships. | 2025-10-05 | 2026-11-12 | ⭐ 60 |
-| [DocumentCloud](https://github.com/MuckRock/documentcloud) | Python | Document | Provides the backend for uploading, processing, searching, and publishing source documents. | 2019-09-09 | 2026-11-10 | ⭐ 54 |
+| [OpenAlex Research MCP](https://github.com/oksure/openalex-research-mcp) | MCP server | Document | Queries OpenAlex works, authors, institutions, concepts, and citation relationships. | 2025-10-05 | 2026-11-12 | ⭐ 61 |
+| [DocumentCloud](https://github.com/MuckRock/documentcloud) | Python | Document | Provides the backend for uploading, processing, searching, and publishing source documents. | 2019-09-09 | 2026-11-16 | ⭐ 54 |
 | [Semantic Scholar Skills](https://github.com/zongmin-yu/semantic-scholar-skills) | Skills + MCP | Document | Supports literature discovery, citation expansion, and structured Semantic Scholar research. | 2026-03-10 | 2026-03-16 | ⭐ 22 |
-| [Hermes OSINT Skill](https://github.com/mtjikuzu/hermes-osint-skill) | Skill | Name; Organization Name | Structures company due diligence, background checks, vendor risk, and privacy review. | 2026-05-22 | 2026-05-22 | ⭐ 12 |
-| [MetaScout](https://github.com/gorkemguler/MetaScout) | Python | Domain; URL | Discovers published documents on domains and URLs, extracts metadata with ExifTool, and reports exposed identities, paths, and software details. | 2026-08-21 | 2026-10-07 | ⭐ 11 |
-| [Newsroom Extension](https://github.com/ehurrn/newsroom-extension) | Skill pack | Organization Name; Document | Supports investigative journalism, FOIA work, corporate research, verification, and editorial review. | 2026-04-06 | 2026-06-22 | ⭐ 9 |
+| [Hermes OSINT Skill](https://github.com/mtjikuzu/hermes-osint-skill) | Skill | Name; Organization Name | Structures company due diligence, background checks, vendor risk, and privacy review. | 2026-05-22 | 2026-05-22 | ⭐ 13 |
+| [MetaScout](https://github.com/gorkemguler/MetaScout) | Python | Domain; URL | Discovers published documents on domains and URLs, extracts metadata with ExifTool, and reports exposed identities, paths, and software details. | 2026-08-21 | 2026-10-07 | ⭐ 12 |
+| [Newsroom Extension](https://github.com/ehurrn/newsroom-extension) | Skill pack | Organization Name; Document | Supports investigative journalism, FOIA work, corporate research, verification, and editorial review. | 2026-04-06 | 2026-06-22 | ⭐ 10 |
 | [Company Recon Skill](https://github.com/zoharbabin/company-recon-skill) | Skill | Organization Name; URL | Identifies websites using a company's technology and classifies the resulting evidence. | 2026-03-04 | 2026-03-04 | ⭐ 5 |
 | [ConsentTheater Playbill](https://codeberg.org/ConsentTheater/playbill) | TypeScript | Organization Name; URL | Maintains a queryable knowledge base of trackers, cookies, domains, and responsible companies. | 2026-05-31 | 2026-11-06 | ⭐ 3 |
 | [Infringement Information Collector](https://github.com/11murmur/infringement-information-collector) | Skill | Organization Name; URL | Collects public leads about counterfeits, private servers, and piracy into auditable reports. | 2026-05-31 | 2026-06-01 | ⭐ 2 |
 | [OpenProbe](https://github.com/hxd0818/openprobe) | Skill | Name; Organization Name | Investigates companies, competitors, supply chains, capital links, and key people. | 2026-04-12 | 2026-05-08 | ⭐ 2 |
 | [Scout](https://github.com/indigokarasu/scout) | Skill pack | Name; Organization Name | Structures lawful people and company research with provenance, source tiers, and refresh workflows. | 2026-03-10 | 2026-10-21 | ⭐ 1 |
 | [MBOX Viewer](https://github.com/RishvinReddy/mbox-viewer) | TypeScript | File | Parses MBOX email archives in the browser and supports message search, header inspection, communication analysis, and indicator extraction. | 2026-07-15 | 2026-07-25 | ⭐ 1 |
-| [openParlData.ch Web Archive](https://gitlab.com/opendata.ch/openparldatach/web-archive) | Web archive pipeline | URL | Archives Swiss parliamentary websites with Browsertrix and serves them through pywb. | 2026-04-02 | 2026-11-08 | ⭐ 0 |
+| [openParlData.ch Web Archive](https://gitlab.com/opendata.ch/openparldatach/web-archive) | Web archive pipeline | URL | Archives Swiss parliamentary websites with Browsertrix and serves them through pywb. | 2026-04-02 | 2026-11-22 | ⭐ 0 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
 
@@ -607,53 +607,53 @@ Tools for image, video, audio, metadata, verification, and media forensics.
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Whisper](https://github.com/openai/whisper) | Python | Audio | Runs multilingual speech recognition, translation, and language identification locally. | 2022-09-16 | 2026-08-31 | ⭐ 112,793 |
-| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | Image; Document | Performs multilingual OCR, document layout analysis, and structured text extraction. | 2020-05-08 | 2026-09-16 | ⭐ 92,761 |
-| [Tesseract](https://github.com/tesseract-ocr/tesseract) | C++ | Image; Document | Provides a multilingual optical character recognition engine. | 2014-08-12 | 2026-11-15 | ⭐ 77,538 |
-| [face_recognition](https://github.com/ageitgey/face_recognition) | Python | Name; Image | Recognizes and compares faces through a Python API and command-line interface. | 2017-03-03 | 2026-06-25 | ⭐ 56,902 |
-| [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | C++ | Audio | Provides an efficient C and C++ implementation for local Whisper transcription. | 2022-09-25 | 2026-11-16 | ⭐ 55,241 |
-| [Frigate](https://github.com/blakeblackshear/frigate) | TypeScript | Image; Video | Records and analyzes local IP-camera streams with real-time object detection, tracking, and search. | 2019-01-26 | 2026-11-16 | ⭐ 37,500 |
-| [InsightFace](https://github.com/deepinsight/insightface) | Python | Name; Image | Performs face detection, alignment, recognition, and embedding analysis across multiple runtimes. | 2017-09-01 | 2026-10-19 | ⭐ 30,235 |
-| [WhisperX](https://github.com/m-bain/whisperX) | Python | Audio | Adds word-level timestamps and speaker diarization to speech transcription. | 2022-12-09 | 2026-11-12 | ⭐ 25,371 |
-| [DeepFace](https://github.com/serengil/deepface) | Python | Name; Image | Performs face verification, recognition, search, and facial attribute analysis. | 2020-02-08 | 2026-11-16 | ⭐ 23,703 |
-| [Vosk](https://github.com/alphacep/vosk-api) | Python | Audio | Runs offline speech recognition across many languages on desktop, server, and mobile targets. | 2019-09-03 | 2026-10-15 | ⭐ 15,266 |
-| [pyannote.audio](https://github.com/pyannote/pyannote-audio) | Python | Audio | Performs speaker diarisation, voice activity detection, and speaker change detection on recordings. | 2016-03-07 | 2026-11-09 | ⭐ 10,804 |
-| [CompreFace](https://github.com/exadel-inc/CompreFace) | Java | Name; Image | Provides self-hosted face detection, recognition, verification, and similarity search through a REST API. | 2020-07-06 | 2023-11-14 | ⭐ 8,427 |
-| [docTR](https://github.com/mindee/doctr) | Python | Image; Document | Detects and recognizes text in document images using deep-learning models. | 2021-01-08 | 2026-11-13 | ⭐ 6,434 |
-| [ZoneMinder](https://github.com/ZoneMinder/zoneminder) | PHP | Image; Video | Monitors, records, and reviews IP, USB, and analog camera feeds. | 2013-04-12 | 2026-11-16 | ⭐ 5,991 |
-| [ExifTool](https://github.com/exiftool/exiftool) | Perl | Image | Reads and writes metadata embedded in images and other file formats. | 2018-05-09 | 2026-11-10 | ⭐ 5,266 |
-| [Torchreid](https://github.com/KaiyangZhou/deep-person-reid) | Python | Name; Video | Re-identifies people across images and camera views with pretrained models and training tools. | 2018-03-11 | 2026-01-09 | ⭐ 4,949 |
-| [motionEye](https://github.com/motioneye-project/motioneye) | Python | Image; Video | Provides web-based multi-camera monitoring, motion detection, recording, and review. | 2015-08-30 | 2026-11-15 | ⭐ 4,725 |
-| [ImageHash](https://github.com/JohannesBuchner/imagehash) | Python | Image | Calculates perceptual image hashes for similarity and duplicate-image comparison. | 2013-03-02 | 2026-10-12 | ⭐ 3,887 |
-| [Search by Image](https://github.com/dessant/search-by-image) | JavaScript | Image | Sends images to multiple reverse-image search engines from Chrome, Edge, and Safari. | 2017-06-17 | 2026-06-27 | ⭐ 3,827 |
-| [Viseron](https://github.com/roflcoopter/viseron) | Python | Image; Video | Analyzes local camera feeds with motion, object, face, and license-plate detection. | 2020-08-30 | 2026-11-16 | ⭐ 3,731 |
-| [Human](https://github.com/vladmandic/human) | TypeScript | Name; Image | Performs face detection, recognition, matching, and broader human analysis in browsers and Node.js. | 2020-10-11 | 2025-12-13 | ⭐ 3,386 |
-| [Sherloq](https://github.com/GuidoBartoli/sherloq) | Python | Image | Combines metadata, error-level, noise, clone, splice, and resampling analysis for images. | 2017-06-24 | 2026-07-16 | ⭐ 3,263 |
-| [DeepCamera](https://github.com/SharpAI/DeepCamera) | JavaScript | Image; Video | Analyzes camera feeds with local vision models, face recognition, re-identification, and configurable AI skills. | 2019-03-05 | 2026-09-17 | ⭐ 3,144 |
-| [clearcam](https://github.com/roryclear/clearcam) | Python | Image; Video | Adds object detection, tracking, notifications, summaries, and search to security-camera feeds. | 2025-01-04 | 2026-11-06 | ⭐ 2,659 |
-| [RetinaFace](https://github.com/serengil/retinaface) | Python | Image | Detects, aligns, and extracts faces from images for downstream comparison workflows. | 2021-04-25 | 2026-10-09 | ⭐ 2,072 |
-| [MediaInfo](https://github.com/MediaArea/MediaInfo) | C++ | Video; Audio | Extracts technical metadata from audio, video, image, and container formats. | 2014-06-10 | 2026-11-14 | ⭐ 2,069 |
-| [Photonix](https://github.com/photonixapp/photonix) | Python | Image | Organizes and searches local photo collections using faces, objects, locations, and visual attributes. | 2017-03-07 | 2026-10-28 | ⭐ 1,956 |
-| [unblink](https://github.com/zapdos-labs/unblink) | Go | Image; Video | Uses vision-language models to monitor camera feeds and search recorded frames with natural language. | 2025-11-05 | 2026-03-09 | ⭐ 1,517 |
-| [OpenOCR](https://github.com/Topdu/OpenOCR) | Python | Image; Document | Provides an open toolkit for text detection and recognition in images and documents. | 2024-05-31 | 2026-09-21 | ⭐ 1,497 |
-| [HomeGallery](https://github.com/xemle/home-gallery) | JavaScript | Image | Indexes local photos and videos for reverse-image lookup, face search, and semantic discovery. | 2020-12-22 | 2026-11-07 | ⭐ 1,217 |
-| [Horus](https://github.com/6abd/horus) | Python | Image | Performs local image and digital evidence analysis. | 2024-01-21 | 2026-07-29 | ⭐ 1,171 |
-| [camera.ui](https://github.com/cameraui/camera.ui) | TypeScript | Image; Video | Records, monitors, and searches local camera feeds with on-device detection workflows. | 2021-10-27 | 2026-11-15 | ⭐ 1,151 |
-| [Kerberos Agent](https://github.com/kerberos-io/agent) | Go | Image; Video | Runs local video monitoring, recording, motion analysis, and event capture for RTSP camera streams. | 2020-08-12 | 2026-11-04 | ⭐ 1,134 |
-| [gallery-dl](https://codeberg.org/mikf/gallery-dl) | Python | Image | Downloads image galleries and media collections from supported websites. | 2026-03-24 | 2026-11-15 | ⭐ 581 |
-| [VibeNVR](https://github.com/spupuz/VibeNVR) | JavaScript | Image; Video | Provides privacy-focused local camera recording and monitoring without a cloud dependency. | 2026-01-15 | 2026-11-05 | ⭐ 424 |
-| [SentryShot](https://github.com/SentryShot/sentryshot) | Rust | Image; Video | Records camera streams and applies local object detection through a web video-management interface. | 2023-10-29 | 2026-04-27 | ⭐ 366 |
+| [Whisper](https://github.com/openai/whisper) | Python | Audio | Runs multilingual speech recognition, translation, and language identification locally. | 2022-09-16 | 2026-08-31 | ⭐ 113,427 |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | Image; Document | Performs multilingual OCR, document layout analysis, and structured text extraction. | 2020-05-08 | 2026-09-16 | ⭐ 93,073 |
+| [Tesseract](https://github.com/tesseract-ocr/tesseract) | C++ | Image; Document | Provides a multilingual optical character recognition engine. | 2014-08-12 | 2026-11-23 | ⭐ 77,625 |
+| [face_recognition](https://github.com/ageitgey/face_recognition) | Python | Name; Image | Recognizes and compares faces through a Python API and command-line interface. | 2017-03-03 | 2026-06-25 | ⭐ 56,918 |
+| [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | C++ | Audio | Provides an efficient C and C++ implementation for local Whisper transcription. | 2022-09-25 | 2026-11-23 | ⭐ 55,445 |
+| [Frigate](https://github.com/blakeblackshear/frigate) | TypeScript | Image; Video | Records and analyzes local IP-camera streams with real-time object detection, tracking, and search. | 2019-01-26 | 2026-11-23 | ⭐ 37,878 |
+| [InsightFace](https://github.com/deepinsight/insightface) | Python | Name; Image | Performs face detection, alignment, recognition, and embedding analysis across multiple runtimes. | 2017-09-01 | 2026-10-19 | ⭐ 30,286 |
+| [WhisperX](https://github.com/m-bain/whisperX) | Python | Audio | Adds word-level timestamps and speaker diarization to speech transcription. | 2022-12-09 | 2026-11-21 | ⭐ 25,620 |
+| [DeepFace](https://github.com/serengil/deepface) | Python | Name; Image | Performs face verification, recognition, search, and facial attribute analysis. | 2020-02-08 | 2026-11-20 | ⭐ 23,728 |
+| [Vosk](https://github.com/alphacep/vosk-api) | Python | Audio | Runs offline speech recognition across many languages on desktop, server, and mobile targets. | 2019-09-03 | 2026-10-15 | ⭐ 15,282 |
+| [pyannote.audio](https://github.com/pyannote/pyannote-audio) | Python | Audio | Performs speaker diarisation, voice activity detection, and speaker change detection on recordings. | 2016-03-07 | 2026-11-19 | ⭐ 10,836 |
+| [CompreFace](https://github.com/exadel-inc/CompreFace) | Java | Name; Image | Provides self-hosted face detection, recognition, verification, and similarity search through a REST API. | 2020-07-06 | 2023-11-14 | ⭐ 8,433 |
+| [docTR](https://github.com/mindee/doctr) | Python | Image; Document | Detects and recognizes text in document images using deep-learning models. | 2021-01-08 | 2026-11-23 | ⭐ 6,438 |
+| [ZoneMinder](https://github.com/ZoneMinder/zoneminder) | PHP | Image; Video | Monitors, records, and reviews IP, USB, and analog camera feeds. | 2013-04-12 | 2026-11-23 | ⭐ 5,998 |
+| [ExifTool](https://github.com/exiftool/exiftool) | Perl | Image | Reads and writes metadata embedded in images and other file formats. | 2018-05-09 | 2026-11-16 | ⭐ 5,296 |
+| [Torchreid](https://github.com/KaiyangZhou/deep-person-reid) | Python | Name; Video | Re-identifies people across images and camera views with pretrained models and training tools. | 2018-03-11 | 2026-01-09 | ⭐ 4,950 |
+| [motionEye](https://github.com/motioneye-project/motioneye) | Python | Image; Video | Provides web-based multi-camera monitoring, motion detection, recording, and review. | 2015-08-30 | 2026-11-20 | ⭐ 4,732 |
+| [ImageHash](https://github.com/JohannesBuchner/imagehash) | Python | Image | Calculates perceptual image hashes for similarity and duplicate-image comparison. | 2013-03-02 | 2026-11-22 | ⭐ 3,889 |
+| [Search by Image](https://github.com/dessant/search-by-image) | JavaScript | Image | Sends images to multiple reverse-image search engines from Chrome, Edge, and Safari. | 2017-06-17 | 2026-06-27 | ⭐ 3,836 |
+| [Viseron](https://github.com/roflcoopter/viseron) | Python | Image; Video | Analyzes local camera feeds with motion, object, face, and license-plate detection. | 2020-08-30 | 2026-11-16 | ⭐ 3,735 |
+| [Human](https://github.com/vladmandic/human) | TypeScript | Name; Image | Performs face detection, recognition, matching, and broader human analysis in browsers and Node.js. | 2020-10-11 | 2025-12-13 | ⭐ 3,396 |
+| [Sherloq](https://github.com/GuidoBartoli/sherloq) | Python | Image | Combines metadata, error-level, noise, clone, splice, and resampling analysis for images. | 2017-06-24 | 2026-07-16 | ⭐ 3,268 |
+| [DeepCamera](https://github.com/SharpAI/DeepCamera) | JavaScript | Image; Video | Analyzes camera feeds with local vision models, face recognition, re-identification, and configurable AI skills. | 2019-03-05 | 2026-09-17 | ⭐ 3,145 |
+| [clearcam](https://github.com/roryclear/clearcam) | Python | Image; Video | Adds object detection, tracking, notifications, summaries, and search to security-camera feeds. | 2025-01-04 | 2026-11-19 | ⭐ 2,785 |
+| [MediaInfo](https://github.com/MediaArea/MediaInfo) | C++ | Video; Audio | Extracts technical metadata from audio, video, image, and container formats. | 2014-06-10 | 2026-11-23 | ⭐ 2,076 |
+| [RetinaFace](https://github.com/serengil/retinaface) | Python | Image | Detects, aligns, and extracts faces from images for downstream comparison workflows. | 2021-04-25 | 2026-10-09 | ⭐ 2,071 |
+| [Photonix](https://github.com/photonixapp/photonix) | Python | Image | Organizes and searches local photo collections using faces, objects, locations, and visual attributes. | 2017-03-07 | 2026-10-28 | ⭐ 1,953 |
+| [unblink](https://github.com/zapdos-labs/unblink) | Go | Image; Video | Uses vision-language models to monitor camera feeds and search recorded frames with natural language. | 2025-11-05 | 2026-03-09 | ⭐ 1,518 |
+| [OpenOCR](https://github.com/Topdu/OpenOCR) | Python | Image; Document | Provides an open toolkit for text detection and recognition in images and documents. | 2024-05-31 | 2026-09-21 | ⭐ 1,498 |
+| [HomeGallery](https://github.com/xemle/home-gallery) | JavaScript | Image | Indexes local photos and videos for reverse-image lookup, face search, and semantic discovery. | 2020-12-22 | 2026-11-07 | ⭐ 1,215 |
+| [Horus](https://github.com/6abd/horus) | Python | Image | Performs local image and digital evidence analysis. | 2024-01-21 | 2026-07-29 | ⭐ 1,177 |
+| [camera.ui](https://github.com/cameraui/camera.ui) | TypeScript | Image; Video | Records, monitors, and searches local camera feeds with on-device detection workflows. | 2021-10-27 | 2026-11-19 | ⭐ 1,153 |
+| [Kerberos Agent](https://github.com/kerberos-io/agent) | Go | Image; Video | Runs local video monitoring, recording, motion analysis, and event capture for RTSP camera streams. | 2020-08-12 | 2026-11-22 | ⭐ 1,134 |
+| [gallery-dl](https://codeberg.org/mikf/gallery-dl) | Python | Image | Downloads image galleries and media collections from supported websites. | 2026-03-24 | 2026-11-22 | ⭐ 591 |
+| [VibeNVR](https://github.com/spupuz/VibeNVR) | JavaScript | Image; Video | Provides privacy-focused local camera recording and monitoring without a cloud dependency. | 2026-01-15 | 2026-11-23 | ⭐ 425 |
+| [SentryShot](https://github.com/SentryShot/sentryshot) | Rust | Image; Video | Records camera streams and applies local object detection through a web video-management interface. | 2023-10-29 | 2026-04-27 | ⭐ 364 |
 | [eye_of_web](https://github.com/MehmetYukselSekeroglu/eye_of_web) | Python | Image | Provides an open-source workflow for face-based image search. | 2025-12-31 | 2026-01-18 | ⭐ 344 |
-| [GVision](https://github.com/GONZOsint/gvision) | Python | Image | Uses image analysis to detect landmarks and related web entities. | 2023-03-29 | 2024-12-08 | ⭐ 277 |
+| [GVision](https://github.com/GONZOsint/gvision) | Python | Image | Uses image analysis to detect landmarks and related web entities. | 2023-03-29 | 2024-12-08 | ⭐ 279 |
 | [Project Eyes On](https://github.com/Y0oshi/Project-Eyes-On) | Python | Video | Finds publicly accessible IP-camera streams through public directories and web-search queries. | 2026-01-10 | 2026-08-26 | ⭐ 256 |
-| [ExifTool Web](https://github.com/lucasgelfond/exiftool-web) | Svelte | Image | Runs ExifTool metadata inspection in a browser through WebAssembly. | 2025-02-22 | 2026-01-10 | ⭐ 161 |
-| [IntelHub](https://github.com/tomsec8/IntelHub) | JavaScript | URL; Image | Adds local browser tools for metadata, archives, dorking, and OSINT lookups. | 2025-05-15 | 2026-10-01 | ⭐ 127 |
+| [ExifTool Web](https://github.com/lucasgelfond/exiftool-web) | Svelte | Image | Runs ExifTool metadata inspection in a browser through WebAssembly. | 2025-02-22 | 2026-01-10 | ⭐ 163 |
+| [IntelHub](https://github.com/tomsec8/IntelHub) | JavaScript | URL; Image | Adds local browser tools for metadata, archives, dorking, and OSINT lookups. | 2025-05-15 | 2026-10-01 | ⭐ 128 |
 | [goris](https://github.com/tanaikech/goris) | Go | Image | Runs Google reverse-image searches from the command line. | 2017-04-26 | 2026-07-07 | ⭐ 126 |
 | [EfficientIR](https://github.com/Sg4Dylan/EfficientIR) | Python | Image | Finds similar and duplicate images in local collections using visual embeddings. | 2020-03-30 | 2024-07-22 | ⭐ 113 |
-| [lingolens](https://github.com/OSINT-mindset/lingolens) | HTML | Image | Runs multilingual Google Lens searches and exports the results. | 2023-03-10 | 2026-05-29 | ⭐ 88 |
+| [lingolens](https://github.com/OSINT-mindset/lingolens) | HTML | Image | Runs multilingual Google Lens searches and exports the results. | 2023-03-10 | 2026-05-29 | ⭐ 89 |
 | [PhotOSINT](https://github.com/Haris87/photosint) | JavaScript | Image | Extracts image metadata and adds reverse-image search actions to the browser. | 2019-09-15 | 2021-07-13 | ⭐ 63 |
 | [OpenArchive Save](https://github.com/OpenArchive/Save-app-ios) | Swift | File | Captures and preserves mobile media with secure storage and provenance-oriented workflows. | 2018-06-06 | 2026-07-28 | ⭐ 20 |
-| [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) | Kotlin | File | Adds hashes, signatures, sensor data, and C2PA provenance to captured mobile media. | 2022-01-10 | 2026-11-12 | ⭐ 18 |
+| [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) | Kotlin | File | Adds hashes, signatures, sensor data, and C2PA provenance to captured mobile media. | 2022-01-10 | 2026-11-18 | ⭐ 18 |
 | [Amanu](https://gitlab.com/varg.alejandro25/amanu) | Python | Audio | Runs local speech transcription and assigns timestamped passages to detected speakers. | 2026-07-09 | 2026-07-20 | ⭐ 1 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
@@ -666,36 +666,36 @@ Tools for locations, coordinates, maps, wireless identifiers, aircraft, and sate
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [World Monitor](https://github.com/koala73/worldmonitor) | TypeScript | Location | Unifies geopolitical news, infrastructure, and event monitoring in one dashboard. | 2026-01-08 | 2026-11-16 | ⭐ 90,744 |
-| [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | Coordinates; Location | Overlays live public satellite and spatial intelligence feeds on an interactive browser globe. | 2026-06-22 | 2026-11-16 | ⭐ 65,236 |
-| [QGIS](https://github.com/qgis/QGIS) | C++ | Location | Provides a complete desktop environment for geospatial data analysis and mapping. | 2011-05-02 | 2026-11-16 | ⭐ 14,843 |
-| [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | Location | Tracks aircraft, satellites, seismic events, and other global activity. | 2026-03-05 | 2026-11-15 | ⭐ 11,582 |
-| [GeoLibre](https://github.com/opengeos/GeoLibre) | Python | Location; Image | Provides open geospatial and remote-sensing analysis workflows. | 2026-05-27 | 2026-11-16 | ⭐ 8,672 |
-| [Google Maps Scraper by gosom](https://github.com/gosom/google-maps-scraper) | Go | Organization Name; Location | Collects structured place and business information from Google Maps. | 2023-04-22 | 2026-11-15 | ⭐ 8,130 |
-| [OSMnx](https://github.com/gboeing/osmnx) | Python | Location | Downloads, models, and analyzes street networks and other OpenStreetMap features. | 2016-07-24 | 2026-11-15 | ⭐ 5,900 |
-| [Google Maps Scraper by omkarcloud](https://github.com/omkarcloud/google-maps-scraper) | Python | Organization Name; Location | Provides an alternative workflow for extracting business and place data from Google Maps. | 2023-05-19 | 2026-11-08 | ⭐ 3,937 |
-| [GeoAI](https://github.com/opengeos/geoai) | Python | Location; Image | Applies machine-learning and computer-vision workflows to geospatial data. | 2023-08-11 | 2026-11-16 | ⭐ 3,477 |
-| [dump1090](https://github.com/antirez/dump1090) | C | Aircraft ID | Decodes Mode S transponder messages from RTL-SDR receivers into live aircraft data. | 2013-01-05 | 2026-02-15 | ⭐ 2,974 |
-| [IPinfo CLI](https://github.com/ipinfo/cli) | Go | IP Address; ASN | Queries IP geolocation, ASN, privacy, and network data from the command line. | 2020-10-23 | 2026-10-29 | ⭐ 2,216 |
-| [asn](https://github.com/nitefood/asn) | Shell | IP Address; ASN | Reports ASN, BGP, geolocation, reputation, and routing information for IPs. | 2020-07-22 | 2026-10-02 | ⭐ 1,953 |
-| [Global Threat Map](https://github.com/unicodeveloper/globalthreatmap) | TypeScript | Location | Maps conflicts, military bases, and historical geopolitical data. | 2026-01-22 | 2026-07-02 | ⭐ 1,871 |
-| [GeoWiFi](https://github.com/GONZOsint/geowifi) | Python | Location; BSSID / SSID | Queries public Wi-Fi geolocation sources using BSSIDs and SSIDs. | 2022-02-05 | 2026-09-09 | ⭐ 1,520 |
-| [Satpy](https://github.com/pytroll/satpy) | Python | Location; Image | Loads, transforms, composites, and exports meteorological satellite observations. | 2016-02-09 | 2026-11-05 | ⭐ 1,216 |
-| [GeoIntel](https://github.com/atiilla/GeoIntel) | HTML | Location; Image | Uses assisted image analysis to estimate where a photograph was taken. | 2024-01-22 | 2026-03-09 | ⭐ 1,167 |
-| [CoastSat](https://github.com/kvos/CoastSat) | Python | Location; Image | Extracts and analyzes shoreline change from public satellite imagery. | 2018-09-28 | 2026-05-29 | ⭐ 913 |
-| [readsb](https://github.com/wiedehopf/readsb) | C | Aircraft ID | Decodes and forwards ADS-B and Mode S feeds, aggregating aircraft positions from multiple receivers. | 2021-01-02 | 2026-11-11 | ⭐ 708 |
-| [OSINT Mapping Tool](https://github.com/anonymousRAID/OSINT-Mapping-Tool) | JavaScript | Location | Organizes investigation data and geographic findings on an interactive map. | 2026-05-18 | 2026-07-05 | ⭐ 683 |
+| [World Monitor](https://github.com/koala73/worldmonitor) | TypeScript | Location | Unifies geopolitical news, infrastructure, and event monitoring in one dashboard. | 2026-01-08 | 2026-11-23 | ⭐ 91,101 |
+| [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | Coordinates; Location | Overlays live public satellite and spatial intelligence feeds on an interactive browser globe. | 2026-06-22 | 2026-11-23 | ⭐ 66,464 |
+| [QGIS](https://github.com/qgis/QGIS) | C++ | Location | Provides a complete desktop environment for geospatial data analysis and mapping. | 2011-05-02 | 2026-11-23 | ⭐ 14,872 |
+| [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | Location | Tracks aircraft, satellites, seismic events, and other global activity. | 2026-03-05 | 2026-11-23 | ⭐ 11,623 |
+| [GeoLibre](https://github.com/opengeos/GeoLibre) | Python | Location; Image | Provides open geospatial and remote-sensing analysis workflows. | 2026-05-27 | 2026-11-23 | ⭐ 8,781 |
+| [Google Maps Scraper by gosom](https://github.com/gosom/google-maps-scraper) | Go | Organization Name; Location | Collects structured place and business information from Google Maps. | 2023-04-22 | 2026-11-22 | ⭐ 8,349 |
+| [OSMnx](https://github.com/gboeing/osmnx) | Python | Location | Downloads, models, and analyzes street networks and other OpenStreetMap features. | 2016-07-24 | 2026-11-18 | ⭐ 5,908 |
+| [Google Maps Scraper by omkarcloud](https://github.com/omkarcloud/google-maps-scraper) | Python | Organization Name; Location | Provides an alternative workflow for extracting business and place data from Google Maps. | 2023-05-19 | 2026-11-08 | ⭐ 3,971 |
+| [GeoAI](https://github.com/opengeos/geoai) | Python | Location; Image | Applies machine-learning and computer-vision workflows to geospatial data. | 2023-08-11 | 2026-11-23 | ⭐ 3,486 |
+| [dump1090](https://github.com/antirez/dump1090) | C | Aircraft ID | Decodes Mode S transponder messages from RTL-SDR receivers into live aircraft data. | 2013-01-05 | 2026-02-15 | ⭐ 2,977 |
+| [IPinfo CLI](https://github.com/ipinfo/cli) | Go | IP Address; ASN | Queries IP geolocation, ASN, privacy, and network data from the command line. | 2020-10-23 | 2026-10-29 | ⭐ 2,226 |
+| [asn](https://github.com/nitefood/asn) | Shell | IP Address; ASN | Reports ASN, BGP, geolocation, reputation, and routing information for IPs. | 2020-07-22 | 2026-10-02 | ⭐ 1,954 |
+| [Global Threat Map](https://github.com/unicodeveloper/globalthreatmap) | TypeScript | Location | Maps conflicts, military bases, and historical geopolitical data. | 2026-01-22 | 2026-07-02 | ⭐ 1,877 |
+| [GeoWiFi](https://github.com/GONZOsint/geowifi) | Python | Location; BSSID / SSID | Queries public Wi-Fi geolocation sources using BSSIDs and SSIDs. | 2022-02-05 | 2026-09-09 | ⭐ 1,524 |
+| [Satpy](https://github.com/pytroll/satpy) | Python | Location; Image | Loads, transforms, composites, and exports meteorological satellite observations. | 2016-02-09 | 2026-11-20 | ⭐ 1,216 |
+| [GeoIntel](https://github.com/atiilla/GeoIntel) | HTML | Location; Image | Uses assisted image analysis to estimate where a photograph was taken. | 2024-01-22 | 2026-03-09 | ⭐ 1,168 |
+| [CoastSat](https://github.com/kvos/CoastSat) | Python | Location; Image | Extracts and analyzes shoreline change from public satellite imagery. | 2018-09-28 | 2026-05-29 | ⭐ 914 |
+| [readsb](https://github.com/wiedehopf/readsb) | C | Aircraft ID | Decodes and forwards ADS-B and Mode S feeds, aggregating aircraft positions from multiple receivers. | 2021-01-02 | 2026-11-11 | ⭐ 707 |
+| [OSINT Mapping Tool](https://github.com/anonymousRAID/OSINT-Mapping-Tool) | JavaScript | Location | Organizes investigation data and geographic findings on an interactive map. | 2026-05-18 | 2026-07-05 | ⭐ 684 |
 | [pyModeS](https://github.com/junzis/pyModeS) | Python | Aircraft ID | Decodes Mode S and ADS-B messages into aircraft identification, position, and velocity values. | 2015-03-17 | 2026-11-11 | ⭐ 674 |
-| [ShadowFinder](https://github.com/bellingcat/ShadowFinder) | Python | Location | Estimates possible locations from the geometry of shadows in an image. | 2024-05-01 | 2026-09-03 | ⭐ 627 |
-| [Sightline](https://github.com/ni5arga/sightline) | TypeScript | Location | Searches OpenStreetMap data for real-world infrastructure patterns. | 2026-01-25 | 2026-05-10 | ⭐ 576 |
-| [ExifLooter](https://github.com/aydinnyunus/exifLooter) | Go | Image | Finds geolocation metadata in local and remote images and maps the results. | 2022-07-30 | 2026-01-16 | ⭐ 504 |
-| [OpenSky API](https://github.com/openskynetwork/opensky-api) | Python | Aircraft ID | Client bindings for the OpenSky Network API of live and historical flight state data. | 2016-03-21 | 2026-11-05 | ⭐ 478 |
-| [EODAG](https://github.com/CS-SI/eodag) | Python | Location; Image | Searches and downloads Earth observation products from multiple data providers. | 2019-08-22 | 2026-11-16 | ⭐ 441 |
-| [Refloow Geo Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) | JavaScript | Location; Coordinates; Image | Extracts media metadata, maps coordinates, and reconstructs event timelines. | 2026-02-04 | 2026-09-12 | ⭐ 236 |
-| [Bellingcat OSM Search](https://github.com/bellingcat/osm-search) | TypeScript | Location | Finds combinations of OpenStreetMap features based on their geographic proximity. | 2022-10-05 | 2026-07-07 | ⭐ 217 |
-| [Velocity](https://github.com/AndrewCTF/velocity) | Python | Location; Aircraft ID; Event Data | Self-hosted situation console that fuses public aircraft, maritime, satellite, hazard, and conflict feeds with provenance, replay, and evidence capture. | 2026-06-12 | 2026-10-23 | ⭐ 156 |
-| [Bellingcat ADS-B History](https://github.com/bellingcat/adsb-history) | TypeScript | Location; Aircraft ID | Stores historical ADS-B observations and supports spatial, temporal, and aircraft filtering. | 2025-08-22 | 2026-03-05 | ⭐ 100 |
-| [Copernicus Browser](https://github.com/eu-cdse/copernicus-browser) | JavaScript | Location; Image | Searches, visualizes, and compares Earth observation data from Copernicus services. | 2023-08-08 | 2026-11-06 | ⭐ 96 |
+| [ShadowFinder](https://github.com/bellingcat/ShadowFinder) | Python | Location | Estimates possible locations from the geometry of shadows in an image. | 2024-05-01 | 2026-09-03 | ⭐ 631 |
+| [Sightline](https://github.com/ni5arga/sightline) | TypeScript | Location | Searches OpenStreetMap data for real-world infrastructure patterns. | 2026-01-25 | 2026-05-10 | ⭐ 577 |
+| [ExifLooter](https://github.com/aydinnyunus/exifLooter) | Go | Image | Finds geolocation metadata in local and remote images and maps the results. | 2022-07-30 | 2026-01-16 | ⭐ 503 |
+| [OpenSky API](https://github.com/openskynetwork/opensky-api) | Python | Aircraft ID | Client bindings for the OpenSky Network API of live and historical flight state data. | 2016-03-21 | 2026-11-05 | ⭐ 476 |
+| [EODAG](https://github.com/CS-SI/eodag) | Python | Location; Image | Searches and downloads Earth observation products from multiple data providers. | 2019-08-22 | 2026-11-23 | ⭐ 441 |
+| [Refloow Geo Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) | JavaScript | Location; Coordinates; Image | Extracts media metadata, maps coordinates, and reconstructs event timelines. | 2026-02-04 | 2026-11-22 | ⭐ 237 |
+| [Bellingcat OSM Search](https://github.com/bellingcat/osm-search) | TypeScript | Location | Finds combinations of OpenStreetMap features based on their geographic proximity. | 2022-10-05 | 2026-07-07 | ⭐ 218 |
+| [Velocity](https://github.com/AndrewCTF/velocity) | Python | Location; Aircraft ID; Event Data | Self-hosted situation console that fuses public aircraft, maritime, satellite, hazard, and conflict feeds with provenance, replay, and evidence capture. | 2026-06-12 | 2026-11-22 | ⭐ 159 |
+| [Bellingcat ADS-B History](https://github.com/bellingcat/adsb-history) | TypeScript | Location; Aircraft ID | Stores historical ADS-B observations and supports spatial, temporal, and aircraft filtering. | 2025-08-22 | 2026-03-05 | ⭐ 99 |
+| [Copernicus Browser](https://github.com/eu-cdse/copernicus-browser) | JavaScript | Location; Image | Searches, visualizes, and compares Earth observation data from Copernicus services. | 2023-08-08 | 2026-11-19 | ⭐ 95 |
 | [IntellyWeave](https://github.com/vericle/intellyweave) | Python | URL; Location; Document | Combines archive discovery, entity extraction, maps, graphs, and document analysis. | 2025-12-12 | 2026-01-12 | ⭐ 79 |
 | [Dark Light Viewer](https://github.com/bendobrown/Dark-Light-Viewer) | JavaScript | Location; Coordinates | Compares VIIRS nighttime light imagery across time in Google Earth Engine and exports detected changes as GeoJSON. | 2026-03-03 | 2026-10-28 | ⭐ 60 |
 | [Bellingcat Geoclustering](https://github.com/bellingcat/geoclustering) | Python | Location | Groups and explores geographic observations to identify spatial patterns. | 2022-06-29 | 2026-07-07 | ⭐ 45 |
@@ -703,8 +703,8 @@ Tools for locations, coordinates, maps, wireless identifiers, aircraft, and sate
 | [NEXUS](https://github.com/Kit4Some/NEXUsint) | Python | Domain; IP Address; URL; Location; File Hash | Combines live multi-INT feeds, knowledge graphs, maps, and assisted analysis in a desktop platform. | 2026-03-20 | 2026-03-30 | ⭐ 20 |
 | [Bellingcat CouncilSearcher](https://github.com/bellingcat/CouncilSearcher) | Python | Location | Searches local-government documents and records across supported council websites. | 2025-05-07 | 2026-01-07 | ⭐ 17 |
 | [Vantage](https://github.com/thometnanni/vantage) | Elixir | Location; Image | Reconstructs image and video viewpoints inside three-dimensional environments. | 2024-11-15 | 2026-05-13 | ⭐ 15 |
-| [Bellingcat OSINT Toolkit Skills](https://github.com/CasualSecurityInc/Bellingcat-OSINT-Toolkit) | Skill pack | - | Packages hundreds of investigation resources by geolocation, media, identity, transport, and conflict use case. | 2026-07-12 | 2026-07-12 | ⭐ 9 |
-| [Vidit](https://github.com/vidithq/vidit) | Python | Coordinates; Location; Image; Video; URL | Self-hosted platform for archiving, reviewing, and mapping geolocated armed-conflict events with sources, media, and analyst verification. | 2026-06-06 | 2026-11-11 | ⭐ 7 |
+| [Bellingcat OSINT Toolkit Skills](https://github.com/CasualSecurityInc/Bellingcat-OSINT-Toolkit) | Skill pack | - | Packages hundreds of investigation resources by geolocation, media, identity, transport, and conflict use case. | 2026-07-12 | 2026-07-12 | ⭐ 10 |
+| [Vidit](https://github.com/vidithq/vidit) | Python | Coordinates; Location; Image; Video; URL | Self-hosted platform for archiving, reviewing, and mapping geolocated armed-conflict events with sources, media, and analyst verification. | 2026-06-06 | 2026-11-18 | ⭐ 8 |
 | [Geo Trajectory Analysis](https://github.com/eyal-weiss/geo-trajectory-analysis) | Skill | Location; Video | Applies a documented video-geolocation method to estimate missile launch origins. | 2026-03-23 | 2026-03-23 | ⭐ 3 |
 | [Geolocation Skill](https://github.com/zuocharles/geolocation-skill) | Skill | Location; Image | Guides photo geolocation with visual clues, map queries, and source references. | 2026-03-30 | 2026-03-31 | ⭐ 2 |
 | [Aircraft Research Skill](https://github.com/WPTK/aircraft-research-claude-skill) | Skill | Aircraft ID | Agent skill that traces an airframe registration through public records to its owning entities. | 2026-06-08 | 2026-06-17 | ⭐ 2 |
@@ -720,13 +720,13 @@ Tools for cryptocurrency addresses, blockchain activity, and transaction analysi
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) | Python | Crypto Address | Extracts Ethereum blocks, transactions, token transfers, and logs into queryable datasets. | 2018-05-02 | 2026-01-25 | ⭐ 3,133 |
-| [Manuscript](https://github.com/chainbase-labs/manuscript-core) | Rust | Crypto Address | Streams on-chain and off-chain data into systems prepared for analysis. | 2024-09-24 | 2026-08-09 | ⭐ 695 |
-| [Bitcoin ETL](https://github.com/blockchain-etl/bitcoin-etl) | Python | Crypto Address | Exports Bitcoin-family blockchain data into analysis-friendly formats. | 2018-09-13 | 2025-05-02 | ⭐ 463 |
+| [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) | Python | Crypto Address | Extracts Ethereum blocks, transactions, token transfers, and logs into queryable datasets. | 2018-05-02 | 2026-01-25 | ⭐ 3,132 |
+| [Manuscript](https://github.com/chainbase-labs/manuscript-core) | Rust | Crypto Address | Streams on-chain and off-chain data into systems prepared for analysis. | 2024-09-24 | 2026-08-09 | ⭐ 694 |
+| [Bitcoin ETL](https://github.com/blockchain-etl/bitcoin-etl) | Python | Crypto Address | Exports Bitcoin-family blockchain data into analysis-friendly formats. | 2018-09-13 | 2025-05-02 | ⭐ 462 |
 | [all-in-one-bot](https://github.com/uerax/all-in-one-bot) | Go | Crypto Address | Tracks on-chain activity and market signals through a Telegram interface. | 2023-03-28 | 2026-09-17 | ⭐ 189 |
 | [GraphSense Dashboard](https://github.com/graphsense/graphsense-dashboard) | Elm | Crypto Address | Provides interactive exploration of cryptocurrency transactions and entities. | 2017-10-18 | 2026-10-30 | ⭐ 143 |
-| [GraphSense Library](https://github.com/graphsense/graphsense-lib) | Python | Crypto Address | Supplies CLI and backend utilities for cryptocurrency analytics workflows. | 2022-10-11 | 2026-11-02 | ⭐ 21 |
-| [Wash Trade Scanner](https://github.com/Yog-Sotho/Wash-Trade-Scanner) | Python | Crypto Address | Audits blockchain activity for wash trading and artificial volume patterns. | 2026-04-16 | 2026-11-02 | ⭐ 3 |
+| [GraphSense Library](https://github.com/graphsense/graphsense-lib) | Python | Crypto Address | Supplies CLI and backend utilities for cryptocurrency analytics workflows. | 2022-10-11 | 2026-11-19 | ⭐ 22 |
+| [Wash Trade Scanner](https://github.com/Yog-Sotho/Wash-Trade-Scanner) | Python | Crypto Address | Audits blockchain activity for wash trading and artificial volume patterns. | 2026-04-16 | 2026-11-19 | ⭐ 3 |
 | [PolyShadow](https://github.com/Ha1o/PolyShadow) | Python | Crypto Address | Monitors new Polymarket wallets for unusual high-value positions. | 2026-01-10 | 2026-02-23 | ⭐ 2 |
 | [BitSleuth Analyzer](https://github.com/jamespepper81/Analyzer) | TypeScript | Crypto Address | Analyzes Bitcoin wallets, transaction patterns, and mempool activity. | 2025-08-05 | 2026-07-07 | ⭐ 2 |
 
@@ -740,38 +740,38 @@ Cross-cutting investigation, case-management, correlation, and research workspac
 
 | Project | Type | Target Input | Description | Created | Last Update | Stars |
 |:---|:---|:---|:---|:---:|:---:|---:|
-| [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Skill library | - | Packages extensive offensive, defensive, CTI, forensics, and reconnaissance procedures. | 2026-02-25 | 2026-08-31 | ⭐ 36,228 |
-| [Claude Skills](https://github.com/alirezarezvani/claude-skills) | Skills + plugins | - | Includes research, security, market analysis, compliance, and evidence-oriented agent skills. | 2025-10-19 | 2026-11-16 | ⭐ 29,879 |
-| [osiris](https://github.com/simplifaisoul/osiris) | TypeScript | - | Aggregates live aviation, maritime, camera, seismic, wildfire, news, weather, space, cyber, sanctions, and public Telegram data in a real-time situational-awareness dashboard. | 2026-05-12 | 2026-11-14 | ⭐ 11,771 |
-| [Flowsint](https://github.com/reconurge/flowsint) | TypeScript | Name; Organization Name | Explores investigation entities and enrichments in a local graph-based workspace. | 2025-01-31 | 2026-10-18 | ⭐ 10,195 |
-| [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) | Python | Name; Username; Phone Number; Domain | Combines multiple identity, domain, phone, and social investigation modules. | 2021-06-23 | 2026-02-21 | ⭐ 4,423 |
-| [Argus](https://github.com/divinelabio/Argus) | Python | Keyword | Combines multiple information gathering modules in a command-line toolkit. | 2024-10-01 | 2025-12-10 | ⭐ 4,329 |
-| [CTF Skills](https://github.com/ljagiello/ctf-skills) | Skill pack | - | Supplies agent workflows for CTF categories including OSINT, forensics, and web investigation. | 2026-02-01 | 2026-11-15 | ⭐ 3,722 |
-| [Timesketch](https://github.com/google/timesketch) | Python | Event Data | Supports collaborative search, annotation, and analysis across multiple event timelines. | 2014-06-19 | 2026-11-12 | ⭐ 3,451 |
-| [sn0int](https://github.com/kpcyrd/sn0int) | Rust | - | Provides a semi-automatic OSINT framework with installable modules. | 2018-10-05 | 2026-09-20 | ⭐ 2,567 |
-| [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | Agent + CLI + MCP | - | Combines OSINT tools in an interactive agent, command-line interface, and MCP server. | 2026-05-06 | 2026-11-15 | ⭐ 1,940 |
-| [Hackingtool Plugin](https://github.com/AKCodez/hackingtool-plugin) | Plugin + skill | - | Makes a large catalogue of pentest and OSINT tools discoverable and runnable by Claude. | 2026-04-23 | 2026-10-01 | ⭐ 1,172 |
-| [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) | Python | Keyword; Location; Event Data | Provides an MCP server, CLI, and dashboard for cited multi-source global intelligence, geofenced monitoring, alerts, and situation briefs. | 2025-11-29 | 2026-10-18 | ⭐ 1,080 |
-| [Seekr](https://github.com/seekr-osint/seekr) | Go | Keyword | Offers a multi-purpose OSINT toolkit through a web interface. | 2022-12-06 | 2026-06-16 | ⭐ 892 |
-| [The Big Brother](https://github.com/chadi0x/TheBigBrother) | Python + web console | - | Provides a multi-module public-source investigation console for identity, infrastructure, media, geolocation, and cryptocurrency workflows. | 2025-12-08 | 2026-11-14 | ⭐ 786 |
-| [PANO](https://github.com/ALW1EZ/PANO) | Python | Name; Organization Name; Event Data | Combines link graphs, timelines, notes, and assisted investigation features. | 2024-12-30 | 2026-02-13 | ⭐ 628 |
-| [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) | Python | Name; Organization Name | Represents investigation entities and relationships in an extensible visual workspace. | 2021-09-15 | 2025-02-06 | ⭐ 499 |
-| [OGI](https://github.com/khashashin/ogi) | Python | Name; Organization Name | Provides link analysis and open-source intelligence investigation workflows. | 2026-02-28 | 2026-11-16 | ⭐ 349 |
+| [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Skill library | - | Packages extensive offensive, defensive, CTI, forensics, and reconnaissance procedures. | 2026-02-25 | 2026-08-31 | ⭐ 36,624 |
+| [Claude Skills](https://github.com/alirezarezvani/claude-skills) | Skills + plugins | - | Includes research, security, market analysis, compliance, and evidence-oriented agent skills. | 2025-10-19 | 2026-11-23 | ⭐ 30,332 |
+| [osiris](https://github.com/simplifaisoul/osiris) | TypeScript | - | Aggregates live aviation, maritime, camera, seismic, wildfire, news, weather, space, cyber, sanctions, and public Telegram data in a real-time situational-awareness dashboard. | 2026-05-12 | 2026-11-23 | ⭐ 11,851 |
+| [Flowsint](https://github.com/reconurge/flowsint) | TypeScript | Name; Organization Name | Explores investigation entities and enrichments in a local graph-based workspace. | 2025-01-31 | 2026-10-18 | ⭐ 10,238 |
+| [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) | Python | Name; Username; Phone Number; Domain | Combines multiple identity, domain, phone, and social investigation modules. | 2021-06-23 | 2026-02-21 | ⭐ 4,441 |
+| [Argus](https://github.com/divinelabio/Argus) | Python | Keyword | Combines multiple information gathering modules in a command-line toolkit. | 2024-10-01 | 2025-12-10 | ⭐ 4,361 |
+| [CTF Skills](https://github.com/ljagiello/ctf-skills) | Skill pack | - | Supplies agent workflows for CTF categories including OSINT, forensics, and web investigation. | 2026-02-01 | 2026-11-15 | ⭐ 3,768 |
+| [Timesketch](https://github.com/google/timesketch) | Python | Event Data | Supports collaborative search, annotation, and analysis across multiple event timelines. | 2014-06-19 | 2026-11-12 | ⭐ 3,453 |
+| [sn0int](https://github.com/kpcyrd/sn0int) | Rust | - | Provides a semi-automatic OSINT framework with installable modules. | 2018-10-05 | 2026-09-20 | ⭐ 2,570 |
+| [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | Agent + CLI + MCP | - | Combines OSINT tools in an interactive agent, command-line interface, and MCP server. | 2026-05-06 | 2026-11-15 | ⭐ 1,964 |
+| [Hackingtool Plugin](https://github.com/AKCodez/hackingtool-plugin) | Plugin + skill | - | Makes a large catalogue of pentest and OSINT tools discoverable and runnable by Claude. | 2026-04-23 | 2026-10-01 | ⭐ 1,184 |
+| [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) | Python | Keyword; Location; Event Data | Provides an MCP server, CLI, and dashboard for cited multi-source global intelligence, geofenced monitoring, alerts, and situation briefs. | 2025-11-29 | 2026-10-18 | ⭐ 1,086 |
+| [Seekr](https://github.com/seekr-osint/seekr) | Go | Keyword | Offers a multi-purpose OSINT toolkit through a web interface. | 2022-12-06 | 2026-06-16 | ⭐ 894 |
+| [The Big Brother](https://github.com/chadi0x/TheBigBrother) | Python + web console | - | Provides a multi-module public-source investigation console for identity, infrastructure, media, geolocation, and cryptocurrency workflows. | 2025-12-08 | 2026-11-14 | ⭐ 787 |
+| [PANO](https://github.com/ALW1EZ/PANO) | Python | Name; Organization Name; Event Data | Combines link graphs, timelines, notes, and assisted investigation features. | 2024-12-30 | 2026-02-13 | ⭐ 629 |
+| [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) | Python | Name; Organization Name | Represents investigation entities and relationships in an extensible visual workspace. | 2021-09-15 | 2025-02-06 | ⭐ 500 |
+| [OGI](https://github.com/khashashin/ogi) | Python | Name; Organization Name | Provides link analysis and open-source intelligence investigation workflows. | 2026-02-28 | 2026-11-16 | ⭐ 350 |
 | [FollowTheMoney](https://github.com/alephdata/followthemoney) | Python | Name; Organization Name; Dataset | Defines an investigative data model for entities, assets, documents, and relationships. | 2017-10-20 | 2025-06-27 | ⭐ 309 |
 | [Huntkit](https://github.com/assafkip/investigators-copilot) | Skills + MCP | Name; Organization Name; Event Data | Organizes cases, targets, findings, timelines, evidence hashes, and chain-of-custody records. | 2026-04-15 | 2026-11-02 | ⭐ 76 |
-| [OSINT Skills](https://github.com/UseOSINT/Skills) | Skills + plugin | - | Provides 28 source-grounded skills for agent-led OSINT workflows, evidence grading, and investigative reporting. | 2026-08-02 | 2026-08-03 | ⭐ 63 |
-| [OSINT Agent Skills](https://github.com/frangelbarrera/osint-agent-skills) | Skills + MCP | - | Combines OSINT playbooks, agent instructions, report templates, and MCP tool definitions. | 2026-06-27 | 2026-10-02 | ⭐ 52 |
+| [OSINT Skills](https://github.com/UseOSINT/Skills) | Skills + plugin | - | Provides 28 source-grounded skills for agent-led OSINT workflows, evidence grading, and investigative reporting. | 2026-08-02 | 2026-08-03 | ⭐ 66 |
+| [OSINT Agent Skills](https://github.com/frangelbarrera/osint-agent-skills) | Skills + MCP | - | Combines OSINT playbooks, agent instructions, report templates, and MCP tool definitions. | 2026-06-27 | 2026-10-02 | ⭐ 54 |
 | [OSINT-NEXUS](https://github.com/Muhib-Mehdi/OSINT-NEXUS) | Python | Name; Organization Name | Combines multi-target collection, entity correlation, graphs, and reporting in a desktop application. | 2025-12-30 | 2026-08-15 | ⭐ 46 |
 | [deep-recon](https://github.com/kvarnelis/deep-recon) | Skill | - | Coordinates multi-agent research and stores reconnaissance findings in Obsidian. | 2026-02-18 | 2026-02-21 | ⭐ 44 |
+| [Claude OSINT Deploy](https://github.com/soxoj/claude-osint-deploy) | Skill | - | Installs, runs, and verifies OSINT tools from public repositories inside an agent session. | 2026-08-25 | 2026-08-28 | ⭐ 29 |
 | [OpenTrace](https://github.com/Gacut/OpenTrace) | Python | Name; URL; Document; Image | Offline desktop workspace for structuring OSINT cases with evidence, relationships, hypotheses, provenance details, and portable exports. | 2026-07-23 | 2026-08-06 | ⭐ 27 |
-| [Claude OSINT Deploy](https://github.com/soxoj/claude-osint-deploy) | Skill | - | Installs, runs, and verifies OSINT tools from public repositories inside an agent session. | 2026-08-25 | 2026-08-28 | ⭐ 26 |
-| [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) | Skill + MCP | - | Exposes a classified OSINT tool index, query builders, and identifier validators as a skill and MCP server. | 2026-07-10 | 2026-11-02 | ⭐ 25 |
+| [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) | Skill + MCP | - | Exposes a classified OSINT tool index, query builders, and identifier validators as a skill and MCP server. | 2026-07-10 | 2026-11-22 | ⭐ 26 |
 | [Abster Intelligence](https://github.com/frangelbarrera/Abster-Intelligence) | TypeScript | Name; Organization Name; Event Data | Provides a local-first workspace for evidence, relationship graphs, timelines, OSINT lookups, and reports. | 2026-04-10 | 2026-10-02 | ⭐ 24 |
 | [FileGrail](https://github.com/osintshifu/filegrail) | Python CLI + MCP server | File | Examines file provenance, metadata, operating-system and application traces, investigative identifiers, and evidence relationships locally, with a read-only MCP interface. | 2026-08-31 | 2026-10-04 | ⭐ 8 |
 | [OSINT Investigation](https://github.com/reichaves/osint-investigation) | Skill | Name; Username; Location; Image | Guides geolocation, source verification, entity profiling, and social-media investigation. | 2026-05-02 | 2026-05-03 | ⭐ 7 |
 | [OSINT Investigator](https://github.com/TNeagle/osint-investigator) | Skill | Name; Organization Name; Location; Coordinates | Coordinates multi-domain investigations, public-record research, geolocation, and intelligence reports. | 2026-03-18 | 2026-03-20 | ⭐ 3 |
+| [Claude OSINT Plugin](https://github.com/lawriec/claude-osint-plugin) | Plugin + skills + MCP | URL; Image | Adds an intelligence-cycle methodology and configured search, media, archive, and analysis MCP servers. | 2026-04-09 | 2026-05-10 | ⭐ 3 |
 | [OSINT Researcher](https://github.com/MrBridgeHQ/osint-researcher-claude) | Skill | - | Provides scoped OSINT, CTI, due diligence, and evidence-reporting procedures. | 2026-07-01 | 2026-07-06 | ⭐ 3 |
-| [Claude OSINT Plugin](https://github.com/lawriec/claude-osint-plugin) | Plugin + skills + MCP | URL; Image | Adds an intelligence-cycle methodology and configured search, media, archive, and analysis MCP servers. | 2026-04-09 | 2026-05-10 | ⭐ 2 |
 | [OSINT Investigator for OpenClaw](https://github.com/Elyasuuuuu/osint-investigator) | Skill | Name; Username; Email; Organization Name; Domain; IP Address | Correlates usernames, emails, domains, IPs, organizations, and public profile evidence. | 2026-03-16 | 2026-03-16 | ⭐ 1 |
 
 <p align="right"><a href="#contents">Back to contents ↑</a></p>
